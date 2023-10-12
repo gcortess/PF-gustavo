@@ -1,0 +1,1101 @@
+"","...1.x","Data Venda","User ID","Product ID","Product Name","Brand","Category","Price","Rating","Color","Size","Unique ID","...1.y","Motivo devolução"
+"1",1,"10/29/2022",19,1,"Dress","Adidas","Men's Fashion",43,2.57756934759258,"Black","XL","ID100000000",17,"Arrependimento"
+"2",2,"5/12/2022",97,2,"Shoes","H&M","Women's Fashion",56,2.44859707779194,"Black","L","ID100900901",NA,NA
+"3",3,"7/26/2022",25,3,"Dress","Adidas","Women's Fashion",71,2.82685811818921,"Yellow","XL","ID101801802",NA,NA
+"4",4,"1/4/2022",57,4,"Shoes","Zara",NA,47,3.05348592983804,"White","S","ID102702703",18,"Não informado"
+"5",5,"12/24/2022",79,5,"T-shirt","Adidas","Men's Fashion",51,2.43582578316266,"Black","M","ID103603604",NA,NA
+"6",6,"1/22/2022",98,6,"Dress","Adidas","Men's Fashion",23,2.1539437509119,"Yellow","L","ID104504504",100,"Produto com defeito"
+"7",7,"7/12/2022",16,7,"Jeans","Gucci","Men's Fashion",15,1.56788153620531,"White","XL","ID105405405",93,"Não informado"
+"8",8,"12/10/2022",63,8,"Sweater","Zara","Kids' Fashion",44,2.29615144804673,"Blue","XL","ID106306306",NA,NA
+"9",9,"2/2/2022",96,9,"Sweater","H&M","Men's Fashion",58,2.76109723603835,"Green","XL","ID107207207",NA,NA
+"10",10,"8/24/2022",36,10,"T-shirt","Zara","Kids' Fashion",38,1.84187651826143,"White","XL","ID108108108",NA,NA
+"11",11,"1/17/2022",69,11,"T-shirt","Adidas","Men's Fashion",60,2.95318749985046,"Red","S","ID109009009",46,"Produto com defeito"
+"12",12,"9/20/2022",87,12,"Sweater","Gucci","Kids' Fashion",61,3.15684928775274,"Yellow","M","ID109909910",NA,NA
+"13",13,"7/30/2022",9,13,"Jeans","Nike","Kids' Fashion",30,1.93512703898529,"Red","M","ID110810811",146,"Produto com defeito"
+"14",14,"4/30/2022",50,14,"Dress","Zara","Women's Fashion",58,2.50029155976557,"White","L","ID111711712",NA,NA
+"15",15,"9/21/2022",31,15,"Shoes","Zara","Men's Fashion",43,2.38961236476284,"Yellow","M","ID112612613",NA,NA
+"16",16,"4/10/2022",37,NA,"Dress","Adidas","Women's Fashion",44,2.46186172546859,"Blue","S","ID113513513",111,"Produto com defeito"
+"17",17,"8/7/2022",41,17,"Dress","Gucci","Women's Fashion",55,3.17392351865159,"Blue","XL","ID114414414",121,"Arrependimento"
+"18",18,"12/31/2022",15,18,"Jeans","Gucci","Women's Fashion",47,2.43824712153271,"Red","XL","ID115315315",NA,NA
+"19",19,"1/1/2022",84,19,"Shoes","Gucci","Women's Fashion",42,2.24852165720087,"White","M","ID116216216",NA,NA
+"20",20,"3/26/2022",56,20,"Dress","Gucci","Men's Fashion",34,1.88305563482606,"Green","L","ID117117117",NA,NA
+"21",21,"12/2/2022",87,21,"Jeans","H&M","Men's Fashion",67,2.64010349758292,"Yellow","S","ID118018018",NA,NA
+"22",22,"10/25/2022",56,22,"Jeans","Gucci","Women's Fashion",42,2.42616716302047,"Green","L","ID118918919",NA,NA
+"23",23,"10/29/2022",60,23,"Jeans","Zara","Kids' Fashion",30,1.77936155860949,"Yellow","M","ID119819820",NA,NA
+"24",24,"6/5/2022",64,24,"Jeans",NA,"Women's Fashion",74,3.25991358043754,"Yellow","XL","ID120720721",NA,NA
+"25",25,"6/10/2022",65,25,"Sweater","H&M","Kids' Fashion",37,2.77861351468925,"Green","S","ID121621622",6,"Produto com defeito"
+"26",26,"1/22/2022",26,26,"Dress","Gucci","Women's Fashion",72,3.02603203457844,"Green","S","ID122522522",NA,NA
+"27",27,"9/14/2022",82,27,"T-shirt","Adidas","Kids' Fashion",90,3.72631947176156,"Red","L","ID123423423",NA,NA
+"28",28,"8/14/2022",87,28,"Shoes","Zara","Women's Fashion",NA,3.03277558187887,"Yellow","L","ID124324324",NA,NA
+"29",29,"1/4/2022",98,29,"Shoes","Gucci","Women's Fashion",58,2.60813839383443,"Yellow","M","ID125225225",NA,NA
+"30",30,"10/22/2022",20,30,"Sweater","Nike","Kids' Fashion",75,3.28973074197758,"Green","XL","ID126126126",NA,NA
+"31",31,"12/15/2022",36,31,"Jeans","H&M","Kids' Fashion",67,2.90047544020275,NA,"S","ID127027027",NA,NA
+"32",32,"11/19/2022",98,32,"T-shirt","Nike","Kids' Fashion",60,2.68182686343882,"White","XL","ID127927928",NA,NA
+"33",33,"7/31/2022",69,33,"Jeans","H&M","Kids' Fashion",46,2.65187806256448,"Green","XL","ID128828829",NA,NA
+"34",34,"6/12/2022",31,34,"Jeans","H&M","Men's Fashion",42,2.67830910127242,"Black","S","ID129729730",NA,NA
+"35",35,"9/26/2022",48,35,"Jeans","Zara","Women's Fashion",62,2.53456959592046,"Blue","L","ID130630631",NA,NA
+"36",36,"11/13/2022",18,36,"Dress","H&M","Kids' Fashion",48,2.23433648670827,"Green","S","ID131531531",4,"Produto com defeito"
+"37",37,"2/2/2022",27,37,"Sweater","Zara","Kids' Fashion",56,2.73367013335652,"Blue","S","ID132432432",NA,NA
+"38",38,"8/7/2022",60,38,"T-shirt","Nike","Kids' Fashion",45,2.27002714540064,"Yellow","S","ID133333333",NA,NA
+"39",39,"3/11/2022",46,39,"Jeans","Adidas","Men's Fashion",32,2.19827886189722,"Yellow","M","ID134234234",195,"Não informado"
+"40",40,"4/9/2022",84,40,"Dress","Zara","Women's Fashion",49,2.66136834875885,"Black","XL","ID135135135",NA,NA
+"41",41,"1/12/2022",43,41,"Jeans","Gucci","Women's Fashion",50,2.4905565862504,"Blue","L","ID136036036",NA,NA
+"42",42,"10/31/2022",43,42,"Shoes","Zara","Kids' Fashion",71,3.36631982748126,"Red","S","ID136936937",166,"Não informado"
+"43",43,"10/10/2022",91,43,"T-shirt","Adidas","Men's Fashion",40,1.99231420789152,"White","M","ID137837838",NA,NA
+"44",44,"1/15/2022",78,44,"Jeans","Nike","Kids' Fashion",42,2.43437935809819,"White","M","ID138738739",262,"Arrependimento"
+"45",45,"10/13/2022",60,45,"Jeans","Gucci","Women's Fashion",55,2.57143898345142,"Red","L","ID139639640",NA,NA
+"46",46,"12/21/2022",44,46,"Dress","Zara","Men's Fashion",48,1.84809694293026,"Yellow","XL","ID140540540",NA,NA
+"47",47,"12/15/2022",93,47,"Jeans","Zara","Men's Fashion",28,1.96582928547521,"Green","S","ID141441441",76,"Produto com defeito"
+"48",48,"12/25/2022",74,48,"T-shirt","Gucci","Kids' Fashion",52,2.39983656364478,"Green","M","ID142342342",209,"Arrependimento"
+"49",49,"11/23/2022",19,49,"Sweater","Gucci","Kids' Fashion",38,2.47279439840925,"Green","XL","ID143243243",NA,NA
+"50",50,"1/26/2022",98,50,"T-shirt","H&M","Women's Fashion",44,2.42285182172211,"Blue","L","ID144144144",NA,NA
+"51",51,"6/24/2022",51,51,"Jeans","Adidas","Women's Fashion",55,2.73235213156971,"Yellow","XL","ID145045045",NA,NA
+"52",52,"10/11/2022",80,52,"Dress","Nike","Kids' Fashion",32,2.18928286051269,"Red","S","ID145945946",NA,NA
+"53",53,"5/10/2022",39,53,"T-shirt","Nike","Men's Fashion",90,3.65170509358743,"Red","M","ID146846847",81,"Arrependimento"
+"54",54,"1/11/2022",33,54,"Shoes","H&M","Men's Fashion",61,2.82034122454738,"Blue","S","ID147747748",NA,NA
+"55",55,"8/30/2022",78,55,"Sweater","Adidas","Kids' Fashion",43,2.06287301381604,"Red","S","ID148648649",NA,NA
+"56",56,"1/28/2022",24,NA,"Dress","Nike","Women's Fashion",85,3.28519902499973,"White","XL","ID149549549",311,"Não informado"
+"57",57,"1/17/2022",99,57,"Sweater","Adidas","Women's Fashion",50,2.38338322878856,"Red","M","ID150450450",NA,NA
+"58",58,"1/2/2022",83,58,"Shoes","Adidas","Women's Fashion",89,3.4822556818315,"White","L","ID151351351",169,"Não informado"
+"59",59,"4/7/2022",38,59,"Dress","Nike","Kids' Fashion",76,3.41260841594766,"Blue","M","ID152252252",NA,NA
+"60",60,"12/12/2022",51,60,"Shoes","H&M","Kids' Fashion",27,1.82167178560622,"Yellow","XL","ID153153153",142,"Não informado"
+"61",61,"1/21/2022",63,61,"Shoes","Adidas","Women's Fashion",52,2.74911175444245,"Yellow","M","ID154054054",16,"Produto com defeito"
+"62",62,"10/11/2022",54,62,"T-shirt","Nike","Men's Fashion",71,3.21775704464385,"Blue","L","ID154954955",271,"Produto com defeito"
+"63",63,"8/14/2022",53,63,"Jeans","Zara","Kids' Fashion",76,3.27404903843509,"White","L","ID155855856",NA,NA
+"64",64,"3/8/2022",50,64,"Shoes","Gucci","Kids' Fashion",29,2.03673091694035,"Red","M","ID156756757",193,"Não informado"
+"65",65,"3/7/2022",6,65,"Shoes","H&M","Kids' Fashion",38,1.95754943064796,"Yellow","XL","ID157657658",NA,NA
+"66",66,"8/23/2022",87,66,"Sweater","H&M","Kids' Fashion",21,1.71990407233719,"Red","XL","ID158558558",NA,NA
+"67",67,"12/8/2022",84,67,"Jeans","Gucci","Women's Fashion",51,2.40435889697728,"Green","M","ID159459459",NA,NA
+"68",68,"1/8/2022",43,68,"T-shirt","Gucci","Women's Fashion",56,2.74809925963367,"Red","S","ID160360360",NA,NA
+"69",69,"12/30/2022",3,69,"Sweater","Gucci","Women's Fashion",46,2.55472691937907,"Yellow","M","ID161261261",NA,NA
+"70",70,"12/25/2022",6,70,"Dress","Gucci","Women's Fashion",66,2.7761653593132,"Yellow","M","ID162162162",NA,NA
+"71",71,"10/23/2022",15,71,"Sweater","Adidas","Women's Fashion",50,2.51528688645206,"White","M","ID163063063",NA,NA
+"72",72,"8/27/2022",94,72,"T-shirt","H&M","Women's Fashion",63,2.71940737086355,"Yellow","M","ID163963964",NA,NA
+"73",73,"1/12/2022",98,73,"T-shirt","Gucci","Men's Fashion",64,2.95877839813181,"Red","M","ID164864865",NA,NA
+"74",74,"1/2/2022",6,74,"Dress","Zara","Women's Fashion",65,2.59789339309686,"White","XL","ID165765766",NA,NA
+"75",75,"3/7/2022",42,75,"Dress","H&M","Women's Fashion",51,2.42843644761557,"Blue","S","ID166666667",NA,NA
+"76",76,"8/12/2022",54,76,"Jeans","Adidas","Women's Fashion",47,2.60851134673605,"Black","XL","ID167567567",NA,NA
+"77",77,"4/25/2022",37,77,"Sweater","H&M","Kids' Fashion",51,2.36888432652734,"Blue","L","ID168468468",305,"Produto com defeito"
+"78",78,"1/10/2022",9,78,"T-shirt","Nike","Men's Fashion",43,2.29025271023869,"White","XL","ID169369369",84,"Arrependimento"
+"79",79,"1/15/2022",26,79,"T-shirt","Nike","Men's Fashion",60,2.6781814803068,"Red","L","ID170270270",88,"Arrependimento"
+"80",80,"10/10/2022",71,80,"Jeans",NA,"Kids' Fashion",34,2.29358363808606,"Red","XL","ID171171171",NA,NA
+"81",81,"4/9/2022",72,81,"T-shirt","Nike","Women's Fashion",52,2.29620233799487,"Green","S","ID172072072",339,"Não informado"
+"82",82,"1/12/2022",100,82,"Dress","H&M","Kids' Fashion",57,2.94415475931519,"Blue","S","ID172972973",NA,NA
+"83",83,"1/17/2022",69,83,"Shoes","Nike","Women's Fashion",69,3.14291205368779,"Blue","L","ID173873874",110,"Arrependimento"
+"84",84,"2/12/2022",19,84,"Sweater","Adidas","Women's Fashion",38,1.9768304709124,"Red","L","ID174774775",NA,NA
+"85",85,"10/16/2022",84,85,"Shoes","Nike","Women's Fashion",30,1.628499567323,"Yellow","XL","ID175675676",35,"Arrependimento"
+"86",86,"1/5/2022",4,86,"Sweater","Zara","Men's Fashion",45,2.34643526513313,"Yellow","M","ID176576576",NA,NA
+"87",87,"7/8/2022",21,87,"Shoes","Nike","Men's Fashion",52,2.33002063921136,"Red","S","ID177477477",NA,NA
+"88",88,"7/31/2022",85,88,"Dress","Nike","Kids' Fashion",55,2.46028733760107,"White","L","ID178378378",NA,NA
+"89",89,"1/11/2022",10,89,"Dress","Gucci","Men's Fashion",47,2.12910013155421,"White","L","ID179279279",NA,NA
+"90",90,"1/22/2022",2,90,"Jeans","H&M","Men's Fashion",75,3.14264915733428,"Red","XL","ID180180180",NA,NA
+"91",91,"1/14/2022",NA,91,"Jeans","H&M","Kids' Fashion",38,2.18450269701632,"Green","XL","ID181081081",NA,NA
+"92",92,"1/11/2022",6,92,"Jeans","Adidas","Men's Fashion",39,2.47400291570576,"White","M","ID181981982",216,"Produto com defeito"
+"93",93,"6/5/2022",33,93,"Shoes","Nike","Men's Fashion",72,3.45128312931121,"White","S","ID182882883",NA,NA
+"94",94,"9/21/2022",12,94,"Shoes","Zara","Women's Fashion",52,2.16440992190802,"Yellow","XL","ID183783784",NA,NA
+"95",95,"2/8/2022",NA,95,"Shoes","Gucci","Women's Fashion",34,2.07190358228234,"Blue","S","ID184684685",245,"Não informado"
+"96",96,"7/31/2022",22,96,"Dress","Gucci","Women's Fashion",49,2.38079892883307,"Red","L","ID185585585",NA,NA
+"97",97,"11/12/2022",18,97,"Jeans","Gucci","Men's Fashion",30,2.04805278568028,"Green","L","ID186486486",NA,NA
+"98",98,"8/12/2022",44,98,"Sweater","Gucci","Kids' Fashion",54,2.81466433636908,"Black","XL","ID187387387",NA,NA
+"99",99,"12/8/2022",25,99,"Shoes","Nike","Kids' Fashion",34,2.34883021171173,"Yellow","L","ID188288288",NA,NA
+"100",100,"11/30/2022",79,100,"Shoes","Adidas","Kids' Fashion",36,1.96042848098995,"Red","L","ID189189189",210,"Não informado"
+"101",101,"11/8/2022",52,101,"Jeans","Zara","Women's Fashion",45,2.55567030038418,"Green","XL","ID190090090",125,"Arrependimento"
+"102",102,"6/9/2022",71,102,"Sweater","Gucci","Kids' Fashion",61,2.64997400636135,"Red","S","ID190990991",NA,NA
+"103",103,"1/26/2022",57,103,"Jeans","Zara","Women's Fashion",23,1.65073091607007,NA,"XL","ID191891892",NA,NA
+"104",104,"3/22/2022",64,104,"Jeans","H&M","Men's Fashion",43,2.30882746782971,"White","M","ID192792793",NA,NA
+"105",105,"9/12/2022",35,105,"Jeans","Zara","Women's Fashion",58,2.71369162060206,"Yellow","L","ID193693694",185,"Não informado"
+"106",106,"11/22/2022",63,106,"Jeans","H&M","Kids' Fashion",62,2.99216255412633,"Red","L","ID194594594",NA,NA
+"107",107,"3/10/2022",19,107,"Sweater","Zara","Men's Fashion",55,2.8997869545228,"Red","L","ID195495495",NA,NA
+"108",108,"8/10/2022",80,108,"Sweater","Gucci","Men's Fashion",66,2.99768400416183,"Green","L","ID196396396",NA,NA
+"109",109,"4/9/2022",77,109,"Jeans","Nike","Kids' Fashion",24,1.61679345758371,"Black","XL","ID197297297",NA,NA
+"110",110,"5/8/2022",22,110,"Sweater","Gucci","Women's Fashion",67,2.92566395026425,"Blue","XL","ID198198198",NA,NA
+"111",111,"1/6/2022",99,111,"Shoes","Zara","Women's Fashion",76,3.4886201081157,"Green","M","ID199099099",337,"Arrependimento"
+"112",112,"9/18/2022",92,112,"Jeans","Adidas","Men's Fashion",41,1.66191614299493,"White","S","ID200000000",NA,NA
+"113",113,"10/28/2022",97,113,"T-shirt","Zara","Men's Fashion",71,3.01553752190148,"White","L","ID200900901",53,"Produto com defeito"
+"114",114,"12/12/2022",48,114,"Shoes","H&M","Men's Fashion",53,2.4652479020612,"Red","M","ID201801802",118,"Produto com defeito"
+"115",115,"8/20/2022",37,115,"Dress","Adidas","Kids' Fashion",57,2.39771018038509,"Blue","L","ID202702703",NA,NA
+"116",116,"9/24/2022",77,116,"Shoes","Adidas","Women's Fashion",31,1.90362913798064,"Green","M","ID203603603",NA,NA
+"117",117,"11/9/2022",52,117,"Dress","Zara","Kids' Fashion",54,2.52619660441132,"White","M","ID204504504",NA,NA
+"118",118,"10/22/2022",63,118,"Dress","Adidas","Men's Fashion",71,3.34998205077981,"Yellow","S","ID205405405",NA,NA
+"119",119,"11/28/2022",10,119,"Jeans","Nike","Men's Fashion",11,1.50914872301198,"Yellow","S","ID206306306",NA,NA
+"120",120,"7/30/2022",77,120,"T-shirt","H&M","Men's Fashion",64,3.20771315032828,"Green","M","ID207207207",NA,NA
+"121",121,"11/17/2022",95,121,"T-shirt","Gucci","Men's Fashion",NA,2.75587596520992,"Red","M","ID208108108",154,"Produto com defeito"
+"122",122,NA,90,122,"Sweater","H&M","Women's Fashion",48,2.45858882958471,"Blue","XL","ID209009009",NA,NA
+"123",123,"9/28/2022",80,123,"Sweater","Nike","Women's Fashion",47,2.13513967297416,"Yellow","L","ID209909910",NA,NA
+"124",124,"12/28/2022",65,124,"Sweater","H&M","Men's Fashion",36,2.11075953597103,"Black","L","ID210810811",29,"Produto com defeito"
+"125",125,"5/31/2022",56,125,"Sweater","H&M","Kids' Fashion",58,2.72079482383674,"Green","L","ID211711712",NA,NA
+"126",126,"10/14/2022",65,126,"T-shirt","Nike","Kids' Fashion",63,2.93861299506489,NA,"M","ID212612612",NA,NA
+"127",127,"3/7/2022",7,127,"Shoes","Zara","Women's Fashion",90,3.95168553604517,"Yellow","M","ID213513513",NA,NA
+"128",128,"10/27/2022",100,128,"T-shirt","H&M","Women's Fashion",82,3.64196708844133,"Green","M","ID214414414",322,"Produto com defeito"
+"129",129,"9/17/2022",70,129,"T-shirt",NA,"Women's Fashion",76,3.5454205511718,"Yellow","M","ID215315315",281,"Arrependimento"
+"130",130,"1/26/2022",40,130,"Shoes","Nike","Women's Fashion",36,2.20570373759177,"Green","M","ID216216216",7,"Arrependimento"
+"131",131,"4/9/2022",70,131,"T-shirt","H&M","Men's Fashion",64,3.06325848662096,"Blue","M","ID217117117",NA,NA
+"132",132,"2/15/2022",100,132,"Sweater","Adidas","Women's Fashion",NA,1.85959051343934,"White","M","ID218018018",NA,NA
+"133",133,"12/28/2022",29,133,"Shoes","H&M","Kids' Fashion",41,NA,"Blue","XL","ID218918919",162,"Produto com defeito"
+"134",134,"1/2/2022",23,134,"Sweater","Zara","Women's Fashion",59,2.74060093439003,"Yellow","S","ID219819820",NA,NA
+"135",135,"9/30/2022",94,135,"Dress","Adidas","Kids' Fashion",24,1.87978695224244,"Blue","L","ID220720721",NA,NA
+"136",136,"10/20/2022",34,136,"Shoes","Zara","Men's Fashion",49,2.17100938328387,"Blue","XL","ID221621621",5,"Arrependimento"
+"137",137,"9/1/2022",44,137,"Dress","Gucci","Kids' Fashion",30,2.16688354473839,"Green","S","ID222522522",NA,NA
+"138",138,"6/9/2022",16,138,"Dress","H&M","Women's Fashion",43,2.16134691519042,"Yellow","S","ID223423423",205,"Arrependimento"
+"139",139,"12/26/2022",73,139,"Sweater","Gucci","Women's Fashion",45,2.36986049572156,"Blue","XL","ID224324324",NA,NA
+"140",140,"11/30/2022",54,140,"Shoes","Zara",NA,67,2.54228391484548,"Green","M","ID225225225",256,"Arrependimento"
+"141",141,"9/20/2022",58,141,"Jeans","Nike","Women's Fashion",63,2.79420969485846,"Yellow","L","ID226126126",NA,NA
+"142",142,"8/29/2022",46,142,"Shoes","Nike","Men's Fashion",45,1.92499881614529,"White","XL","ID227027027",NA,NA
+"143",143,"12/15/2022",88,143,"Shoes","Gucci","Women's Fashion",66,3.24237701560679,"White","L","ID227927928",NA,NA
+"144",144,"11/16/2022",75,144,"Shoes","Adidas","Kids' Fashion",78,3.01932277555266,"Blue","M","ID228828829",1,"Não informado"
+"145",145,"8/29/2022",34,145,"T-shirt","Zara","Kids' Fashion",67,3.03616773330779,"Green","S","ID229729730",NA,NA
+"146",146,"9/11/2022",75,146,"Shoes","Adidas","Women's Fashion",67,3.19563520960051,"Yellow","M","ID230630630",NA,NA
+"147",147,"5/12/2022",54,147,"Shoes","Gucci","Kids' Fashion",22,1.61565694962394,"Green","L","ID231531531",NA,NA
+"148",148,"11/19/2022",39,148,"Shoes","Adidas","Women's Fashion",48,2.56125661629804,"Black","L","ID232432432",NA,NA
+"149",149,"12/27/2022",95,149,"Jeans","Adidas","Women's Fashion",61,3.1024122337512,"Green","M","ID233333333",NA,NA
+"150",150,"4/27/2022",67,150,"T-shirt","Nike","Women's Fashion",43,2.61915345691707,"Green","M","ID234234234",56,"Produto com defeito"
+"151",151,"6/9/2022",5,151,"Shoes","Adidas","Men's Fashion",52,2.505339885908,"Blue","M","ID235135135",330,"Produto com defeito"
+"152",152,"9/21/2022",31,152,"Jeans","Nike","Men's Fashion",18,1.49889960543904,"Green","S","ID236036036",NA,NA
+"153",153,"2/22/2022",2,153,"Shoes","Nike","Kids' Fashion",28,1.97074517309192,"Black","S","ID236936937",238,"Produto com defeito"
+"154",154,"7/15/2022",51,154,"Dress","Zara","Men's Fashion",47,2.60368587672108,"Blue","L","ID237837838",320,"Não informado"
+"155",155,"1/6/2022",91,155,"T-shirt","Gucci","Women's Fashion",17,1.67538274495221,"White","L","ID238738739",349,"Arrependimento"
+"156",156,"1/1/2022",92,156,"T-shirt","Adidas","Women's Fashion",62,3.1324181764483,"Red","L","ID239639639",43,"Arrependimento"
+"157",157,"6/10/2022",39,157,"Dress","Adidas","Women's Fashion",15,1.45421988874316,"Yellow","S","ID240540540",NA,NA
+"158",158,"11/25/2022",99,158,"Shoes","Adidas","Men's Fashion",53,2.76151536798885,"Blue","M","ID241441441",NA,NA
+"159",159,"7/30/2022",10,159,"Jeans","Nike","Kids' Fashion",15,1.57942999258252,"Green","S","ID242342342",309,"Arrependimento"
+"160",160,"1/28/2022",46,160,"Shoes","Gucci","Women's Fashion",47,2.55579539575913,"Black","L","ID243243243",NA,NA
+"161",161,"1/10/2022",80,161,"Sweater","Adidas","Women's Fashion",80,3.08592983213342,"Blue","M","ID244144144",NA,NA
+"162",162,"3/24/2022",40,162,"T-shirt","Nike","Women's Fashion",49,2.59431051048617,"Red","L","ID245045045",NA,NA
+"163",163,"1/2/2022",18,163,"Dress","Nike","Women's Fashion",39,2.74954299971609,"Green","S","ID245945946",NA,NA
+"164",164,"10/30/2022",16,164,"T-shirt","Nike","Men's Fashion",27,1.6864080687472,"Red","L","ID246846847",NA,NA
+"165",165,"1/19/2022",34,165,"Jeans","Gucci","Women's Fashion",67,2.85902702783312,"White","XL","ID247747748",317,"Produto com defeito"
+"166",166,"12/30/2022",100,166,"Sweater","Adidas","Kids' Fashion",38,2.44577961689969,"White","L","ID248648648",NA,NA
+"167",167,"11/17/2022",92,167,"Shoes","Zara","Kids' Fashion",50,2.55367055734452,"Blue","S","ID249549549",NA,NA
+"168",168,"1/28/2022",54,168,"Sweater","Gucci","Women's Fashion",57,2.75370465815267,"Green","XL","ID250450450",NA,NA
+"169",169,"5/21/2022",62,169,"Shoes","Zara","Men's Fashion",76,NA,"Black","XL","ID251351351",28,"Arrependimento"
+"170",170,"1/2/2022",50,170,"Sweater","Gucci","Men's Fashion",33,1.70936460539912,"Yellow","M","ID252252252",NA,NA
+"171",171,"6/12/2022",24,171,"Jeans","Nike","Men's Fashion",60,2.70519215196095,"Blue","S","ID253153153",192,"Arrependimento"
+"172",172,NA,13,172,"Jeans","Zara","Women's Fashion",38,2.30097351189285,"Yellow","M","ID254054054",NA,NA
+"173",173,"1/19/2022",98,173,"Dress","Nike","Kids' Fashion",45,2.24270428227736,"Yellow","S","ID254954955",NA,NA
+"174",174,"12/12/2022",82,174,"Jeans","Adidas","Kids' Fashion",56,2.44424239726605,"Black","M","ID255855856",NA,NA
+"175",175,"1/11/2022",48,175,"Dress","Adidas","Men's Fashion",70,3.0322672813979,"Blue","S","ID256756757",232,"Arrependimento"
+"176",176,"8/30/2022",59,176,"Dress","H&M","Kids' Fashion",100,4.18322630487929,"Red","XL","ID257657657",250,"Não informado"
+"177",177,"1/10/2022",56,177,"Sweater","Nike","Kids' Fashion",37,2.02147207672771,"Yellow","M","ID258558558",NA,NA
+"178",178,"10/25/2022",93,178,"Jeans","Nike","Women's Fashion",34,2.11872883805636,"Red","XL","ID259459459",170,"Produto com defeito"
+"179",179,"10/11/2022",54,179,"Shoes","Adidas","Kids' Fashion",53,2.31382164267309,"Blue","M","ID260360360",10,"Não informado"
+"180",180,"3/28/2022",61,180,"T-shirt","Zara","Kids' Fashion",53,2.36887634869715,"Green","M","ID261261261",333,"Arrependimento"
+"181",181,"9/13/2022",74,181,"Shoes","H&M","Kids' Fashion",48,2.29185798713653,"Black","L","ID262162162",NA,NA
+"182",182,"2/22/2022",39,182,"Jeans","Zara","Men's Fashion",81,3.02765520879856,"Yellow","L","ID263063063",NA,NA
+"183",183,"10/26/2022",20,183,"Jeans","Zara","Kids' Fashion",69,2.75479544712346,"Black","M","ID263963964",NA,NA
+"184",184,"8/26/2022",67,184,"Sweater","Zara","Women's Fashion",66,2.83813277928696,"Green","L","ID264864865",NA,NA
+"185",185,"1/20/2022",38,185,"Sweater","Gucci","Men's Fashion",60,2.55800791872859,"Yellow","L","ID265765766",137,"Não informado"
+"186",186,"12/10/2022",16,186,"Jeans","Adidas","Men's Fashion",64,2.78193426773075,"Blue","L","ID266666666",NA,NA
+"187",187,"1/19/2022",81,187,"Jeans","Zara","Women's Fashion",72,2.96794141947908,"Green","S","ID267567567",NA,NA
+"188",188,"9/30/2022",33,188,"Shoes","Nike","Men's Fashion",33,1.78250740902065,"Green","XL","ID268468468",NA,NA
+"189",189,"7/15/2022",55,189,"Jeans","Adidas","Women's Fashion",65,2.9059603246352,"Blue","L","ID269369369",NA,NA
+"190",190,"8/26/2022",38,190,"Sweater","Zara","Kids' Fashion",63,2.76594009622378,"Yellow","XL","ID270270270",NA,NA
+"191",191,"1/20/2022",48,191,"T-shirt","Gucci","Kids' Fashion",50,2.68738052811868,"Black","M","ID271171171",NA,NA
+"192",192,"9/14/2022",NA,192,"Sweater","Zara","Kids' Fashion",84,3.39118979108462,"White","L","ID272072072",NA,NA
+"193",193,"1/4/2022",8,193,"T-shirt","H&M","Women's Fashion",71,3.01966432440472,"White","L","ID272972973",NA,NA
+"194",194,"10/31/2022",56,194,"Sweater","Adidas","Women's Fashion",41,2.28449999418105,"White","S","ID273873874",NA,NA
+"195",195,"3/9/2022",32,195,"Shoes","Zara","Kids' Fashion",74,3.27716429380166,"White","L","ID274774775",NA,NA
+"196",196,"1/7/2022",72,196,"Jeans","Gucci","Kids' Fashion",46,2.39253492538613,"Red","M","ID275675675",79,"Não informado"
+"197",197,"7/13/2022",48,197,"Jeans","Nike","Kids' Fashion",46,2.57294719127029,"Yellow","XL","ID276576576",319,"Arrependimento"
+"198",198,"9/28/2022",NA,198,"T-shirt","Zara","Men's Fashion",63,3.14184584470346,"Blue","XL","ID277477477",NA,NA
+"199",199,"9/21/2022",39,199,"T-shirt","Zara","Women's Fashion",40,1.94451804246971,"Black","M","ID278378378",NA,NA
+"200",200,"6/12/2022",75,200,"Sweater","H&M","Men's Fashion",65,2.81796375235648,"Black","S","ID279279279",NA,NA
+"201",201,"10/16/2022",21,201,"Jeans","Zara","Women's Fashion",35,2.13113470035241,"Yellow","M","ID280180180",NA,NA
+"202",202,"5/10/2022",84,202,"Sweater","Nike","Men's Fashion",66,2.9944940263285,"Green","S","ID281081081",NA,NA
+"203",203,"11/11/2022",53,203,"Jeans","Zara","Women's Fashion",50,2.57743503937343,"Yellow","S","ID281981982",222,"Arrependimento"
+"204",204,"10/10/2022",3,204,"T-shirt","Zara","Kids' Fashion",40,2.08905481889523,"Black","M","ID282882883",227,"Produto com defeito"
+"205",205,"1/17/2022",41,205,"T-shirt","H&M","Men's Fashion",44,2.20771842577889,"Yellow","XL","ID283783784",NA,NA
+"206",206,"11/27/2022",64,206,"Jeans","Nike","Kids' Fashion",35,1.92446217141516,"Yellow","XL","ID284684684",NA,NA
+"207",207,"8/10/2022",30,207,"Sweater","Gucci","Kids' Fashion",60,2.74645542942633,"Black","M","ID285585585",NA,NA
+"208",208,"8/24/2022",9,208,"Jeans","Zara","Men's Fashion",73,3.23351266199934,"White","M","ID286486486",NA,NA
+"209",209,"10/25/2022",88,209,"Dress","H&M","Women's Fashion",70,3.14138806674889,"Black","XL","ID287387387",11,"Produto com defeito"
+"210",210,"9/10/2022",36,210,"Jeans","Adidas","Women's Fashion",51,2.65859993619268,"Yellow","M","ID288288288",266,"Não informado"
+"211",211,"8/18/2022",6,211,"Jeans","Zara","Women's Fashion",31,2.33280980152067,"Green","L","ID289189189",NA,NA
+"212",212,"8/24/2022",24,212,"T-shirt","Adidas","Women's Fashion",53,2.39571952321918,"White","S","ID290090090",NA,NA
+"213",213,"9/30/2022",76,213,"Jeans","Zara","Women's Fashion",63,2.69010065284497,"Yellow","XL","ID290990991",NA,NA
+"214",214,"10/9/2022",59,214,"Dress","Adidas","Women's Fashion",38,2.46275526727383,"Yellow","XL","ID291891892",197,"Produto com defeito"
+"215",215,"1/10/2022",49,215,"T-shirt","Adidas","Men's Fashion",47,2.27836464755766,"Yellow","S","ID292792793",NA,NA
+"216",216,"12/14/2022",87,216,"Shoes","Gucci","Kids' Fashion",65,3.59015546237421,"White","M","ID293693693",NA,NA
+"217",217,"3/11/2022",7,217,"Sweater","Gucci","Women's Fashion",44,2.4748992115936,"Yellow","S","ID294594594",114,"Arrependimento"
+"218",218,"11/28/2022",94,218,"Sweater","Gucci","Men's Fashion",37,2.01364048011029,"Red","M","ID295495495",NA,NA
+"219",219,"7/23/2022",78,219,"Dress","H&M","Women's Fashion",27,1.92942918793962,"Green","S","ID296396396",243,"Produto com defeito"
+"220",220,"12/6/2022",35,220,"T-shirt","H&M","Kids' Fashion",68,2.90194799551228,"Blue","L","ID297297297",NA,NA
+"221",221,"1/8/2022",68,221,"T-shirt","Adidas","Men's Fashion",59,2.73649906818792,"Black","L","ID298198198",NA,NA
+"222",222,"11/29/2022",77,222,"Dress","Adidas","Kids' Fashion",83,3.47838705776794,"Yellow","S","ID299099099",34,"Não informado"
+"223",223,"1/18/2022",33,223,"Jeans","Gucci","Women's Fashion",61,3.09708743190178,"White","XL","ID300000000",NA,NA
+"224",224,"2/9/2022",48,224,"T-shirt","Adidas","Women's Fashion",18,1.88146422940219,NA,"L","ID300900901",184,"Produto com defeito"
+"225",225,"6/13/2022",46,225,"Dress","Nike","Men's Fashion",27,1.93613536998563,"Yellow","S","ID301801802",155,"Arrependimento"
+"226",226,"9/24/2022",6,226,"Sweater","H&M","Men's Fashion",34,1.94741883836417,"Green","XL","ID302702702",348,"Produto com defeito"
+"227",227,"2/12/2022",44,227,"Dress","Adidas","Kids' Fashion",56,2.98920765919924,"Red","S","ID303603603",NA,NA
+"228",228,"8/18/2022",66,228,"Shoes","H&M","Men's Fashion",47,2.58447459903386,"Green","S","ID304504504",242,"Não informado"
+"229",229,"10/9/2022",81,229,"Shoes","Adidas","Kids' Fashion",62,2.53978986923219,"Red","XL","ID305405405",207,"Produto com defeito"
+"230",230,"7/9/2022",96,230,"Shoes","Zara","Men's Fashion",88,3.77912965903613,"Black","S","ID306306306",NA,NA
+"231",231,"2/14/2022",92,231,"Dress","Zara","Women's Fashion",50,2.09201118468945,"Red","L","ID307207207",NA,NA
+"232",232,"1/1/2022",93,232,"Jeans","Zara","Men's Fashion",46,2.65695752307167,"Red","S","ID308108108",106,"Não informado"
+"233",233,"10/20/2022",79,233,"Shoes","Nike","Kids' Fashion",27,1.61054823623375,"Red","M","ID309009009",NA,NA
+"234",234,"3/5/2022",64,234,"Sweater","H&M","Kids' Fashion",40,1.98354753611776,"White","S","ID309909910",172,"Produto com defeito"
+"235",235,"10/11/2022",61,235,"Shoes","Zara","Women's Fashion",73,2.917862052511,"Green","L","ID310810811",206,"Produto com defeito"
+"236",236,"1/5/2022",40,236,"Shoes","Zara","Men's Fashion",48,2.24915584311939,"White","S","ID311711711",178,"Produto com defeito"
+"237",237,"12/15/2022",68,237,"Shoes","Adidas","Men's Fashion",35,2.05767959217977,"White","S","ID312612612",NA,NA
+"238",238,"1/15/2022",10,238,"Shoes","Adidas","Kids' Fashion",44,2.33673143090959,"White","XL","ID313513513",290,"Produto com defeito"
+"239",239,"9/20/2022",33,239,"Shoes","Gucci","Kids' Fashion",41,2.49137949165256,NA,"L","ID314414414",NA,NA
+"240",240,"4/27/2022",27,240,"Dress","H&M","Men's Fashion",49,2.5254466669767,"Black","L","ID315315315",306,"Não informado"
+"241",241,"7/12/2022",55,241,"Jeans","Gucci","Men's Fashion",42,2.24568475015608,"Green","S","ID316216216",340,"Não informado"
+"242",242,"11/30/2022",72,242,"Dress","H&M","Men's Fashion",45,2.28361374329581,"Green","M","ID317117117",NA,NA
+"243",243,"1/10/2022",88,243,"Shoes","H&M","Men's Fashion",55,2.9472994276967,"White","XL","ID318018018",21,"Produto com defeito"
+"244",244,"12/15/2022",77,244,"Sweater","Zara","Women's Fashion",76,3.23241972599638,"Blue","XL","ID318918919",NA,NA
+"245",245,"10/22/2022",27,245,"Dress","H&M",NA,64,2.83366972922837,"Black","S","ID319819820",328,"Produto com defeito"
+"246",246,"7/11/2022",89,246,"Jeans","Gucci","Kids' Fashion",59,3.07519005293836,"Green","S","ID320720720",NA,NA
+"247",247,"12/10/2022",32,247,"Shoes","Zara","Women's Fashion",85,3.35208486363391,"White","S","ID321621621",315,"Não informado"
+"248",248,"3/22/2022",83,248,"Sweater","Zara","Kids' Fashion",73,2.98811329533131,"Red","M","ID322522522",NA,NA
+"249",249,"9/23/2022",34,249,"Jeans","H&M","Kids' Fashion",37,1.90378025211721,"Black","XL","ID323423423",221,"Arrependimento"
+"250",250,"11/14/2022",68,250,"Dress","H&M","Women's Fashion",55,2.69811013820224,"Yellow","XL","ID324324324",NA,NA
+"251",251,"11/19/2022",46,251,"Jeans","Gucci","Kids' Fashion",30,1.85542629956238,"White","L","ID325225225",299,"Arrependimento"
+"252",252,"1/19/2022",43,252,"Dress","H&M","Men's Fashion",49,2.32832080324433,"Blue","L","ID326126126",159,"Não informado"
+"253",253,"9/11/2022",65,253,"T-shirt","Zara","Kids' Fashion",51,2.46996086656057,"White","M","ID327027027",NA,NA
+"254",254,"12/20/2022",20,254,"Jeans","Gucci","Kids' Fashion",45,2.45682719479319,"Yellow","L","ID327927928",101,"Não informado"
+"255",255,"11/23/2022",74,255,"T-shirt","H&M","Kids' Fashion",65,3.04011592619642,"Green","M","ID328828829",NA,NA
+"256",256,"10/13/2022",33,256,"Jeans","Gucci","Kids' Fashion",60,2.5907920047878,"Blue","L","ID329729729",268,"Não informado"
+"257",257,"9/7/2022",38,257,"Shoes","Nike","Women's Fashion",25,1.81508004454363,"Red","S","ID330630630",NA,NA
+"258",258,"1/12/2022",86,258,"Dress",NA,"Women's Fashion",91,3.60222800061527,"Yellow","S","ID331531531",NA,NA
+"259",259,"1/26/2022",44,259,"Shoes","Nike","Men's Fashion",32,2.24582124695315,"White","L","ID332432432",NA,NA
+"260",260,"12/10/2022",34,260,"Dress","Adidas","Kids' Fashion",44,2.35448693054428,"Green","S","ID333333333",NA,NA
+"261",261,"9/30/2022",50,261,"Dress","Zara","Men's Fashion",72,3.01150714849565,"Yellow","S","ID334234234",NA,NA
+"262",262,"1/3/2022",68,262,NA,"Gucci","Women's Fashion",62,2.91200947451561,"Blue","S","ID335135135",NA,NA
+"263",263,"11/26/2022",5,263,"Jeans","Zara","Men's Fashion",36,1.66300362765381,"Yellow","XL","ID336036036",NA,NA
+"264",264,"3/7/2022",46,264,"Dress","Gucci","Women's Fashion",28,2.00440802849035,"White",NA,"ID336936937",NA,NA
+"265",265,"12/28/2022",8,265,NA,"H&M","Kids' Fashion",33,1.95189701490163,"Blue","XL","ID337837838",NA,NA
+"266",266,"1/17/2022",51,266,"Jeans","Gucci","Kids' Fashion",32,2.42464504518964,"White","XL","ID338738738",334,"Arrependimento"
+"267",267,"3/7/2022",25,267,"Jeans","Adidas","Women's Fashion",77,3.26925837953252,"Black","S","ID339639639",NA,NA
+"268",268,"1/18/2022",32,268,"Jeans","Adidas","Kids' Fashion",59,2.62264408815582,"Yellow","L","ID340540540",NA,NA
+"269",269,"11/19/2022",34,269,"Shoes","H&M","Kids' Fashion",33,2.03776036062155,"Black","S","ID341441441",NA,NA
+"270",270,"1/15/2022",3,270,"Sweater","Adidas","Kids' Fashion",53,2.76079317436547,"Blue","XL","ID342342342",NA,NA
+"271",271,"8/19/2022",76,271,"Jeans","Nike","Men's Fashion",60,2.57689121583457,"Blue","L","ID343243243",NA,NA
+"272",272,"1/9/2022",43,272,"Dress","Nike","Kids' Fashion",42,2.00562529504918,"White","M","ID344144144",323,"Arrependimento"
+"273",273,"11/30/2022",4,NA,"Dress","Nike","Men's Fashion",65,2.97136999311182,"White","XL","ID345045045",190,"Produto com defeito"
+"274",274,"1/10/2022",77,274,"Dress","Adidas","Women's Fashion",61,2.572720487878,"Red","S","ID345945946",158,"Não informado"
+"275",275,"8/25/2022",58,275,"Jeans","Nike","Men's Fashion",24,1.97804914256217,"Green","XL","ID346846847",NA,NA
+"276",276,"1/4/2022",73,276,"Jeans","Nike","Men's Fashion",75,3.26261280936269,"Yellow","M","ID347747747",102,"Não informado"
+"277",277,"8/11/2022",50,277,"Dress","H&M",NA,52,2.31700933662099,NA,"M","ID348648648",226,"Não informado"
+"278",278,"10/9/2022",4,278,"Jeans","Gucci","Men's Fashion",72,3.18309892078804,"Black","L","ID349549549",NA,NA
+"279",279,"7/8/2022",3,279,"Shoes","Adidas","Kids' Fashion",44,2.35635470162061,"Yellow","M","ID350450450",298,"Arrependimento"
+"280",280,"5/30/2022",31,280,"Dress","Gucci","Kids' Fashion",56,2.6925403432178,"White","XL","ID351351351",286,"Arrependimento"
+"281",281,"7/24/2022",30,281,"Jeans","H&M","Women's Fashion",40,2.35431394249907,"Green","S","ID352252252",312,"Não informado"
+"282",282,"11/15/2022",18,NA,"Jeans","Nike","Men's Fashion",12,1.50825214734852,"Black","M","ID353153153",72,"Não informado"
+"283",283,"3/20/2022",95,283,"Sweater","H&M","Men's Fashion",84,3.48872490558555,"White","S","ID354054054",NA,NA
+"284",284,"12/31/2022",78,284,"T-shirt","Zara","Men's Fashion",64,2.87683372526697,"Black","S","ID354954955",NA,NA
+"285",285,"9/20/2022",49,285,"Sweater","Nike","Women's Fashion",64,2.58385947127208,"Yellow","L","ID355855856",NA,NA
+"286",286,"12/21/2022",69,286,"T-shirt","H&M","Kids' Fashion",100,4.00940487330212,"White","XL","ID356756756",NA,NA
+"287",287,"11/27/2022",71,287,"T-shirt","Zara","Kids' Fashion",46,2.60759295936163,"Blue","XL","ID357657657",NA,NA
+"288",288,"8/7/2022",13,288,"Sweater","Nike","Men's Fashion",48,2.31169244358304,"Black","M","ID358558558",283,"Produto com defeito"
+"289",289,"1/2/2022",88,289,"Sweater","Adidas","Kids' Fashion",63,2.93760187092839,"Blue","M","ID359459459",NA,NA
+"290",290,"7/12/2022",38,290,"Sweater","Zara","Men's Fashion",72,2.98813291973204,"White","S","ID360360360",NA,NA
+"291",291,NA,3,291,"Dress","H&M","Women's Fashion",63,2.67053495504293,"White","XL","ID361261261",NA,NA
+"292",292,"12/25/2022",91,292,"T-shirt","Nike","Men's Fashion",69,3.06492625756315,"Green","S","ID362162162",NA,NA
+"293",293,"1/20/2022",9,293,"Sweater","Nike","Men's Fashion",16,1.7963412453143,"Black","XL","ID363063063",NA,NA
+"294",294,"1/8/2022",4,294,"Dress","H&M","Women's Fashion",19,1.23941171358386,"White","XL","ID363963964",NA,NA
+"295",295,"9/19/2022",39,295,"Dress","H&M","Kids' Fashion",45,2.3595568667815,"Black","XL","ID364864865",346,"Arrependimento"
+"296",296,"8/24/2022",99,296,"T-shirt","H&M","Women's Fashion",30,2.0409885662791,"White","S","ID365765765",NA,NA
+"297",297,"3/10/2022",30,297,"Sweater","Gucci","Kids' Fashion",39,2.3739609504002,"Blue","XL","ID366666666",223,"Arrependimento"
+"298",298,"7/30/2022",4,298,"Shoes","Zara","Women's Fashion",64,3.12070749065866,"Red","M","ID367567567",107,"Produto com defeito"
+"299",299,"9/12/2022",69,299,"Shoes","Gucci","Kids' Fashion",34,1.86294476385217,"Green","S","ID368468468",NA,NA
+"300",300,"10/1/2022",3,300,"Shoes","Adidas","Kids' Fashion",31,2.20241941894653,"White","S","ID369369369",NA,NA
+"301",301,"11/24/2022",66,301,"Shoes","Adidas","Kids' Fashion",10,1.30427689122144,"Yellow","M","ID370270270",265,"Não informado"
+"302",302,"8/9/2022",49,302,"T-shirt","Gucci","Kids' Fashion",43,2.38462786603074,"White","M","ID371171171",NA,NA
+"303",303,"9/19/2022",11,303,"Jeans","Gucci","Women's Fashion",48,2.47542377201078,"White","XL","ID372072072",NA,NA
+"304",304,"7/12/2022",7,304,"Dress","Adidas","Women's Fashion",40,2.3434701624361,"Green","M","ID372972973",NA,NA
+"305",305,"1/1/2022",26,305,"Shoes","H&M","Women's Fashion",52,2.63606264925766,"White","L","ID373873874",327,"Arrependimento"
+"306",306,"12/17/2022",73,306,"T-shirt","Gucci","Men's Fashion",49,2.61539465572158,"Black","XL","ID374774774",NA,NA
+"307",307,"8/31/2022",62,307,"Dress","Zara","Men's Fashion",48,2.54810897509774,"Yellow","S","ID375675675",NA,NA
+"308",308,"1/22/2022",42,308,"Jeans","Adidas","Men's Fashion",45,2.37052462251406,"Yellow","S","ID376576576",NA,NA
+"309",309,"10/27/2022",37,309,"Jeans","Gucci","Kids' Fashion",35,NA,"Black","S","ID377477477",NA,NA
+"310",310,"8/26/2022",61,310,"Jeans","H&M","Men's Fashion",52,2.76778468909497,"White","XL","ID378378378",NA,NA
+"311",311,"6/10/2022",55,311,"Jeans","Nike","Men's Fashion",67,2.85902310260504,"Black","L","ID379279279",NA,NA
+"312",312,"12/29/2022",41,312,"Jeans","Zara","Men's Fashion",68,2.93549343003492,"White","S","ID380180180",NA,NA
+"313",313,"3/28/2022",97,313,"Shoes","H&M","Women's Fashion",41,2.46663171362616,"Green","XL","ID381081081",NA,NA
+"314",314,"12/24/2022",13,314,"Jeans","Nike","Kids' Fashion",71,3.24752898529287,"Red","L","ID381981982",270,"Não informado"
+"315",315,"1/5/2022",90,315,"Jeans","Nike","Kids' Fashion",48,2.64427347555418,"White","XL","ID382882883",65,"Arrependimento"
+"316",316,"8/25/2022",34,316,"Jeans","H&M","Women's Fashion",48,2.56549767513275,"Red","S","ID383783783",278,"Não informado"
+"317",317,"10/22/2022",55,317,"Dress","Adidas","Women's Fashion",58,2.59441953076581,"Red","XL","ID384684684",NA,NA
+"318",318,"9/12/2022",88,318,"Sweater","Zara","Men's Fashion",51,2.73114377837139,"Yellow","S","ID385585585",44,"Arrependimento"
+"319",319,"4/11/2022",39,319,"Jeans","H&M","Men's Fashion",53,2.91271795048763,"White","L","ID386486486",68,"Arrependimento"
+"320",320,"8/10/2022",25,320,"Sweater","H&M","Kids' Fashion",42,2.05104464477036,"Yellow","L","ID387387387",NA,NA
+"321",321,"5/23/2022",34,321,"Shoes","Gucci","Kids' Fashion",60,2.59292835477194,"Red","S","ID388288288",NA,NA
+"322",322,"8/14/2022",58,322,"Shoes","H&M","Kids' Fashion",45,2.28690200116917,"Red","M","ID389189189",177,"Arrependimento"
+"323",323,"5/12/2022",30,323,"Shoes","Zara","Women's Fashion",51,2.47753366162579,"Green","M","ID390090090",325,"Produto com defeito"
+"324",324,"12/10/2022",3,324,"Sweater","Gucci","Men's Fashion",58,2.69572742074316,"Black","XL","ID390990991",NA,NA
+"325",325,"1/9/2022",67,325,"T-shirt","Nike","Men's Fashion",38,2.08279237948175,"Black","XL","ID391891892",NA,NA
+"326",326,"8/24/2022",7,326,"Jeans","Zara","Men's Fashion",24,1.54690046826883,"Green","L","ID392792792",NA,NA
+"327",327,"10/11/2022",95,327,"Dress","Adidas","Kids' Fashion",40,2.03515710123878,"White",NA,"ID393693693",NA,NA
+"328",328,"9/22/2022",34,328,"Jeans","Adidas","Kids' Fashion",64,2.7199651101752,"Blue","L","ID394594594",83,"Produto com defeito"
+"329",329,"7/12/2022",49,329,"Jeans","Nike","Women's Fashion",44,2.60576654325206,"Blue","XL","ID395495495",NA,NA
+"330",330,"1/10/2022",15,330,"T-shirt","Zara","Men's Fashion",37,1.76911448741667,"Blue","M","ID396396396",288,"Arrependimento"
+"331",331,"5/8/2022",61,331,"T-shirt","Adidas","Kids' Fashion",90,3.4693221469202,"Black","S","ID397297297",NA,NA
+"332",332,"12/13/2022",25,332,"Shoes","Zara","Men's Fashion",57,2.82000090555707,"Blue","M","ID398198198",NA,NA
+"333",333,"12/17/2022",60,333,"Dress","H&M","Kids' Fashion",37,2.35588208136713,"Yellow","M","ID399099099",264,"Produto com defeito"
+"334",334,NA,80,334,"Sweater","Zara","Men's Fashion",59,2.79918585175817,"Yellow","L","ID400000000",218,"Produto com defeito"
+"335",335,"9/30/2022",25,335,"Sweater","Gucci","Men's Fashion",NA,2.40057993617032,"Red","XL","ID400900901",NA,NA
+"336",336,"3/11/2022",71,336,"T-shirt","Nike","Kids' Fashion",55,2.57440545063508,"White","XL","ID401801801",NA,NA
+"337",337,"10/23/2022",1,337,"Shoes","Nike","Women's Fashion",55,2.34956663144915,"White","L","ID402702702",143,"Arrependimento"
+"338",338,"4/12/2022",22,338,"Sweater",NA,"Women's Fashion",50,2.40416803711493,"Blue","S","ID403603603",116,"Não informado"
+"339",339,"9/8/2022",46,339,"Dress","Gucci","Women's Fashion",58,2.7972330727307,"White","M","ID404504504",203,"Arrependimento"
+"340",340,"3/9/2022",52,340,"Sweater","Adidas","Women's Fashion",78,3.30359006337963,"Blue","L","ID405405405",69,"Arrependimento"
+"341",341,"10/11/2022",27,341,"Jeans","Gucci","Men's Fashion",42,1.92054347520149,"Red","XL","ID406306306",NA,NA
+"342",342,"1/27/2022",69,342,"Sweater","Zara","Women's Fashion",26,1.74806212550456,"Yellow","S","ID407207207",NA,NA
+"343",343,"9/20/2022",29,343,"T-shirt","Gucci","Women's Fashion",66,2.8554411579456,"Yellow","XL","ID408108108",NA,NA
+"344",344,"10/29/2022",42,344,NA,"Nike","Kids' Fashion",72,3.4182609316737,"Blue","L","ID409009009",NA,NA
+"345",345,"1/7/2022",97,345,"Shoes","H&M","Kids' Fashion",36,2.17507900528646,"Yellow","S","ID409909910",109,"Não informado"
+"346",346,"9/26/2022",62,346,"Jeans","Adidas","Kids' Fashion",42,2.23615063642843,"Yellow","XL","ID410810810",NA,NA
+"347",347,NA,76,347,"Dress","H&M","Men's Fashion",42,1.96940985677481,"Blue","XL","ID411711711",37,"Não informado"
+"348",348,"12/21/2022",52,348,"Shoes","Zara","Kids' Fashion",61,2.92627580085122,"Blue","XL","ID412612612",NA,NA
+"349",349,NA,36,349,"Dress","Adidas","Kids' Fashion",31,1.83121642194084,"White","XL","ID413513513",NA,NA
+"350",350,"1/20/2022",50,350,"Jeans","H&M","Kids' Fashion",38,2.03425058840277,"Black","XL","ID414414414",NA,NA
+"351",351,"10/12/2022",52,351,"Jeans","Nike","Women's Fashion",42,2.34766803385024,"Red","XL","ID415315315",NA,NA
+"352",352,"12/20/2022",41,NA,"Dress","H&M","Men's Fashion",50,2.82903391092568,"Green","XL","ID416216216",127,"Não informado"
+"353",353,"8/10/2022",87,353,"Sweater","Nike","Women's Fashion",49,2.48471334061,"Blue","M","ID417117117",NA,NA
+"354",354,"1/9/2022",7,354,"Dress","Gucci","Men's Fashion",79,3.2120892264425,"Red","M","ID418018018",NA,NA
+"355",355,"3/11/2022",59,355,"Sweater","Nike","Kids' Fashion",57,2.79771402022404,"Red","XL","ID418918919",NA,NA
+"356",356,"10/21/2022",93,356,"Dress","Zara","Kids' Fashion",23,1.88228142713967,"Black","S","ID419819819",NA,NA
+"357",357,"12/10/2022",89,357,"T-shirt","Adidas","Kids' Fashion",48,2.33228616757564,"Yellow","L","ID420720720",NA,NA
+"358",358,"1/4/2022",66,358,"Shoes","Adidas","Men's Fashion",52,2.35388391468594,"Blue","XL","ID421621621",48,"Não informado"
+"359",359,"9/19/2022",55,359,"Dress","Nike","Kids' Fashion",10,1.05579931775328,"Red","L","ID422522522",NA,NA
+"360",360,"10/24/2022",42,360,"Sweater","H&M","Women's Fashion",35,1.99400427104267,"Black","XL","ID423423423",313,"Não informado"
+"361",361,"8/25/2022",78,361,"Sweater","H&M","Kids' Fashion",52,2.62493246092328,"Blue","XL","ID424324324",189,"Não informado"
+"362",362,"12/20/2022",22,362,"Jeans","Adidas","Men's Fashion",64,2.98348907544524,"Red","S","ID425225225",77,"Arrependimento"
+"363",363,"12/25/2022",72,363,"Jeans","Nike","Kids' Fashion",53,3.04812500165079,"Yellow","L","ID426126126",NA,NA
+"364",364,"11/9/2022",60,364,"Jeans","Nike","Kids' Fashion",55,3.11471138214925,"Black","M","ID427027027",263,"Não informado"
+"365",365,"12/12/2022",92,365,"T-shirt","Nike","Men's Fashion",27,1.77187415123929,"White","L","ID427927928",NA,NA
+"366",366,"1/21/2022",7,366,"Dress","Nike","Women's Fashion",39,2.1426591995537,"Yellow","L","ID428828828",NA,NA
+"367",367,"11/24/2022",17,367,"Shoes","Nike","Women's Fashion",60,3.09876599694456,"Yellow","S","ID429729729",NA,NA
+"368",368,"1/10/2022",60,368,"Shoes","Nike","Women's Fashion",59,2.97485453554275,"Blue","XL","ID430630630",131,"Não informado"
+"369",369,"8/3/2022",62,369,"Shoes","Nike","Women's Fashion",55,2.80991881936203,"Green","M","ID431531531",NA,NA
+"370",370,"5/8/2022",75,370,"T-shirt","Nike","Kids' Fashion",49,2.29664177824652,"White","S","ID432432432",NA,NA
+"371",371,"11/16/2022",65,371,"Dress","Nike","Women's Fashion",49,2.42232730234583,"White","XL","ID433333333",27,"Arrependimento"
+"372",372,"12/10/2022",63,372,"Dress","Nike","Men's Fashion",67,2.73879788698748,"White","S","ID434234234",215,"Não informado"
+"373",373,"5/10/2022",87,373,"T-shirt","Adidas","Men's Fashion",53,2.70372395870472,"Green","M","ID435135135",NA,NA
+"374",374,"10/28/2022",23,374,"Jeans","Nike","Men's Fashion",70,2.9369317839375,"Black","S","ID436036036",120,"Não informado"
+"375",375,"10/23/2022",68,375,"Jeans","Zara","Women's Fashion",71,2.97325229295837,"Blue","XL","ID436936937",NA,NA
+"376",376,"8/25/2022",16,376,"Shoes","H&M","Kids' Fashion",46,2.56116620288044,"Green","S","ID437837837",NA,NA
+"377",377,"1/20/2022",33,377,"Shoes","Zara","Women's Fashion",60,2.8132956385881,"Black","L","ID438738738",NA,NA
+"378",378,"10/4/2022",55,378,"T-shirt","Nike","Men's Fashion",47,2.68369656543141,"Red","S","ID439639639",NA,NA
+"379",379,"1/4/2022",89,379,"Jeans","Nike","Women's Fashion",35,2.31296716542686,"White","M","ID440540540",NA,NA
+"380",380,"4/29/2022",73,380,"Dress","Gucci","Women's Fashion",37,2.16103056797409,"Red","XL","ID441441441",62,"Arrependimento"
+"381",381,"1/18/2022",32,381,"Shoes","H&M","Men's Fashion",57,2.97821624247411,"Green","S","ID442342342",NA,NA
+"382",382,"2/25/2022",NA,382,"T-shirt","Gucci","Men's Fashion",32,1.91502348966247,"Yellow","M","ID443243243",NA,NA
+"383",383,"12/13/2022",32,383,"Jeans","H&M",NA,50,2.1973954446678,"Black","L","ID444144144",NA,NA
+"384",384,"9/9/2022",90,384,"Sweater","H&M","Kids' Fashion",68,2.8066933939038,"Black","L","ID445045045",119,"Produto com defeito"
+"385",385,"9/11/2022",74,385,"Shoes","Gucci","Women's Fashion",51,2.54961448737924,"Yellow","L","ID445945946",NA,NA
+"386",386,"5/16/2022",27,386,"Dress","Adidas","Women's Fashion",57,2.70703804415788,"Yellow","XL","ID446846846",NA,NA
+"387",387,"7/13/2022",52,387,"Dress","Adidas","Women's Fashion",30,2.03915994823529,"Green","XL","ID447747747",NA,NA
+"388",388,"8/11/2022",7,388,"T-shirt","H&M","Men's Fashion",51,2.66024446118134,"Green","M","ID448648648",NA,NA
+"389",389,"12/14/2022",51,389,"T-shirt","Zara","Women's Fashion",59,2.98208604566355,"White","XL","ID449549549",134,"Produto com defeito"
+"390",390,"1/10/2022",89,390,NA,"Adidas","Women's Fashion",34,1.9531071597514,"Green","M","ID450450450",NA,NA
+"391",391,"9/10/2022",NA,391,"Dress","Gucci","Women's Fashion",62,3.12012855379847,"Blue","M","ID451351351",NA,NA
+"392",392,"9/14/2022",73,392,"T-shirt","Zara","Men's Fashion",55,2.54121133619179,"White","S","ID452252252",NA,NA
+"393",393,"7/8/2022",19,393,"Shoes","H&M","Men's Fashion",42,2.31332364516977,"Black","M","ID453153153",187,"Produto com defeito"
+"394",394,"1/2/2022",NA,394,"T-shirt","Gucci","Men's Fashion",42,2.10740235488568,"Yellow","M","ID454054054",NA,NA
+"395",395,"11/13/2022",90,395,"Shoes","Nike","Women's Fashion",23,1.75342574093914,"Yellow","M","ID454954955",NA,NA
+"396",396,"1/21/2022",33,396,"Shoes","Zara","Men's Fashion",47,2.30817385813992,"Blue","M","ID455855855",NA,NA
+"397",397,"4/10/2022",100,397,"Shoes","Zara","Kids' Fashion",58,2.91729775683124,NA,"XL","ID456756756",140,"Não informado"
+"398",398,"3/11/2022",39,398,"T-shirt","H&M","Men's Fashion",61,3.18308986880667,"White","M","ID457657657",297,"Produto com defeito"
+"399",399,"1/18/2022",36,399,"Dress","Adidas","Men's Fashion",56,2.66345785764705,"Yellow","L","ID458558558",NA,NA
+"400",400,"10/25/2022",95,400,"Jeans","H&M","Women's Fashion",55,2.73990901559267,"Green","S","ID459459459",350,"Não informado"
+"401",401,"1/11/2022",41,401,"Jeans","Gucci","Women's Fashion",53,2.60139982039262,"Green","S","ID460360360",NA,NA
+"402",402,"12/24/2022",10,402,"Shoes","H&M","Women's Fashion",29,1.96308130486663,"Yellow","M","ID461261261",128,"Produto com defeito"
+"403",403,"4/9/2022",83,403,"Shoes","Adidas","Men's Fashion",76,3.20112934500993,"Red","S","ID462162162",NA,NA
+"404",404,"12/8/2022",37,NA,"Shoes","Adidas","Men's Fashion",53,2.55997424030633,"Green","M","ID463063063",NA,NA
+"405",405,"10/14/2022",61,405,"Jeans","Adidas","Women's Fashion",64,3.07151197847777,"Blue","S","ID463963964",NA,NA
+"406",406,"1/5/2022",89,406,"Shoes","Nike","Men's Fashion",65,2.8648119586622,"Black","L","ID464864864",186,"Produto com defeito"
+"407",407,"8/7/2022",50,407,"Shoes","Nike","Women's Fashion",24,1.72572910701492,"White","XL","ID465765765",NA,NA
+"408",408,"11/28/2022",54,408,"Sweater","H&M","Men's Fashion",35,2.03598201594376,"White","L","ID466666666",NA,NA
+"409",409,"9/19/2022",28,409,"Shoes","Nike","Kids' Fashion",59,2.54461940872093,"Red","S","ID467567567",254,"Não informado"
+"410",410,"9/8/2022",48,410,"Jeans","H&M","Kids' Fashion",57,2.82216910699795,"Green","XL","ID468468468",NA,NA
+"411",411,"12/3/2022",35,411,"Sweater","Nike","Men's Fashion",65,2.78662607449801,"Red","M","ID469369369",NA,NA
+"412",412,"10/9/2022",66,NA,"Shoes","Nike","Kids' Fashion",53,2.78858673740259,"Black","XL","ID470270270",NA,NA
+"413",413,"5/6/2022",18,413,NA,"Zara","Women's Fashion",40,2.43379368069236,"Green","XL","ID471171171",NA,NA
+"414",414,"8/14/2022",13,414,"Dress","Zara","Kids' Fashion",83,3.49037549607959,"Black","XL","ID472072072",294,"Produto com defeito"
+"415",415,"12/28/2022",22,415,"Jeans","H&M","Kids' Fashion",85,3.14486501044639,"Yellow","L","ID472972973",NA,NA
+"416",416,"7/6/2022",30,416,"Sweater","H&M","Women's Fashion",29,1.79967157871372,"Blue","S","ID473873873",NA,NA
+"417",417,"7/26/2022",58,417,"Shoes","H&M","Women's Fashion",36,1.92541779874578,"Red","S","ID474774774",NA,NA
+"418",418,"11/13/2022",82,418,"Jeans","Zara","Men's Fashion",40,2.02780676087391,"Blue","S","ID475675675",NA,NA
+"419",419,"6/10/2022",44,NA,"T-shirt","H&M","Kids' Fashion",40,2.19969202029357,"Yellow","L","ID476576576",NA,NA
+"420",420,"1/3/2022",79,420,"Jeans","Adidas","Men's Fashion",46,2.02366650108708,"White","M","ID477477477",NA,NA
+"421",421,"1/22/2022",18,421,"T-shirt","Nike","Kids' Fashion",49,2.366593762915,"White","M","ID478378378",157,"Arrependimento"
+"422",422,"9/12/2022",79,422,"Dress","Nike","Kids' Fashion",55,2.53658675368849,"Blue","S","ID479279279",284,"Arrependimento"
+"423",423,"8/16/2022",56,423,"Jeans","Adidas","Men's Fashion",55,2.45396432994173,"Black","M","ID480180180",NA,NA
+"424",424,"9/19/2022",52,424,"Shoes","Adidas","Women's Fashion",41,2.27772354467433,"Yellow","M","ID481081081",NA,NA
+"425",425,"1/18/2022",100,425,"Jeans","Nike","Men's Fashion",39,2.52260555687875,"Blue","XL","ID481981982",NA,NA
+"426",426,"1/18/2022",11,426,"Jeans","Zara","Men's Fashion",78,2.93198961472764,"Black","L","ID482882882",NA,NA
+"427",427,"1/12/2022",8,427,"T-shirt","Zara","Kids' Fashion",66,3.03795767051134,"Yellow","XL","ID483783783",NA,NA
+"428",428,"12/16/2022",80,428,"T-shirt","Gucci","Kids' Fashion",31,2.03881587268942,"Green","M","ID484684684",231,"Não informado"
+"429",429,"1/20/2022",57,429,"Shoes","Gucci","Women's Fashion",35,1.95310235622372,"Black","XL","ID485585585",NA,NA
+"430",430,"1/11/2022",72,430,"T-shirt","Nike","Kids' Fashion",58,2.51044714730582,"Black","S","ID486486486",NA,NA
+"431",431,"12/12/2022",46,431,"Jeans","H&M","Kids' Fashion",52,2.46551839217118,"Green","S","ID487387387",NA,NA
+"432",432,"1/20/2022",7,432,"Jeans","H&M","Kids' Fashion",36,2.44003070850006,"Blue","L","ID488288288",308,"Produto com defeito"
+"433",433,"10/17/2022",10,433,"Jeans","H&M","Men's Fashion",52,2.41720029092391,"Yellow","M","ID489189189",NA,NA
+"434",434,"12/25/2022",44,434,"T-shirt","Zara","Kids' Fashion",48,2.4206229179688,"Yellow","M","ID490090090",175,"Não informado"
+"435",435,"9/20/2022",46,435,"T-shirt","Adidas","Men's Fashion",43,2.53379569504461,"Blue","XL","ID490990991",NA,NA
+"436",436,"11/21/2022",27,436,"T-shirt","Zara","Kids' Fashion",62,2.88279727913668,"Black","XL","ID491891891",NA,NA
+"437",437,"5/9/2022",9,437,"Shoes","Gucci","Men's Fashion",78,3.14845424196051,"Green","XL","ID492792792",NA,NA
+"438",438,"9/13/2022",89,438,NA,"Adidas","Kids' Fashion",42,2.15773847127528,"Yellow","XL","ID493693693",NA,NA
+"439",439,"8/25/2022",71,439,"Jeans","Zara",NA,31,1.56208390077227,"White","XL","ID494594594",NA,NA
+"440",440,"6/5/2022",49,440,"Dress","Zara","Women's Fashion",59,2.76238447960619,"White","L","ID495495495",NA,NA
+"441",441,"8/20/2022",47,441,"Sweater","Adidas","Men's Fashion",67,3.25672879383775,"Black","XL","ID496396396",212,"Produto com defeito"
+"442",442,"6/9/2022",88,442,"T-shirt","H&M","Men's Fashion",49,2.39389122899205,"Red","S","ID497297297",NA,NA
+"443",443,"10/16/2022",37,443,"Sweater","Gucci","Men's Fashion",49,2.59817987918104,"White","L","ID498198198",NA,NA
+"444",444,"10/15/2022",84,444,"Dress","Nike","Men's Fashion",74,2.54903619906114,"White","XL","ID499099099",136,"Arrependimento"
+"445",445,"2/11/2022",38,445,"Sweater","H&M","Kids' Fashion",64,3.0456108790029,"Yellow","L","ID500000000",NA,NA
+"446",446,NA,18,446,"Shoes","Adidas","Kids' Fashion",47,2.48496160024443,"Black","L","ID500900900",42,"Produto com defeito"
+"447",447,"8/30/2022",84,447,"Shoes","H&M","Kids' Fashion",40,2.22038256445283,"Yellow","XL","ID501801801",NA,NA
+"448",448,"11/26/2022",75,448,"Shoes","Gucci","Kids' Fashion",22,1.48790251260305,"Green","M","ID502702702",289,"Arrependimento"
+"449",449,"1/10/2022",5,449,"Shoes","H&M","Men's Fashion",74,3.04324787220569,"Black","XL","ID503603603",NA,NA
+"450",450,"11/26/2022",92,450,"Shoes","Nike","Kids' Fashion",58,2.68967813825649,"Black","XL","ID504504504",NA,NA
+"451",451,"8/14/2022",42,451,"T-shirt","Adidas","Kids' Fashion",33,1.93502317829523,"Green","XL","ID505405405",NA,NA
+"452",452,"11/22/2022",43,452,"Jeans","H&M","Kids' Fashion",83,3.38204915459195,"Green","XL","ID506306306",NA,NA
+"453",453,"7/7/2022",30,453,"Shoes","Nike","Men's Fashion",65,2.97197290312663,"Red","S","ID507207207",NA,NA
+"454",454,"12/28/2022",50,454,"Shoes","Zara","Kids' Fashion",50,2.46251908520776,"White","L","ID508108108",NA,NA
+"455",455,"12/12/2022",58,455,"T-shirt","Gucci","Women's Fashion",40,2.24419489506222,"Blue","M","ID509009009",80,"Não informado"
+"456",456,"7/4/2022",93,456,"Shoes","Gucci","Men's Fashion",40,2.28023637643875,"Blue","M","ID509909909",NA,NA
+"457",457,"11/14/2022",70,457,"Jeans","Gucci","Women's Fashion",72,3.21003725577051,"Green","M","ID510810810",145,"Produto com defeito"
+"458",458,"12/31/2022",20,458,"T-shirt","Gucci","Kids' Fashion",57,2.45235960547007,"Black","L","ID511711711",52,"Arrependimento"
+"459",459,"1/12/2022",52,459,"Dress","Adidas","Kids' Fashion",54,2.66208651946179,"Black","S","ID512612612",329,"Arrependimento"
+"460",460,"8/30/2022",39,460,"Jeans","H&M","Kids' Fashion",52,2.73473672588354,"Black","L","ID513513513",NA,NA
+"461",461,"9/13/2022",43,461,"Shoes","Zara","Kids' Fashion",42,2.04660708019821,"Red","M","ID514414414",12,"Arrependimento"
+"462",462,"1/21/2022",65,462,"Dress","Zara","Women's Fashion",40,2.19243560513826,"Yellow","M","ID515315315",258,"Arrependimento"
+"463",463,"8/25/2022",24,463,"Dress","Adidas","Men's Fashion",66,2.96838436478517,"Blue","M","ID516216216",NA,NA
+"464",464,"8/14/2022",53,464,"Shoes","Zara","Men's Fashion",19,1.75926683134467,"Green","L","ID517117117",94,"Não informado"
+"465",465,"11/27/2022",1,465,"T-shirt","Gucci","Women's Fashion",18,1.59214768439722,"White","M","ID518018018",59,"Arrependimento"
+"466",466,"1/9/2022",30,466,"Sweater","H&M","Men's Fashion",58,2.96008276618983,"Black","L","ID518918918",23,"Produto com defeito"
+"467",467,"7/22/2022",13,467,"Jeans","Adidas","Women's Fashion",43,2.17992441974261,"Red","L","ID519819819",198,"Não informado"
+"468",468,"12/11/2022",40,468,"Dress","Zara","Women's Fashion",39,2.04017601883187,"White","S","ID520720720",86,"Arrependimento"
+"469",469,"12/28/2022",83,469,"Dress","Nike","Women's Fashion",46,2.52333263272052,"Yellow","XL","ID521621621",NA,NA
+"470",470,"12/10/2022",76,470,"T-shirt","Adidas","Kids' Fashion",62,3.02110340730859,"Blue","S","ID522522522",NA,NA
+"471",471,"1/23/2022",38,471,"T-shirt","Nike","Women's Fashion",49,2.54241590552659,"Black","M","ID523423423",324,"Arrependimento"
+"472",472,"1/19/2022",11,472,"Jeans","Adidas","Women's Fashion",28,2.01619212061486,"Green","L","ID524324324",NA,NA
+"473",473,"12/28/2022",98,473,"Dress","Nike","Women's Fashion",45,2.25803678184317,"Red","S","ID525225225",171,"Arrependimento"
+"474",474,"9/30/2022",79,474,"Dress","H&M","Kids' Fashion",55,2.69285426756345,"Yellow","L","ID526126126",95,"Produto com defeito"
+"475",475,"11/12/2022",73,475,"Sweater","H&M","Men's Fashion",50,2.36111629930788,"Yellow","S","ID527027027",NA,NA
+"476",476,"11/14/2022",14,476,"Shoes","H&M","Women's Fashion",24,2.08461243778387,"White","XL","ID527927927",NA,NA
+"477",477,"9/8/2022",100,477,"Sweater","Nike","Men's Fashion",40,1.97510088763016,"Black","S","ID528828828",135,"Arrependimento"
+"478",478,"1/23/2022",77,478,"T-shirt","H&M","Women's Fashion",38,2.13120969247842,"Green","L","ID529729729",90,"Não informado"
+"479",479,"8/15/2022",1,479,"Sweater","Nike","Men's Fashion",83,3.4075868588138,"Green","XL","ID530630630",57,"Não informado"
+"480",480,"10/26/2022",9,480,"Dress","Nike","Men's Fashion",36,2.04304236645963,"Blue","XL","ID531531531",196,"Produto com defeito"
+"481",481,"12/16/2022",52,481,"Jeans","Zara","Women's Fashion",55,2.70924563049573,"Blue","XL","ID532432432",165,"Arrependimento"
+"482",482,"11/19/2022",85,482,"Dress","Gucci","Women's Fashion",69,3.19392048500581,"Yellow","M","ID533333333",NA,NA
+"483",483,"9/27/2022",86,483,"T-shirt","Zara","Women's Fashion",31,1.82288515452804,"Black","XL","ID534234234",NA,NA
+"484",484,"5/9/2022",92,484,"Sweater","Gucci","Men's Fashion",41,2.34593850130594,"Red","XL","ID535135135",285,"Produto com defeito"
+"485",485,"5/12/2022",54,485,"Dress","H&M","Women's Fashion",56,2.61949181864034,"Black","S","ID536036036",NA,NA
+"486",486,"7/11/2022",69,486,"Jeans","Adidas","Women's Fashion",47,2.21353133806322,"Yellow","L","ID536936936",61,"Produto com defeito"
+"487",487,"9/25/2022",21,487,"T-shirt","Adidas","Women's Fashion",53,2.54548544710981,"Blue","XL","ID537837837",NA,NA
+"488",488,"9/26/2022",30,488,"Sweater","H&M","Men's Fashion",43,2.65563194939406,"Yellow","XL","ID538738738",55,"Arrependimento"
+"489",489,"12/13/2022",45,489,"Dress","Adidas","Men's Fashion",59,3.36305961340709,"Black","M","ID539639639",NA,NA
+"490",490,"2/20/2022",12,490,"T-shirt","Nike","Men's Fashion",73,3.18996912560392,"Green","L","ID540540540",247,"Produto com defeito"
+"491",491,"9/26/2022",55,491,"Dress","Zara","Kids' Fashion",47,2.28848866237611,"Black","M","ID541441441",NA,NA
+"492",492,"10/27/2022",30,492,"Sweater","Zara","Kids' Fashion",46,1.95445072051335,"Blue","M","ID542342342",99,"Arrependimento"
+"493",493,"8/24/2022",57,493,"Shoes","H&M","Kids' Fashion",30,1.97268270192713,"White","XL","ID543243243",NA,NA
+"494",494,"10/16/2022",54,494,"Sweater","Zara","Kids' Fashion",60,2.5686089873777,"Green","M","ID544144144",NA,NA
+"495",495,"7/12/2022",14,495,"Jeans","Nike","Women's Fashion",62,3.08900604708431,"Blue","S","ID545045045",41,"Arrependimento"
+"496",496,"11/28/2022",92,496,"T-shirt","Adidas","Kids' Fashion",69,2.95096616148014,"Green","L","ID545945945",180,"Arrependimento"
+"497",497,"8/14/2022",NA,497,"Jeans","Gucci","Women's Fashion",51,2.63253427966744,"Yellow","M","ID546846846",NA,NA
+"498",498,"11/20/2022",50,498,"Dress","Zara","Men's Fashion",61,2.56205157740914,"Yellow","XL","ID547747747",NA,NA
+"499",499,"4/4/2022",60,499,"Dress","Adidas","Kids' Fashion",17,1.92967547296211,"White","L","ID548648648",NA,NA
+"500",500,"11/10/2022",36,500,"Shoes","Zara","Women's Fashion",58,2.9437016282488,"Red","M","ID549549549",174,"Não informado"
+"501",501,"1/6/2022",20,501,"Sweater","Adidas","Kids' Fashion",72,3.29936501041894,"Green","S","ID550450450",NA,NA
+"502",502,"7/23/2022",61,502,"Dress","Zara","Kids' Fashion",26,1.52723655036677,"Blue","M","ID551351351",NA,NA
+"503",503,"1/15/2022",84,503,"Sweater","Adidas","Kids' Fashion",58,2.82038511963278,"White","XL","ID552252252",NA,NA
+"504",504,"2/20/2022",70,504,"Sweater","Zara","Men's Fashion",63,2.56562828125323,"Black","XL","ID553153153",275,"Arrependimento"
+"505",505,"3/9/2022",24,505,"Dress","Zara","Women's Fashion",78,3.53916242268185,"Black","S","ID554054054",182,"Arrependimento"
+"506",506,"1/5/2022",47,506,"Shoes","Nike","Women's Fashion",38,1.84824679869974,"Blue","M","ID554954954",NA,NA
+"507",507,NA,37,507,"T-shirt","Zara",NA,42,2.43343828034935,"White","XL","ID555855855",NA,NA
+"508",508,"2/10/2022",72,508,"Dress","Gucci","Men's Fashion",53,2.63129031069079,"Blue","M","ID556756756",NA,NA
+"509",509,"8/15/2022",95,509,"Dress","Gucci","Men's Fashion",25,1.95989521254087,"Blue","L","ID557657657",241,"Arrependimento"
+"510",510,"9/28/2022",9,510,"Shoes","Nike","Men's Fashion",44,2.32896166777005,"Green","L","ID558558558",NA,NA
+"511",511,"1/23/2022",52,511,"Jeans","H&M","Kids' Fashion",46,2.28880958984034,"Black","S","ID559459459",NA,NA
+"512",512,"12/13/2022",71,512,"Shoes","Nike","Men's Fashion",62,2.74771743709623,"Blue","S","ID560360360",332,"Produto com defeito"
+"513",513,"9/15/2022",7,513,"Jeans","Zara","Men's Fashion",41,2.22525803071605,"Green","M","ID561261261",NA,NA
+"514",514,"10/8/2022",27,514,"Dress","Adidas","Kids' Fashion",35,2.2303288193724,"White",NA,"ID562162162",NA,NA
+"515",515,"1/10/2022",1,515,"Dress","Nike","Kids' Fashion",56,2.67445288239599,"White","S","ID563063063",NA,NA
+"516",516,"1/2/2022",51,516,"Shoes","Gucci","Women's Fashion",43,2.4822442187124,"Red","S","ID563963963",147,"Produto com defeito"
+"517",517,"12/30/2022",29,517,"T-shirt","Gucci","Men's Fashion",75,3.17130529767313,"Blue","M","ID564864864",NA,NA
+"518",518,"11/28/2022",87,518,"Sweater","Gucci","Men's Fashion",44,2.37947985785179,"Yellow","S","ID565765765",NA,NA
+"519",519,"8/31/2022",28,519,"Sweater","Adidas","Women's Fashion",27,1.82251283970052,"Blue","XL","ID566666666",NA,NA
+"520",520,"10/28/2022",8,520,"Dress","Zara","Men's Fashion",NA,2.0328242395177,"Red","L","ID567567567",NA,NA
+"521",521,"5/12/2022",90,521,"T-shirt","Adidas","Men's Fashion",22,2.08252106948237,"White","M","ID568468468",NA,NA
+"522",522,"7/8/2022",24,522,"Sweater","Adidas","Men's Fashion",50,2.22031528691305,"Yellow","S","ID569369369",NA,NA
+"523",523,"8/27/2022",82,523,"Sweater","Gucci","Women's Fashion",40,2.40173362103866,"Black","S","ID570270270",66,"Produto com defeito"
+"524",524,"3/28/2022",51,524,"T-shirt","Nike","Kids' Fashion",56,2.78646503778307,"Black",NA,"ID571171171",234,"Não informado"
+"525",525,"10/21/2022",72,525,"T-shirt","Adidas","Kids' Fashion",41,2.22399905414197,"Blue","M","ID572072072",NA,NA
+"526",526,"9/15/2022",36,526,"Jeans",NA,"Women's Fashion",28,1.80710090960095,"Red","L","ID572972972",NA,NA
+"527",527,"9/26/2022",12,527,"T-shirt","Nike","Kids' Fashion",72,2.862767577729,"Yellow","M","ID573873873",NA,NA
+"528",528,"11/14/2022",98,528,"Shoes","Zara","Men's Fashion",65,2.791945944785,"Black","M","ID574774774",NA,NA
+"529",529,"9/26/2022",77,529,"Shoes","Gucci","Women's Fashion",22,NA,"White","L","ID575675675",249,"Produto com defeito"
+"530",530,"12/31/2022",7,530,"Shoes","Adidas","Kids' Fashion",NA,3.12964955439267,"Black","M","ID576576576",NA,NA
+"531",531,"9/16/2022",50,531,"Dress","H&M","Women's Fashion",45,2.2057227617174,"Green","L","ID577477477",NA,NA
+"532",532,"5/9/2022",32,532,"Shoes","Zara","Men's Fashion",58,2.5561791976355,"Blue","L","ID578378378",272,"Não informado"
+"533",533,"1/11/2022",12,533,"Shoes","Nike","Kids' Fashion",10,1.67554560551305,"Green","S","ID579279279",NA,NA
+"534",534,"10/22/2022",40,534,"Dress","Adidas","Kids' Fashion",59,2.74456501666325,"Yellow","M","ID580180180",NA,NA
+"535",535,"1/15/2022",24,535,"Jeans","Nike","Women's Fashion",27,1.87777823865365,"Red","L","ID581081081",63,"Arrependimento"
+"536",536,"12/29/2022",82,536,"Dress","H&M","Kids' Fashion",56,2.57077787891307,"Yellow","S","ID581981981",NA,NA
+"537",537,"1/16/2022",41,537,"Jeans",NA,"Men's Fashion",85,3.54173542903263,"Red","M","ID582882882",341,"Não informado"
+"538",538,"10/27/2022",11,538,"Dress","Nike","Men's Fashion",87,3.60863004297579,"Blue","M","ID583783783",335,"Não informado"
+"539",539,"5/12/2022",26,539,"T-shirt","Nike","Kids' Fashion",59,2.51133815271047,"Blue","L","ID584684684",NA,NA
+"540",540,"5/12/2022",26,540,"Jeans","H&M","Kids' Fashion",59,3.01700777667692,"Yellow","M","ID585585585",47,"Não informado"
+"541",541,"9/18/2022",48,541,"Jeans","Nike","Women's Fashion",45,2.46726117693493,"Green","S","ID586486486",287,"Produto com defeito"
+"542",542,"11/30/2022",35,542,"Dress","Adidas","Men's Fashion",40,2.24496670305786,"Red",NA,"ID587387387",NA,NA
+"543",543,"11/11/2022",15,543,"Jeans","Gucci","Men's Fashion",37,1.94931748521982,"Yellow","M","ID588288288",NA,NA
+"544",544,"8/30/2022",54,544,"T-shirt","Nike","Women's Fashion",29,1.70506107482791,"Red","L","ID589189189",NA,NA
+"545",545,"3/12/2022",68,545,"Shoes","Zara","Men's Fashion",64,2.85230778424718,NA,"XL","ID590090090",253,"Arrependimento"
+"546",546,"10/11/2022",6,546,"Shoes","Zara","Women's Fashion",46,2.32330738206534,"Red","L","ID590990990",92,"Arrependimento"
+"547",547,"1/20/2022",6,547,"Sweater","H&M","Kids' Fashion",63,2.78682942085065,"Yellow","XL","ID591891891",NA,NA
+"548",548,"9/24/2022",79,548,"Sweater","Zara","Kids' Fashion",78,3.39548919866912,"Red","M","ID592792792",123,"Arrependimento"
+"549",549,"5/10/2022",11,549,"Dress","Zara","Women's Fashion",53,2.47853129678049,"Blue","XL","ID593693693",NA,NA
+"550",550,"1/18/2022",57,550,"T-shirt","Nike","Men's Fashion",54,2.8417978218383,"Yellow","L","ID594594594",NA,NA
+"551",551,"11/20/2022",49,551,"Jeans","H&M","Women's Fashion",47,2.36837864211584,"Blue","M","ID595495495",NA,NA
+"552",552,"11/11/2022",2,552,"Sweater","Adidas","Kids' Fashion",70,3.15265463528831,"Blue","M","ID596396396",NA,NA
+"553",553,"12/18/2022",10,553,"Shoes","Adidas","Men's Fashion",39,1.85730580298142,"Green","XL","ID597297297",58,"Arrependimento"
+"554",554,"1/22/2022",11,554,"Sweater","Adidas","Men's Fashion",65,2.92384257468325,"Blue","L","ID598198198",NA,NA
+"555",555,"10/31/2022",21,555,"T-shirt","Adidas","Women's Fashion",47,2.15080712605893,"Blue","L","ID599099099",NA,NA
+"556",556,"12/26/2022",26,556,"T-shirt","H&M","Women's Fashion",73,3.02058295779391,"Red","L","ID599999999",NA,NA
+"557",557,"1/2/2022",45,557,"Shoes","Adidas","Women's Fashion",22,1.85533374613438,"Black","M","ID600900900",126,"Não informado"
+"558",558,"7/10/2022",2,558,"Jeans","Adidas","Women's Fashion",56,2.80168638864903,"Red","XL","ID601801801",257,"Arrependimento"
+"559",559,"4/9/2022",6,559,"Shoes","Gucci","Women's Fashion",65,3.13583787255015,"Red","XL","ID602702702",NA,NA
+"560",560,"5/31/2022",31,560,"Dress","Adidas","Women's Fashion",60,2.77943059160078,"Red","XL","ID603603603",2,"Arrependimento"
+"561",561,"10/23/2022",65,561,"Shoes","Zara","Men's Fashion",31,2.24077833119378,"Yellow","M","ID604504504",NA,NA
+"562",562,"12/26/2022",37,562,"T-shirt","Zara","Kids' Fashion",39,2.37698513641508,"Green","L","ID605405405",NA,NA
+"563",563,"11/18/2022",44,563,"Shoes","Adidas","Men's Fashion",30,1.64748222895578,"Blue","XL","ID606306306",NA,NA
+"564",564,"1/1/2022",70,564,"Shoes","Adidas","Kids' Fashion",77,3.12801731457304,"Blue","M","ID607207207",NA,NA
+"565",565,"9/22/2022",13,565,"Sweater","Nike","Kids' Fashion",69,3.02870205847404,"White","L","ID608108108",NA,NA
+"566",566,"10/23/2022",100,566,"Dress","Gucci","Kids' Fashion",58,2.75204395889412,"White","M","ID609009008",NA,NA
+"567",567,"8/24/2022",27,567,"Dress","Zara","Kids' Fashion",45,2.30215111201402,"Black","M","ID609909909",64,"Não informado"
+"568",568,"1/6/2022",61,568,"Sweater","Gucci","Kids' Fashion",32,2.00798001785273,"Red","L","ID610810810",NA,NA
+"569",569,"11/23/2022",92,569,"Dress","Nike","Kids' Fashion",35,2.14321326456362,"Blue","XL","ID611711711",NA,NA
+"570",570,"8/19/2022",4,570,"T-shirt","Adidas","Women's Fashion",49,2.64297425748863,"Black","S","ID612612612",117,"Não informado"
+"571",571,"1/10/2022",23,571,"Jeans","Nike","Men's Fashion",40,2.37416657592375,"Red","M","ID613513513",NA,NA
+"572",572,"8/18/2022",17,572,"Sweater","H&M","Men's Fashion",22,1.93702657766851,"Blue","S","ID614414414",NA,NA
+"573",573,"8/30/2022",80,573,"Shoes","Zara","Kids' Fashion",46,2.07603139324304,"White",NA,"ID615315315",NA,NA
+"574",574,"1/26/2022",9,574,"Jeans","Gucci","Women's Fashion",64,2.84696991804887,"Black","L","ID616216216",NA,NA
+"575",575,"8/9/2022",99,575,"T-shirt","H&M","Kids' Fashion",53,2.61155828426831,"White","L","ID617117117",NA,NA
+"576",576,"1/8/2022",76,576,"T-shirt","H&M","Women's Fashion",38,2.00696067375106,"White","S","ID618018017",NA,NA
+"577",577,"11/22/2022",41,577,"T-shirt","H&M","Women's Fashion",72,3.04707890820019,"White","M","ID618918918",292,"Não informado"
+"578",578,"5/11/2022",65,578,"Dress","Gucci","Women's Fashion",NA,2.94170170106251,"Green","L","ID619819819",NA,NA
+"579",579,"11/13/2022",26,579,"Shoes","Gucci","Women's Fashion",34,2.02908093135776,"White","XL","ID620720720",NA,NA
+"580",580,"10/24/2022",38,580,"Shoes","Adidas","Men's Fashion",61,2.71881034825917,"Green","S","ID621621621",NA,NA
+"581",581,"10/26/2022",65,581,"Sweater","Zara","Men's Fashion",59,2.33168735893329,"Red","L","ID622522522",NA,NA
+"582",582,"11/30/2022",24,582,"Dress","Zara","Men's Fashion",40,2.15712506756697,"White","M","ID623423423",310,"Arrependimento"
+"583",583,"12/12/2022",96,583,"Dress","H&M","Kids' Fashion",14,1.43466855810599,"Green","L","ID624324324",NA,NA
+"584",584,"3/20/2022",71,584,"T-shirt","Gucci","Women's Fashion",74,3.41797627406339,"Black","S","ID625225225",NA,NA
+"585",585,"1/29/2022",6,585,"Jeans","Adidas","Women's Fashion",57,2.74106645023716,"Yellow","M","ID626126126",NA,NA
+"586",586,"7/12/2022",38,586,"Sweater","Nike","Kids' Fashion",78,3.29884943155115,"Yellow","M","ID627027026",318,"Não informado"
+"587",587,"11/14/2022",41,587,"T-shirt","Adidas","Women's Fashion",48,2.38994964640864,"Blue","XL","ID627927927",71,"Produto com defeito"
+"588",588,"10/17/2022",46,588,"T-shirt","Gucci","Kids' Fashion",25,1.74365853940986,"White","S","ID628828828",NA,NA
+"589",589,"12/28/2022",71,589,"T-shirt","Adidas","Women's Fashion",53,2.11169378278262,"Red","L","ID629729729",8,"Não informado"
+"590",590,"1/23/2022",56,590,"T-shirt","Nike","Kids' Fashion",NA,2.72008337701029,"Green","L","ID630630630",347,"Arrependimento"
+"591",591,"11/27/2022",61,591,"Jeans","Gucci","Women's Fashion",51,2.12781404929662,"White","M","ID631531531",261,"Produto com defeito"
+"592",592,"10/23/2022",29,592,"Jeans","Nike","Kids' Fashion",33,2.15979779027915,NA,"M","ID632432432",188,"Arrependimento"
+"593",593,"4/11/2022",97,593,"Sweater","H&M","Men's Fashion",69,2.68472254438402,"White","S","ID633333333",NA,NA
+"594",594,"9/21/2022",97,594,"Sweater","Nike","Kids' Fashion",40,2.2814052969893,"Yellow","S","ID634234234",NA,NA
+"595",595,"9/19/2022",53,595,"T-shirt","Gucci","Women's Fashion",43,2.30345403650458,"Blue","S","ID635135135",NA,NA
+"596",596,"7/4/2022",9,596,"Dress","H&M","Women's Fashion",10,1.32960070503754,"Black","L","ID636036035",NA,NA
+"597",597,"4/4/2022",95,597,"Jeans","H&M","Men's Fashion",44,2.49312640574933,"Blue","M","ID636936936",NA,NA
+"598",598,"7/12/2022",79,598,"Shoes","Gucci","Women's Fashion",45,2.22687969352741,"Yellow","XL","ID637837837",112,"Produto com defeito"
+"599",599,"6/10/2022",52,599,"T-shirt","H&M","Men's Fashion",20,1.74986704808009,"Green","S","ID638738738",NA,NA
+"600",600,"9/9/2022",40,600,"T-shirt","Adidas","Men's Fashion",17,1.85747801116623,"Yellow","M","ID639639639",124,"Não informado"
+"601",601,"1/18/2022",80,601,"Dress","Adidas","Women's Fashion",21,1.56282758176274,"White","L","ID640540540",14,"Produto com defeito"
+"602",602,"10/28/2022",7,602,"Sweater","Zara","Women's Fashion",43,2.22865289321525,"White","L","ID641441441",NA,NA
+"603",603,"5/8/2022",26,603,"Dress","Zara","Kids' Fashion",48,2.51338627179906,"Black","S","ID642342342",259,"Arrependimento"
+"604",604,"1/25/2022",74,604,"T-shirt","Gucci","Men's Fashion",61,2.7672347068461,"Yellow","S","ID643243243",NA,NA
+"605",605,"3/9/2022",92,605,"Jeans","Adidas","Women's Fashion",43,1.88072930359063,"Red","S","ID644144144",NA,NA
+"606",606,"12/14/2022",35,606,"Dress","Nike","Women's Fashion",38,2.22328791590781,"White","S","ID645045044",NA,NA
+"607",607,"12/29/2022",40,607,"T-shirt","Nike","Women's Fashion",47,2.74801033181813,"Yellow","S","ID645945945",50,"Produto com defeito"
+"608",608,"10/16/2022",90,608,"T-shirt","H&M","Women's Fashion",74,2.92675907949243,"Blue","M","ID646846846",NA,NA
+"609",609,"1/3/2022",89,609,"Sweater","Adidas","Kids' Fashion",52,1.87534361533543,"Red","S","ID647747747",NA,NA
+"610",610,NA,85,610,"Shoes",NA,"Women's Fashion",49,2.76423733146828,"Green","M","ID648648648",NA,NA
+"611",611,"9/21/2022",2,611,"Shoes","Gucci","Kids' Fashion",44,2.27883713224654,"White","L","ID649549549",260,"Não informado"
+"612",612,"1/15/2022",28,612,"Shoes","Zara","Men's Fashion",59,2.66139276002449,"Blue","XL","ID650450450",316,"Arrependimento"
+"613",613,"1/5/2022",80,613,"Jeans","Gucci","Women's Fashion",37,2.21876936262641,"Black","XL","ID651351351",NA,NA
+"614",614,"10/10/2022",89,614,"Sweater","Gucci","Men's Fashion",73,3.21924184101875,"Green","L","ID652252252",91,"Não informado"
+"615",615,"6/25/2022",44,615,"T-shirt","Nike","Kids' Fashion",53,2.72124485734277,"Red","L","ID653153153",NA,NA
+"616",616,"1/17/2022",80,616,"Dress","Zara","Women's Fashion",67,NA,"Red","M","ID654054053",NA,NA
+"617",617,"9/20/2022",19,617,"Jeans","Adidas","Kids' Fashion",61,2.7284754383661,"Black","XL","ID654954954",173,"Arrependimento"
+"618",618,"11/26/2022",NA,618,"Shoes","Gucci","Kids' Fashion",62,2.83453294615874,"Green","L","ID655855855",NA,NA
+"619",619,"11/26/2022",10,619,"T-shirt","Nike","Women's Fashion",68,3.0422840772546,"Blue","M","ID656756756",78,"Produto com defeito"
+"620",620,"9/8/2022",68,620,"Sweater","Nike","Kids' Fashion",68,2.80204043529811,"White","XL","ID657657657",NA,NA
+"621",621,"6/12/2022",17,621,"Shoes","H&M","Men's Fashion",46,2.11301232693151,"Yellow","S","ID658558558",NA,NA
+"622",622,"1/10/2022",30,622,"T-shirt","Nike","Men's Fashion",74,3.2317631745776,"Red","XL","ID659459459",NA,NA
+"623",623,"10/14/2022",67,623,"Shoes","Adidas","Kids' Fashion",69,3.23537506823716,"Green","L","ID660360360",150,"Produto com defeito"
+"624",624,"3/11/2022",83,624,"T-shirt","Nike","Women's Fashion",54,2.4070856508843,"White","L","ID661261261",NA,NA
+"625",625,"10/29/2022",75,625,"Shoes","Adidas","Kids' Fashion",23,1.92555125102575,"Black","L","ID662162162",NA,NA
+"626",626,"5/30/2022",44,626,"Jeans","Adidas","Men's Fashion",33,2.31036773547475,"Yellow","S","ID663063062",NA,NA
+"627",627,"1/26/2022",61,627,"T-shirt","Adidas","Men's Fashion",49,2.59106207075942,"Green","M","ID663963963",220,"Produto com defeito"
+"628",628,"7/15/2022",93,628,"Sweater","Nike","Women's Fashion",54,2.49318917701928,"Red","S","ID664864864",NA,NA
+"629",629,"8/11/2022",80,629,"Shoes","Gucci","Men's Fashion",47,2.21756600875912,"White","M","ID665765765",NA,NA
+"630",630,"1/28/2022",74,630,"T-shirt","Nike","Women's Fashion",57,2.79481126616935,"White","XL","ID666666666",161,"Arrependimento"
+"631",631,"2/25/2022",65,631,"T-shirt","Zara","Kids' Fashion",68,3.16771739137658,"White","S","ID667567567",NA,NA
+"632",632,"12/16/2022",64,632,"Dress","Zara","Kids' Fashion",73,3.1334653533308,"Yellow","M","ID668468468",NA,NA
+"633",633,"8/29/2022",73,633,"Dress","Nike","Women's Fashion",56,2.97759963948101,"Red","L","ID669369369",NA,NA
+"634",634,"10/20/2022",9,634,"Shoes","Nike","Kids' Fashion",32,1.90324387459449,"Yellow","S","ID670270270",82,"Arrependimento"
+"635",635,"9/20/2022",34,635,"Jeans","Adidas","Women's Fashion",58,2.79981235465735,"Yellow","XL","ID671171171",307,"Não informado"
+"636",636,"12/31/2022",10,636,NA,"Gucci","Kids' Fashion",54,2.87100316613964,"Yellow","L","ID672072071",NA,NA
+"637",637,"7/8/2022",33,637,"Shoes","Zara","Kids' Fashion",21,1.75398219660517,"Green","S","ID672972972",NA,NA
+"638",638,"3/9/2022",7,638,"Sweater","Adidas","Men's Fashion",33,2.09515675295474,"White","M","ID673873873",NA,NA
+"639",639,"9/13/2022",22,639,"Shoes","Zara","Men's Fashion",60,2.72979971356077,"Blue","L","ID674774774",NA,NA
+"640",640,"11/24/2022",11,640,"T-shirt","Zara","Kids' Fashion",39,2.37921962857102,"Red","S","ID675675675",NA,NA
+"641",641,"12/29/2022",10,641,"Shoes","Zara","Kids' Fashion",45,2.42763901775162,"White","M","ID676576576",248,"Produto com defeito"
+"642",642,"8/19/2022",75,642,"T-shirt","Gucci","Kids' Fashion",42,2.67307117755392,"Black","S","ID677477477",NA,NA
+"643",643,"8/19/2022",63,643,"T-shirt","Zara","Kids' Fashion",58,2.77402127982043,"Black","L","ID678378378",NA,NA
+"644",644,"5/12/2022",64,644,"Shoes","H&M","Kids' Fashion",33,1.98890635503437,"White","M","ID679279279",25,"Arrependimento"
+"645",645,"12/24/2022",46,645,"T-shirt","Zara",NA,28,1.98935974981686,"Black","S","ID680180180",NA,NA
+"646",646,"5/8/2022",36,646,"Sweater","Zara",NA,43,2.31189779970376,"Green","M","ID681081080",NA,NA
+"647",647,"9/10/2022",25,647,"Shoes","Adidas","Women's Fashion",59,2.53904244252473,"Black","M","ID681981981",152,"Produto com defeito"
+"648",648,"12/14/2022",74,648,"T-shirt","Gucci","Men's Fashion",80,3.12299883902276,"White","L","ID682882882",NA,NA
+"649",649,"11/27/2022",82,649,"T-shirt","Gucci","Women's Fashion",37,2.16494093424972,"Red","S","ID683783783",NA,NA
+"650",650,"11/14/2022",22,650,"Dress","Gucci","Women's Fashion",69,2.6456116824449,"Green","M","ID684684684",NA,NA
+"651",651,"1/18/2022",35,651,"Shoes","Gucci","Men's Fashion",48,2.0857952390493,"Yellow","XL","ID685585585",3,"Produto com defeito"
+"652",652,"8/26/2022",8,652,NA,"Zara","Kids' Fashion",55,2.71190865633356,"Yellow","L","ID686486486",22,"Arrependimento"
+"653",653,"12/20/2022",65,653,"Dress","Gucci","Kids' Fashion",50,2.33263010724607,"Red","L","ID687387387",NA,NA
+"654",654,"1/10/2022",34,654,"Shoes","Zara","Kids' Fashion",34,2.1267172413034,"Blue","S","ID688288288",NA,NA
+"655",655,"11/9/2022",6,655,"T-shirt","Zara","Men's Fashion",68,2.70654569553205,"Black","S","ID689189189",251,"Não informado"
+"656",656,"10/22/2022",67,656,"Jeans","Nike","Men's Fashion",59,2.57501269555878,"White","M","ID690090089",NA,NA
+"657",657,"2/11/2022",36,657,"Jeans","Nike","Men's Fashion",38,2.1606387333169,"Yellow","L","ID690990990",277,"Não informado"
+"658",658,"11/17/2022",60,658,"Jeans","Adidas","Women's Fashion",28,2.11814222511231,"Green","L","ID691891891",NA,NA
+"659",659,"10/12/2022",97,659,"Shoes","Zara","Women's Fashion",58,2.43262180142838,"White","M","ID692792792",9,"Não informado"
+"660",660,"8/15/2022",11,660,"Dress","Adidas","Kids' Fashion",96,3.93695059184266,"Blue","S","ID693693693",NA,NA
+"661",661,"12/13/2022",30,661,"Jeans","Gucci","Kids' Fashion",73,3.14792749649799,"Blue","XL","ID694594594",129,"Produto com defeito"
+"662",662,"9/12/2022",4,662,"Dress","Nike","Women's Fashion",64,2.93886189497465,"Black","S","ID695495495",NA,NA
+"663",663,"2/12/2022",17,663,"Sweater","Zara","Women's Fashion",51,2.75466864725017,"Black","L","ID696396396",54,"Arrependimento"
+"664",664,"8/15/2022",33,664,"Shoes","H&M","Kids' Fashion",41,2.38554933601942,"White","L","ID697297297",NA,NA
+"665",665,"1/7/2022",89,665,"T-shirt","H&M","Women's Fashion",44,2.34525107984736,"Red","S","ID698198198",NA,NA
+"666",666,"8/28/2022",37,666,"T-shirt","H&M","Women's Fashion",79,3.55028311656058,"Black","S","ID699099098",236,"Arrependimento"
+"667",667,"11/14/2022",49,667,"Shoes","Nike","Kids' Fashion",47,2.6069139013197,"Blue","XL","ID699999999",31,"Arrependimento"
+"668",668,"8/19/2022",77,668,"Shoes","Zara","Men's Fashion",41,2.35865929138529,"White","S","ID700900900",213,"Não informado"
+"669",669,"12/15/2022",100,669,"Shoes","Adidas","Women's Fashion",57,2.95830878793394,"White","L","ID701801801",NA,NA
+"670",670,"3/7/2022",48,670,"T-shirt","Gucci",NA,41,2.10748612402835,"Yellow","M","ID702702702",NA,NA
+"671",671,"7/4/2022",8,671,"Dress","Adidas","Women's Fashion",54,2.59798157006976,"Blue","L","ID703603603",NA,NA
+"672",672,"12/12/2022",31,672,"Sweater","Zara","Kids' Fashion",47,2.20858303313973,"Blue","M","ID704504504",NA,NA
+"673",673,"4/12/2022",79,673,"T-shirt","Gucci","Kids' Fashion",26,1.43624237001868,"Yellow","M","ID705405405",NA,NA
+"674",674,"9/20/2022",2,674,"Shoes","Adidas","Kids' Fashion",62,2.96850483176417,"Green","L","ID706306306",239,"Produto com defeito"
+"675",675,"10/25/2022",11,675,"Sweater","Nike","Kids' Fashion",53,2.27595990484863,"Green","XL","ID707207207",103,"Produto com defeito"
+"676",676,"8/26/2022",25,676,"Shoes","Nike","Women's Fashion",49,2.64622123989513,"Black","L","ID708108107",NA,NA
+"677",677,"12/25/2022",74,677,"Shoes","Gucci","Women's Fashion",37,2.28553440130026,"Blue","L","ID709009008",NA,NA
+"678",678,"10/10/2022",11,678,"Dress","H&M","Men's Fashion",38,2.16542924343339,"Black","L","ID709909909",NA,NA
+"679",679,"7/11/2022",99,679,"Jeans","Adidas","Kids' Fashion",50,2.57376770157671,"Yellow","L","ID710810810",51,"Arrependimento"
+"680",680,"12/28/2022",5,680,"Dress","Nike","Women's Fashion",71,3.02346030139061,"Red","XL","ID711711711",NA,NA
+"681",681,"8/7/2022",59,681,"Shoes","Zara","Kids' Fashion",69,2.71209512601041,"Black","L","ID712612612",NA,NA
+"682",682,"2/10/2022",13,682,"Jeans","Adidas","Women's Fashion",61,2.98557154881466,"Blue","XL","ID713513513",NA,NA
+"683",683,"7/12/2022",75,683,"Jeans","Gucci","Men's Fashion",46,2.13750496961492,"White","XL","ID714414414",344,"Produto com defeito"
+"684",684,"1/6/2022",31,684,"Dress","Adidas","Women's Fashion",42,2.19768822166334,"White","S","ID715315315",NA,NA
+"685",685,"1/6/2022",37,685,"Jeans","Nike","Men's Fashion",72,2.89843257225432,"White","M","ID716216216",73,"Arrependimento"
+"686",686,"11/13/2022",9,686,"Jeans","H&M","Women's Fashion",55,2.77631084238047,"Green","M","ID717117116",NA,NA
+"687",687,"12/29/2022",35,687,"Sweater","H&M","Kids' Fashion",45,2.02866952351786,"Blue","L","ID718018017",NA,NA
+"688",688,"8/20/2022",19,688,"Sweater","H&M","Kids' Fashion",35,2.07898835588377,"White","XL","ID718918918",97,"Arrependimento"
+"689",689,"1/28/2022",5,689,"Jeans","H&M","Kids' Fashion",58,2.50508655509911,"Black","L","ID719819819",NA,NA
+"690",690,"8/20/2022",11,690,"Jeans","H&M","Kids' Fashion",51,2.77811127166893,"White","L","ID720720720",291,"Arrependimento"
+"691",691,"12/8/2022",38,691,"T-shirt","Adidas","Kids' Fashion",60,2.49265465675202,"Blue","XL","ID721621621",NA,NA
+"692",692,"7/28/2022",91,692,"Dress","Nike","Women's Fashion",51,2.44223428435054,"Red","XL","ID722522522",NA,NA
+"693",693,"12/2/2022",44,693,"Shoes","Nike","Men's Fashion",49,2.35117161516671,"Green","L","ID723423423",NA,NA
+"694",694,"8/7/2022",98,694,"T-shirt","Adidas","Kids' Fashion",39,2.3416679983236,"Red","L","ID724324324",267,"Arrependimento"
+"695",695,"10/11/2022",45,695,"Dress","Zara","Women's Fashion",60,2.54036386304823,"Red","XL","ID725225225",NA,NA
+"696",696,"7/10/2022",81,696,"Sweater","Adidas","Men's Fashion",49,2.36822125012819,"Green","XL","ID726126125",NA,NA
+"697",697,"7/4/2022",61,697,"T-shirt","Nike","Women's Fashion",52,2.24729010219962,"Green","L","ID727027026",NA,NA
+"698",698,"9/26/2022",82,698,"Sweater","Zara","Men's Fashion",10,1.15510854679186,"White","XL","ID727927927",204,"Arrependimento"
+"699",699,"1/20/2022",52,699,"T-shirt","Adidas","Men's Fashion",51,2.63001434572549,"Green","S","ID728828828",156,"Produto com defeito"
+"700",700,"1/7/2022",96,700,"Dress","H&M","Women's Fashion",39,1.95262895439185,"Yellow","S","ID729729729",NA,NA
+"701",701,"1/22/2022",34,701,"Jeans","Nike","Women's Fashion",15,1.65663083850284,"Blue","XL","ID730630630",314,"Não informado"
+"702",702,"7/15/2022",46,702,"Shoes","Gucci","Kids' Fashion",50,2.67946343397853,"Blue","L","ID731531531",NA,NA
+"703",703,"12/20/2022",27,703,"Shoes","Gucci","Men's Fashion",41,2.64463707293106,"Blue","S","ID732432432",NA,NA
+"704",704,"8/28/2022",6,704,"T-shirt","Adidas","Kids' Fashion",40,2.38845060557345,"Green","M","ID733333333",NA,NA
+"705",705,"1/6/2022",32,705,"Dress","Nike","Kids' Fashion",33,2.08481998242313,"Black","L","ID734234234",300,"Produto com defeito"
+"706",706,"10/25/2022",91,706,"Jeans","Gucci","Women's Fashion",92,3.64120955455429,"Green","S","ID735135134",19,"Arrependimento"
+"707",707,"7/28/2022",100,707,"Dress","Adidas","Women's Fashion",64,2.73321994046165,"Green","M","ID736036035",NA,NA
+"708",708,"1/10/2022",17,708,"T-shirt","Nike","Kids' Fashion",48,2.62326850186906,"Black","M","ID736936936",NA,NA
+"709",709,"11/17/2022",57,709,"T-shirt","Adidas","Men's Fashion",44,2.02760360542796,"White","XL","ID737837837",168,"Não informado"
+"710",710,NA,50,710,"Sweater","Zara","Men's Fashion",36,2.0818533726705,"Red","S","ID738738738",293,"Produto com defeito"
+"711",711,"1/28/2022",37,711,"Jeans","Adidas","Men's Fashion",41,2.24663125941343,"Red","M","ID739639639",NA,NA
+"712",712,"2/8/2022",76,712,"Shoes","Gucci","Kids' Fashion",68,3.17806305160619,"Green","S","ID740540540",NA,NA
+"713",713,"12/24/2022",25,713,"Jeans","Gucci","Men's Fashion",55,2.53012507411268,"Blue","XL","ID741441441",NA,NA
+"714",714,"1/21/2022",91,714,"Shoes","Zara","Men's Fashion",63,2.83504225396639,"White","S","ID742342342",NA,NA
+"715",715,"10/20/2022",48,715,"Shoes","Nike","Women's Fashion",19,1.4427984838821,"Yellow","L","ID743243243",NA,NA
+"716",716,"10/10/2022",11,716,"Shoes","Adidas","Men's Fashion",54,2.36083079572081,"Red","S","ID744144143",NA,NA
+"717",717,"11/12/2022",8,717,"Sweater","Nike","Women's Fashion",47,2.45995189557674,"Yellow",NA,"ID745045044",NA,NA
+"718",718,"7/12/2022",73,718,"T-shirt","Zara","Women's Fashion",62,2.69761735885638,"White","L","ID745945945",96,"Produto com defeito"
+"719",719,"12/31/2022",59,719,"Dress","H&M","Women's Fashion",35,2.14632129267492,"Blue","M","ID746846846",237,"Não informado"
+"720",720,"2/10/2022",97,720,"Shoes","Adidas","Men's Fashion",66,3.0383218136673,"Black","S","ID747747747",NA,NA
+"721",721,"4/12/2022",42,721,"Shoes","Zara","Kids' Fashion",76,3.20090485871677,"Blue","M","ID748648648",303,"Não informado"
+"722",722,"3/9/2022",78,722,"Dress","Adidas","Women's Fashion",31,2.27595490068461,"Blue","L","ID749549549",NA,NA
+"723",723,"1/14/2022",NA,723,"T-shirt","Nike","Men's Fashion",48,2.25506743914107,"White","S","ID750450450",36,"Arrependimento"
+"724",724,"7/15/2022",82,724,"Shoes","Adidas","Women's Fashion",37,2.26428210162266,"Yellow","S","ID751351351",NA,NA
+"725",725,"11/21/2022",87,725,"Jeans","Gucci","Women's Fashion",54,2.49824090134876,"Black","XL","ID752252252",NA,NA
+"726",726,"5/21/2022",40,726,"T-shirt","Nike","Men's Fashion",76,3.21731941551407,"Red","XL","ID753153152",NA,NA
+"727",727,"10/10/2022",72,727,"Jeans","Adidas","Women's Fashion",73,3.37818040205379,"White","S","ID754054053",NA,NA
+"728",728,"7/12/2022",95,728,"Dress","Zara","Men's Fashion",28,1.90965099290536,"Yellow","S","ID754954954",343,"Produto com defeito"
+"729",729,"7/31/2022",26,729,"Sweater","Gucci","Kids' Fashion",34,2.26778711753603,"Yellow","XL","ID755855855",NA,NA
+"730",730,"10/21/2022",72,730,"Jeans","Zara","Kids' Fashion",27,1.94242468724213,"Green","M","ID756756756",148,"Arrependimento"
+"731",731,"10/26/2022",20,731,"Sweater","Adidas","Men's Fashion",56,2.84511041363285,"White","XL","ID757657657",NA,NA
+"732",732,"9/30/2022",48,732,"Shoes","Zara","Women's Fashion",59,2.74386881430264,"Blue","S","ID758558558",NA,NA
+"733",733,"7/15/2022",89,733,"Sweater","Adidas","Women's Fashion",48,2.44330318360902,"Black","M","ID759459459",NA,NA
+"734",734,"5/9/2022",89,734,"Dress","Zara","Women's Fashion",44,2.45416477640748,"Blue","XL","ID760360360",144,"Não informado"
+"735",735,"9/9/2022",65,735,"Sweater","H&M","Men's Fashion",79,3.2702654647326,"Yellow","L","ID761261261",NA,NA
+"736",736,"1/3/2022",11,736,"T-shirt","Adidas","Men's Fashion",76,3.20465612543703,"White","L","ID762162161",NA,NA
+"737",737,"8/15/2022",20,737,"T-shirt","Adidas","Kids' Fashion",65,3.0007817190871,"Blue","S","ID763063062",40,"Produto com defeito"
+"738",738,"1/26/2022",30,738,"Jeans","H&M","Men's Fashion",57,NA,"Blue","L","ID763963963",13,"Produto com defeito"
+"739",739,"12/24/2022",24,739,"Sweater","Gucci","Kids' Fashion",10,1.16825990649225,"Red","M","ID764864864",67,"Não informado"
+"740",740,"9/21/2022",68,740,"Dress","Nike","Women's Fashion",29,1.84185284247682,"White","XL","ID765765765",NA,NA
+"741",741,"9/26/2022",49,741,"Shoes","Nike","Women's Fashion",46,2.48915381943367,"Blue","XL","ID766666666",NA,NA
+"742",742,"9/10/2022",54,742,"Dress","H&M","Men's Fashion",65,2.91599961879474,"Yellow","L","ID767567567",NA,NA
+"743",743,"11/30/2022",15,743,"Jeans","H&M","Women's Fashion",62,2.95897138913922,"Red","XL","ID768468468",181,"Não informado"
+"744",744,"9/8/2022",21,744,"Shoes","Zara","Men's Fashion",39,2.35115023375824,"Black","XL","ID769369369",NA,NA
+"745",745,"8/25/2022",73,745,"Sweater","Zara","Men's Fashion",56,2.91421191917268,"Blue","L","ID770270270",NA,NA
+"746",746,"5/9/2022",13,746,"Shoes","Gucci","Kids' Fashion",61,2.75624744997973,"Black","S","ID771171170",70,"Produto com defeito"
+"747",747,"12/16/2022",37,747,"Jeans","Adidas","Kids' Fashion",19,1.55630312279557,"White","XL","ID772072071",108,"Arrependimento"
+"748",748,"12/28/2022",87,748,"Sweater","Zara","Kids' Fashion",43,2.50228664980675,"Red","S","ID772972972",NA,NA
+"749",749,"1/2/2022",31,749,"Shoes","Gucci","Women's Fashion",37,2.21519650452498,"Black","L","ID773873873",336,"Produto com defeito"
+"750",750,"7/30/2022",71,750,"Shoes","Nike","Kids' Fashion",79,3.13952862684189,"Red","L","ID774774774",NA,NA
+"751",751,"12/25/2022",65,751,"Jeans","Gucci","Kids' Fashion",25,1.81277602769013,"Blue","S","ID775675675",276,"Não informado"
+"752",752,"8/14/2022",14,752,"Dress","Gucci","Men's Fashion",61,2.72140151037813,"Blue","L","ID776576576",246,"Arrependimento"
+"753",753,"4/11/2022",17,753,"Jeans","Zara","Kids' Fashion",66,3.08547329383957,"Yellow","S","ID777477477",NA,NA
+"754",754,"12/24/2022",63,754,"Jeans","Gucci","Kids' Fashion",46,2.28604818071311,"Red","L","ID778378378",229,"Arrependimento"
+"755",755,"8/16/2022",99,755,"T-shirt","Zara","Women's Fashion",58,2.77916476902459,"White","S","ID779279279",NA,NA
+"756",756,"11/14/2022",37,756,"Jeans","Adidas","Men's Fashion",56,2.46732567263459,"Black","XL","ID780180179",164,"Não informado"
+"757",757,"8/24/2022",66,757,"Shoes","Gucci","Kids' Fashion",35,2.1005760431672,"Black","L","ID781081080",NA,NA
+"758",758,"10/16/2022",32,758,"Jeans","Nike","Women's Fashion",64,2.93844950491009,"Green","M","ID781981981",NA,NA
+"759",759,"7/15/2022",39,759,"Shoes","Gucci","Kids' Fashion",42,2.60423254526387,"Black","S","ID782882882",208,"Não informado"
+"760",760,"9/26/2022",35,760,"Jeans","Nike","Women's Fashion",43,2.3499486526274,"Green","S","ID783783783",NA,NA
+"761",761,"5/12/2022",86,761,"Dress","H&M","Men's Fashion",45,2.43985583076894,"Black","L","ID784684684",NA,NA
+"762",762,"3/29/2022",8,762,"Jeans","Nike","Kids' Fashion",47,2.2571418680376,"Blue","XL","ID785585585",NA,NA
+"763",763,"1/15/2022",71,763,"T-shirt","Nike","Men's Fashion",45,2.81455628459006,"Green","S","ID786486486",274,"Não informado"
+"764",764,"11/19/2022",10,764,"Dress","H&M","Women's Fashion",74,3.08218948063994,"Black","M","ID787387387",269,"Produto com defeito"
+"765",765,"1/27/2022",25,765,"Sweater","H&M","Kids' Fashion",61,2.89192712200267,"Blue","S","ID788288288",NA,NA
+"766",766,"9/24/2022",25,766,"Jeans","Zara","Men's Fashion",44,2.15020633134959,"Green","M","ID789189188",NA,NA
+"767",767,"10/24/2022",83,767,"Shoes","H&M","Men's Fashion",NA,2.88903293363795,"Yellow","L","ID790090089",NA,NA
+"768",768,"9/12/2022",12,768,"Shoes","H&M","Women's Fashion",90,3.6168589801691,"White","M","ID790990990",NA,NA
+"769",769,"8/24/2022",71,769,"Sweater","Zara","Men's Fashion",22,1.78426580437648,"White","S","ID791891891",NA,NA
+"770",770,"10/27/2022",93,770,"T-shirt","H&M","Kids' Fashion",46,2.16250491562136,"Yellow","S","ID792792792",NA,NA
+"771",771,"9/28/2022",71,771,"T-shirt","Zara","Men's Fashion",56,2.9066096376103,"Red","XL","ID793693693",138,"Produto com defeito"
+"772",772,"12/15/2022",34,772,"Shoes","Gucci","Men's Fashion",47,2.33775159783415,"Black","XL","ID794594594",NA,NA
+"773",773,"1/22/2022",70,773,"Shoes","Nike","Women's Fashion",29,2.08791879037568,"Black","XL","ID795495495",NA,NA
+"774",774,"9/15/2022",74,774,"Dress","H&M","Men's Fashion",53,NA,"White","L","ID796396396",NA,NA
+"775",775,"12/12/2022",39,775,"Dress",NA,"Men's Fashion",32,1.78073630441719,"White","M","ID797297297",NA,NA
+"776",776,"10/30/2022",73,776,"Dress","Nike","Men's Fashion",50,2.81403811114662,"Red","M","ID798198197",304,"Não informado"
+"777",777,"8/12/2022",40,777,"Jeans","Adidas","Kids' Fashion",43,2.08971755853311,"Green","M","ID799099098",201,"Não informado"
+"778",778,"10/19/2022",25,778,"Dress","Nike","Kids' Fashion",57,2.82625320252016,"White","L","ID799999999",NA,NA
+"779",779,"5/10/2022",98,779,"Jeans","Nike","Kids' Fashion",62,3.09518544862146,"Yellow","XL","ID800900900",NA,NA
+"780",780,"1/19/2022",46,780,"T-shirt","Gucci","Kids' Fashion",34,2.06953476418965,"Blue","XL","ID801801801",179,"Produto com defeito"
+"781",781,"11/18/2022",83,781,NA,"Nike","Men's Fashion",69,2.67341158232019,"Green","L","ID802702702",NA,NA
+"782",782,"11/14/2022",23,782,"T-shirt","Adidas","Men's Fashion",62,2.98332655980261,"White","M","ID803603603",240,"Produto com defeito"
+"783",783,"5/21/2022",76,783,"Jeans","H&M","Women's Fashion",31,2.27852721695298,"Red","S","ID804504504",301,"Arrependimento"
+"784",784,"7/15/2022",95,784,"Sweater","Zara","Men's Fashion",67,2.9432989478258,"White","M","ID805405405",NA,NA
+"785",785,"12/18/2022",77,785,"T-shirt","H&M","Men's Fashion",69,3.05765263645227,"Red","S","ID806306306",74,"Arrependimento"
+"786",786,"11/23/2022",65,786,"T-shirt","H&M","Kids' Fashion",26,1.80011772045191,"White","L","ID807207206",NA,NA
+"787",787,"10/22/2022",91,787,"Dress","H&M","Women's Fashion",60,2.80081844316871,"Blue","XL","ID808108107",NA,NA
+"788",788,"9/27/2022",34,788,"Jeans","Adidas","Kids' Fashion",76,3.20518696933103,"Red","S","ID809009008",NA,NA
+"789",789,"6/11/2022",22,789,"Jeans","Nike","Women's Fashion",74,3.01379717396259,"Yellow",NA,"ID809909909",NA,NA
+"790",790,"2/9/2022",31,790,"Shoes","Adidas","Men's Fashion",50,2.88298478828093,"Red","S","ID810810810",32,"Arrependimento"
+"791",791,"12/17/2022",73,791,"Jeans","Gucci","Women's Fashion",91,3.69403605670537,"Green","L","ID811711711",NA,NA
+"792",792,"9/18/2022",88,792,"Sweater","Adidas","Kids' Fashion",57,2.91785070360821,"Yellow","XL","ID812612612",NA,NA
+"793",793,"10/19/2022",28,793,"T-shirt","Zara","Kids' Fashion",46,2.17200030158318,"Black","XL","ID813513513",87,"Produto com defeito"
+"794",794,"6/12/2022",9,794,"Jeans","H&M","Women's Fashion",58,2.53668879085433,"Black","M","ID814414414",NA,NA
+"795",795,"1/11/2022",2,795,"Jeans","Gucci","Kids' Fashion",25,1.8367266554915,"Black","S","ID815315315",122,"Produto com defeito"
+"796",796,"1/8/2022",3,796,"Jeans","H&M","Women's Fashion",63,2.75563542133033,"Black","M","ID816216215",219,"Produto com defeito"
+"797",797,"3/7/2022",68,797,"Sweater","H&M","Kids' Fashion",49,2.44186869426721,"Red","XL","ID817117116",38,"Produto com defeito"
+"798",798,"9/9/2022",28,798,"Jeans","H&M","Kids' Fashion",26,1.75169092657927,"Blue","M","ID818018017",199,"Produto com defeito"
+"799",799,"11/26/2022",48,799,"Shoes","Adidas","Men's Fashion",45,2.27724626178268,"Yellow","XL","ID818918918",326,"Arrependimento"
+"800",800,"7/13/2022",61,800,"T-shirt","H&M","Men's Fashion",18,1.55242064204657,"Red","S","ID819819819",NA,NA
+"801",801,"11/20/2022",33,801,"Jeans","Zara","Men's Fashion",45,2.18250012492767,"Black","XL","ID820720720",NA,NA
+"802",802,"4/25/2022",66,802,"Shoes","Gucci","Men's Fashion",33,1.95015518677227,"Green","XL","ID821621621",NA,NA
+"803",803,"11/26/2022",56,803,"Sweater","Nike","Men's Fashion",10,1.20633338008963,"Blue","XL","ID822522522",151,"Produto com defeito"
+"804",804,"12/26/2022",66,804,"T-shirt","Zara","Kids' Fashion",52,2.53981515401995,"Black","M","ID823423423",NA,NA
+"805",805,"12/13/2022",53,805,"Dress","H&M","Men's Fashion",36,2.12710270619755,"Blue","XL","ID824324324",NA,NA
+"806",806,"8/10/2022",100,806,"Jeans","Zara","Women's Fashion",49,2.26654569260128,"Green","L","ID825225224",NA,NA
+"807",807,"1/28/2022",74,807,"Jeans","Zara","Men's Fashion",63,2.75809262170872,"Blue","S","ID826126125",252,"Arrependimento"
+"808",808,"11/8/2022",20,808,"T-shirt","Adidas","Women's Fashion",63,3.39453602541069,"Yellow","L","ID827027026",NA,NA
+"809",809,"2/10/2022",5,809,"Jeans","Adidas","Men's Fashion",73,2.87750853660843,"White","XL","ID827927927",NA,NA
+"810",810,"8/24/2022",31,810,"Jeans","Zara","Kids' Fashion",32,1.80221907728448,"Black","M","ID828828828",24,"Não informado"
+"811",811,"1/15/2022",9,811,"Jeans","Gucci","Kids' Fashion",48,2.46975358051852,"White","M","ID829729729",214,"Não informado"
+"812",812,"8/25/2022",9,812,"Dress","Nike","Women's Fashion",36,1.93416478195147,"Blue","M","ID830630630",49,"Produto com defeito"
+"813",813,"10/8/2022",42,813,"Sweater","Zara","Men's Fashion",74,2.85088176207398,"Blue","M","ID831531531",NA,NA
+"814",814,"12/26/2022",62,814,"Sweater","Zara","Women's Fashion",42,2.18986936636752,"Yellow","XL","ID832432432",NA,NA
+"815",815,"7/12/2022",78,815,"Sweater","Zara","Women's Fashion",44,2.65750239778079,"Black","S","ID833333333",NA,NA
+"816",816,"12/9/2022",24,816,"Jeans","Nike","Kids' Fashion",39,2.72886020435736,"Blue","XL","ID834234233",30,"Produto com defeito"
+"817",817,"11/13/2022",51,817,"T-shirt","Adidas","Kids' Fashion",47,2.04752521797537,"Black","XL","ID835135134",45,"Não informado"
+"818",818,"1/25/2022",42,818,"Dress","Nike","Women's Fashion",15,1.36503402367255,"Blue","L","ID836036035",NA,NA
+"819",819,"4/27/2022",45,819,"T-shirt","Zara","Men's Fashion",40,1.98312489658694,"White","XL","ID836936936",NA,NA
+"820",820,"12/15/2022",91,820,"T-shirt","Nike","Women's Fashion",61,2.64365920000709,"White","L","ID837837837",NA,NA
+"821",821,"1/12/2022",65,821,"Dress","H&M","Women's Fashion",59,2.65141832820062,"Blue","XL","ID838738738",NA,NA
+"822",822,"8/16/2022",75,822,"T-shirt","Gucci","Kids' Fashion",28,1.55798464807452,"Green","XL","ID839639639",NA,NA
+"823",823,"11/18/2022",65,823,"T-shirt","H&M","Kids' Fashion",60,2.90556156337649,"White","L","ID840540540",NA,NA
+"824",824,"7/25/2022",3,824,"Shoes","Zara","Women's Fashion",61,2.63255639200691,"White","L","ID841441441",26,"Arrependimento"
+"825",825,"9/19/2022",32,825,"T-shirt","Zara","Men's Fashion",63,2.84504926836125,"White","M","ID842342342",217,"Arrependimento"
+"826",826,"12/10/2022",35,826,"Shoes","Adidas","Women's Fashion",37,1.95123198789099,"Red","S","ID843243242",NA,NA
+"827",827,"1/10/2022",13,827,"Shoes","Nike","Women's Fashion",60,2.95633824947168,"Red","XL","ID844144143",194,"Produto com defeito"
+"828",828,"4/16/2022",94,828,"Sweater","H&M","Women's Fashion",65,3.06454617697645,"Green","S","ID845045044",NA,NA
+"829",829,"4/16/2022",18,829,"Dress","Adidas","Men's Fashion",51,2.35326636125037,"Black","XL","ID845945945",NA,NA
+"830",830,"1/11/2022",94,830,"Jeans","Gucci","Kids' Fashion",73,3.17675129923144,"Green","S","ID846846846",NA,NA
+"831",831,"10/8/2022",19,831,"Jeans","Gucci","Kids' Fashion",55,2.47117956740479,"Black","S","ID847747747",NA,NA
+"832",832,"7/29/2022",96,832,"Jeans","Nike","Women's Fashion",34,2.50048204659878,"Blue","L","ID848648648",331,"Arrependimento"
+"833",833,"7/15/2022",70,833,"Sweater","H&M","Kids' Fashion",83,3.26674265056476,"Yellow","L","ID849549549",33,"Arrependimento"
+"834",834,"1/24/2022",99,834,"Shoes","H&M","Women's Fashion",28,1.66650327060303,"Yellow","S","ID850450450",NA,NA
+"835",835,"11/30/2022",15,835,"T-shirt","Nike","Kids' Fashion",61,2.6658821775649,"Yellow","XL","ID851351351",NA,NA
+"836",836,"1/7/2022",93,836,"Jeans","Gucci","Women's Fashion",49,2.7357436112772,"White","L","ID852252251",NA,NA
+"837",837,"6/12/2022",59,837,"Shoes","Nike","Kids' Fashion",48,2.19179880827181,"Black","M","ID853153152",342,"Não informado"
+"838",838,"10/9/2022",33,838,"Jeans","Zara","Men's Fashion",67,2.94928748517621,"Blue","S","ID854054053",NA,NA
+"839",839,"9/10/2022",26,839,"Dress","Nike","Kids' Fashion",33,2.31540307519085,"Blue","S","ID854954954",NA,NA
+"840",840,"1/10/2022",73,840,"Shoes","Zara","Kids' Fashion",32,2.05311581451714,"Red","S","ID855855855",NA,NA
+"841",841,"8/12/2022",56,841,"Dress","Zara","Men's Fashion",47,2.46300877785017,"Blue","M","ID856756756",NA,NA
+"842",842,"4/10/2022",59,842,"Jeans","Adidas","Men's Fashion",48,2.97368594660748,"White","XL","ID857657657",NA,NA
+"843",843,"10/17/2022",52,843,"Shoes","Nike","Kids' Fashion",13,1.88430623845709,"Red","M","ID858558558",NA,NA
+"844",844,"9/17/2022",1,844,"Sweater","Zara","Kids' Fashion",77,3.07946915033347,"Blue","M","ID859459459",NA,NA
+"845",845,"11/14/2022",66,845,"Sweater","Gucci","Men's Fashion",23,2.03779736770484,"Green",NA,"ID860360360",280,"Produto com defeito"
+"846",846,"8/15/2022",82,846,"T-shirt","Nike","Kids' Fashion",66,3.35361016915981,NA,"M","ID861261260",NA,NA
+"847",847,"9/9/2022",88,847,"T-shirt","Gucci","Women's Fashion",67,3.11617104286482,"Green","S","ID862162161",98,"Produto com defeito"
+"848",848,"1/10/2022",78,848,"Shoes","Nike","Kids' Fashion",64,2.99294155884088,"White","L","ID863063062",NA,NA
+"849",849,"12/15/2022",14,849,"Dress","Nike","Kids' Fashion",52,2.77967458323852,"Green","S","ID863963963",NA,NA
+"850",850,"1/12/2022",2,850,"T-shirt","Nike","Kids' Fashion",76,3.45714383989117,"Yellow","L","ID864864864",75,"Arrependimento"
+"851",851,"11/18/2022",24,851,"Jeans","Nike","Men's Fashion",47,2.76377054098471,"Yellow","XL","ID865765765",NA,NA
+"852",852,"9/15/2022",38,852,"Jeans","H&M","Kids' Fashion",44,2.4592987444706,"Red","XL","ID866666666",NA,NA
+"853",853,"12/12/2022",5,853,"Dress","H&M","Kids' Fashion",49,2.28782169682506,"Green","L","ID867567567",NA,NA
+"854",854,"8/12/2022",72,854,"T-shirt","Adidas","Kids' Fashion",47,2.65019354396441,"Green","M","ID868468468",NA,NA
+"855",855,"1/14/2022",96,855,"Jeans","H&M","Kids' Fashion",62,2.8256088838979,"Red","L","ID869369369",230,"Produto com defeito"
+"856",856,"11/24/2022",55,856,"Jeans","Gucci","Women's Fashion",31,2.21736802996893,"Green","XL","ID870270269",202,"Não informado"
+"857",857,"1/18/2022",37,857,"Dress","H&M","Men's Fashion",54,2.6350064173846,"Blue","M","ID871171170",NA,NA
+"858",858,"6/20/2022",64,858,"T-shirt","Zara","Kids' Fashion",51,2.78817001249629,"Yellow","M","ID872072071",NA,NA
+"859",859,"12/27/2022",48,859,"T-shirt","Adidas","Women's Fashion",19,1.41446380437943,"Red","L","ID872972972",104,"Produto com defeito"
+"860",860,"9/26/2022",75,860,"Dress","Nike","Kids' Fashion",55,2.62875289823196,"Blue","S","ID873873873",NA,NA
+"861",861,"5/10/2022",60,861,"Shoes","Gucci","Men's Fashion",33,1.74053923434903,"White","XL","ID874774774",NA,NA
+"862",862,"6/9/2022",61,862,"Sweater","Adidas","Kids' Fashion",48,2.23393250511083,"Blue","S","ID875675675",141,"Não informado"
+"863",863,"8/12/2022",49,863,"Shoes","Gucci","Men's Fashion",39,1.85570144379332,"Red","S","ID876576576",113,"Não informado"
+"864",864,"9/26/2022",22,864,"Sweater","Nike","Men's Fashion",23,1.7082010127867,"Yellow","L","ID877477477",NA,NA
+"865",865,"10/11/2022",54,865,"Jeans","Gucci","Women's Fashion",60,NA,"Yellow","M","ID878378378",167,"Arrependimento"
+"866",866,"12/21/2022",89,866,"Shoes","H&M","Men's Fashion",71,3.63887309444974,"White","S","ID879279278",NA,NA
+"867",867,"7/24/2022",3,867,"Jeans","Nike","Men's Fashion",51,2.54750299750833,"Black","S","ID880180179",NA,NA
+"868",868,"5/24/2022",84,868,"Sweater","Gucci","Kids' Fashion",73,3.2748730159232,"Red","L","ID881081080",NA,NA
+"869",869,"12/24/2022",98,869,"Jeans","Zara","Men's Fashion",35,1.92367001008499,"Black","XL","ID881981981",211,"Produto com defeito"
+"870",870,"3/7/2022",100,870,"Jeans","Nike","Kids' Fashion",48,2.85332624639384,"Yellow","S","ID882882882",NA,NA
+"871",871,"12/23/2022",56,871,"Shoes","H&M","Men's Fashion",50,2.34274130628319,"White","XL","ID883783783",NA,NA
+"872",872,"8/17/2022",94,872,"Jeans","H&M","Women's Fashion",60,2.82198374110072,"Black","M","ID884684684",NA,NA
+"873",873,"12/16/2022",16,873,"T-shirt","Gucci","Kids' Fashion",61,2.78785289707071,"Red","L","ID885585585",NA,NA
+"874",874,"11/27/2022",54,874,"Dress","Gucci","Kids' Fashion",51,2.72601758336725,"Yellow","XL","ID886486486",NA,NA
+"875",875,"12/22/2022",74,875,"Jeans","Adidas","Kids' Fashion",81,3.87588810761648,"Black","L","ID887387387",NA,NA
+"876",876,"9/12/2022",26,876,"Dress","Nike","Kids' Fashion",56,2.4188146595299,"Green","M","ID888288287",85,"Não informado"
+"877",877,"1/1/2022",92,877,"Sweater","Zara","Women's Fashion",72,2.87649125172685,"Red","L","ID889189188",NA,NA
+"878",878,"11/28/2022",34,878,"Sweater","Nike","Women's Fashion",27,1.78655382034428,"Yellow","XL","ID890090089",NA,NA
+"879",879,"8/20/2022",1,879,"T-shirt","Nike","Kids' Fashion",45,2.59639508409031,"Red","S","ID890990990",NA,NA
+"880",880,"3/31/2022",18,880,"Sweater","Zara","Kids' Fashion",33,2.07081548205626,"White","L","ID891891891",235,"Arrependimento"
+"881",881,"11/12/2022",25,881,"Shoes","H&M","Men's Fashion",33,2.1835764709813,"Red","XL","ID892792792",NA,NA
+"882",882,"3/9/2022",35,882,"Sweater","Gucci","Women's Fashion",69,2.68330797985386,"Yellow","XL","ID893693693",345,"Arrependimento"
+"883",883,"10/25/2022",73,883,"Shoes","Nike","Kids' Fashion",63,2.90643141719042,"Yellow","L","ID894594594",233,"Não informado"
+"884",884,"11/18/2022",94,884,"Dress","Zara","Men's Fashion",58,3.24412062354366,"Green","L","ID895495495",NA,NA
+"885",885,"1/2/2022",90,885,"T-shirt","Zara","Kids' Fashion",64,2.45184218224116,"White","XL","ID896396396",NA,NA
+"886",886,"9/10/2022",38,886,"Dress","Gucci","Men's Fashion",33,2.46728050538996,"Blue","M","ID897297296",NA,NA
+"887",887,"10/12/2022",79,887,"Sweater","Adidas","Men's Fashion",46,2.53917139885339,"Blue","XL","ID898198197",NA,NA
+"888",888,"8/15/2022",39,888,"Sweater","Gucci","Kids' Fashion",69,2.90429052023699,"Blue","S","ID899099098",NA,NA
+"889",889,"10/22/2022",60,889,"Shoes","Adidas","Kids' Fashion",45,2.49833375661579,"Yellow","XL","ID899999999",NA,NA
+"890",890,"8/30/2022",67,890,"T-shirt","H&M","Men's Fashion",49,2.54323238817403,"Black","M","ID900900900",15,"Arrependimento"
+"891",891,"12/17/2022",32,891,"Dress","H&M","Women's Fashion",29,1.9300996128647,"White","XL","ID901801801",115,"Arrependimento"
+"892",892,"5/16/2022",63,892,NA,"Adidas","Women's Fashion",72,2.85262702832315,"Blue","M","ID902702702",NA,NA
+"893",893,"8/12/2022",98,893,"Shoes","H&M","Kids' Fashion",43,1.7948782697063,"Red","S","ID903603603",273,"Não informado"
+"894",894,"12/31/2022",22,894,"Shoes","Adidas","Men's Fashion",49,2.35615663908823,"Black","S","ID904504504",105,"Não informado"
+"895",895,"9/8/2022",89,895,"Jeans","Gucci","Women's Fashion",42,2.5467863227843,"Yellow","L","ID905405405",282,"Produto com defeito"
+"896",896,"8/10/2022",41,896,"Jeans","Gucci","Men's Fashion",23,1.71455569358707,"Black","S","ID906306305",NA,NA
+"897",897,"11/18/2022",84,897,"Jeans","H&M","Women's Fashion",38,2.21197606640579,"White","S","ID907207206",NA,NA
+"898",898,"8/20/2022",98,898,"Dress","Nike","Women's Fashion",58,2.77366774755627,"Green","M","ID908108107",NA,NA
+"899",899,"5/14/2022",83,899,"Shoes","Gucci","Men's Fashion",48,2.54497101717302,"Red","XL","ID909009008",338,"Não informado"
+"900",900,"7/1/2022",94,900,"T-shirt","Nike","Men's Fashion",70,2.73543306690208,"Blue","XL","ID909909909",149,"Produto com defeito"
+"901",901,"1/6/2022",44,901,"Jeans","Zara","Men's Fashion",42,2.20627648213964,"Red","XL","ID910810810",NA,NA
+"902",902,"1/9/2022",91,902,"Shoes","Gucci","Women's Fashion",42,2.0782248871444,"Black","XL","ID911711711",NA,NA
+"903",903,"1/18/2022",27,903,"Sweater","Nike","Women's Fashion",55,2.55279755271502,"Yellow","M","ID912612612",296,"Não informado"
+"904",904,"8/14/2022",80,904,"Sweater","Zara","Women's Fashion",61,2.73643570775427,"Yellow","M","ID913513513",191,"Produto com defeito"
+"905",905,"1/5/2022",87,905,"Jeans","Nike","Women's Fashion",40,2.28015712304995,"Red","XL","ID914414414",20,"Produto com defeito"
+"906",906,"1/15/2022",5,906,"Shoes","Nike","Kids' Fashion",31,2.07615137501659,"Yellow","M","ID915315314",NA,NA
+"907",907,"3/7/2022",38,907,"T-shirt","Adidas","Men's Fashion",60,2.76897261694889,"Yellow","L","ID916216215",139,"Não informado"
+"908",908,"5/9/2022",32,908,"Shoes","Zara","Kids' Fashion",31,2.48680748164745,"White","M","ID917117116",NA,NA
+"909",909,"11/23/2022",80,909,"Jeans","Nike","Women's Fashion",52,2.59240000523416,"Green","XL","ID918018017",NA,NA
+"910",910,"10/30/2022",45,910,"Sweater","Adidas","Kids' Fashion",37,2.09928510594027,"Green","S","ID918918918",60,"Não informado"
+"911",911,"11/19/2022",63,911,"Jeans","Nike","Kids' Fashion",57,2.79554903938288,"White","S","ID919819819",279,"Arrependimento"
+"912",912,"10/23/2022",40,912,"Dress","Adidas","Men's Fashion",45,2.19703489441664,"Blue","L","ID920720720",NA,NA
+"913",913,"12/31/2022",25,913,"Shoes","Gucci","Kids' Fashion",53,2.4694816411884,"Black","S","ID921621621",NA,NA
+"914",914,"11/23/2022",11,914,"T-shirt","H&M","Kids' Fashion",59,2.6815525344118,"Red","L","ID922522522",NA,NA
+"915",915,"10/29/2022",14,915,"Shoes","Adidas","Kids' Fashion",81,3.39103267604692,"White","M","ID923423423",NA,NA
+"916",916,"11/9/2022",89,916,"Sweater","Nike","Men's Fashion",42,2.35426560213463,"Black","M","ID924324323",NA,NA
+"917",917,"3/12/2022",8,917,"Jeans","Zara","Men's Fashion",15,1.05790938501113,"Red","M","ID925225224",NA,NA
+"918",918,"1/10/2022",76,918,"Shoes","H&M","Kids' Fashion",35,2.02490891986228,"Red","XL","ID926126125",NA,NA
+"919",919,"10/21/2022",83,919,"Shoes","Adidas","Women's Fashion",57,2.76759140495885,"Red","S","ID927027026",NA,NA
+"920",920,"1/18/2022",21,920,"T-shirt","Gucci","Women's Fashion",58,2.72817900904397,"Red","M","ID927927927",NA,NA
+"921",921,"1/8/2022",13,921,"Jeans","Gucci","Men's Fashion",59,2.89146426896743,"Green","S","ID928828828",NA,NA
+"922",922,"8/12/2022",81,922,"Jeans","Gucci","Men's Fashion",65,2.82787212806128,"Green","L","ID929729729",NA,NA
+"923",923,"2/24/2022",13,923,"Sweater","Zara","Men's Fashion",57,2.56428644160598,"White","L","ID930630630",NA,NA
+"924",924,"12/31/2022",92,924,"Sweater","Nike","Men's Fashion",53,2.52391261306474,"Black","M","ID931531531",NA,NA
+"925",925,"12/24/2022",40,925,"Sweater","H&M","Women's Fashion",35,2.24621662851414,"Blue","S","ID932432432",NA,NA
+"926",926,"12/8/2022",37,926,"Dress","Zara","Women's Fashion",61,2.75787596882875,"Blue","L","ID933333332",295,"Arrependimento"
+"927",927,"9/28/2022",29,927,"T-shirt","Adidas","Men's Fashion",10,1.20630530443184,"White","XL","ID934234233",NA,NA
+"928",928,"1/26/2022",37,928,"Sweater",NA,"Kids' Fashion",55,NA,"Black","L","ID935135134",NA,NA
+"929",929,"7/19/2022",64,929,"Shoes","Gucci","Kids' Fashion",63,2.9784939993513,"Blue","S","ID936036035",NA,NA
+"930",930,"1/28/2022",49,930,"T-shirt","Adidas","Women's Fashion",65,2.57818269425989,"White","M","ID936936936",NA,NA
+"931",931,"12/6/2022",19,931,"Dress","Zara","Kids' Fashion",57,3.01097280728252,"Blue","XL","ID937837837",NA,NA
+"932",932,"1/22/2022",64,932,"Jeans","H&M","Kids' Fashion",15,1.2588747327578,"Yellow","L","ID938738738",NA,NA
+"933",933,"1/19/2022",16,933,"Sweater","Adidas","Kids' Fashion",30,1.91692129406461,"Blue","L","ID939639639",NA,NA
+"934",934,"7/6/2022",98,934,"T-shirt","Nike","Women's Fashion",63,3.02892949289224,"Green","XL","ID940540540",NA,NA
+"935",935,"12/8/2022",77,935,"Sweater","Adidas","Men's Fashion",73,2.8959205065068,"Black","S","ID941441441",225,"Produto com defeito"
+"936",936,"8/13/2022",72,936,"Sweater","Gucci","Men's Fashion",22,1.73298316746753,"White","M","ID942342341",224,"Arrependimento"
+"937",937,"7/19/2022",80,937,"T-shirt","Gucci","Men's Fashion",56,2.15406974708271,"Red","S","ID943243242",39,"Arrependimento"
+"938",938,"1/13/2022",30,938,"T-shirt","Gucci","Kids' Fashion",68,2.8094682461181,"Blue","S","ID944144143",NA,NA
+"939",939,"12/16/2022",81,939,"Jeans","H&M","Men's Fashion",58,3.09138104859777,"White","M","ID945045044",NA,NA
+"940",940,"12/15/2022",63,940,"T-shirt","Gucci","Kids' Fashion",53,2.28568794594881,"White","XL","ID945945945",NA,NA
+"941",941,"5/10/2022",24,941,"Jeans","Zara","Men's Fashion",38,2.14845966235104,"White","XL","ID946846846",160,"Não informado"
+"942",942,"9/21/2022",60,942,"Shoes","Adidas","Men's Fashion",74,3.05274117194432,"Green","L","ID947747747",244,"Não informado"
+"943",943,"1/17/2022",37,943,"Jeans","Gucci","Kids' Fashion",64,2.85410160654935,"Blue","L","ID948648648",NA,NA
+"944",944,"12/27/2022",65,944,"Sweater","H&M","Kids' Fashion",44,2.36227875356317,"Black","S","ID949549549",NA,NA
+"945",945,"2/10/2022",72,945,"Jeans","Gucci","Kids' Fashion",31,2.15663114136881,"Red","L","ID950450450",255,"Não informado"
+"946",946,"7/12/2022",78,946,"Sweater","H&M","Women's Fashion",25,1.81937248773612,"Red","S","ID951351350",163,"Arrependimento"
+"947",947,"12/25/2022",1,947,"T-shirt","Zara","Kids' Fashion",39,2.40715385172977,"White","S","ID952252251",NA,NA
+"948",948,"5/21/2022",37,948,"Sweater","Gucci","Women's Fashion",50,2.61744345675155,"Yellow","XL","ID953153152",NA,NA
+"949",949,"7/8/2022",4,949,"T-shirt","Zara","Kids' Fashion",61,2.90590834496429,"Green","M","ID954054053",NA,NA
+"950",950,"12/14/2022",4,950,"T-shirt","Zara","Men's Fashion",47,2.34980041707986,"Green","L","ID954954954",176,"Produto com defeito"
+"951",951,"1/18/2022",61,951,"Sweater","Nike","Kids' Fashion",28,1.66438975629084,"Black","L","ID955855855",NA,NA
+"952",952,"12/14/2022",17,952,"Dress","Zara","Women's Fashion",53,2.58276358601811,"Black",NA,"ID956756756",NA,NA
+"953",953,"4/25/2022",88,953,"Jeans","Nike","Kids' Fashion",61,2.32560614948261,"Blue","L","ID957657657",132,"Não informado"
+"954",954,"12/12/2022",61,954,"T-shirt","Gucci","Women's Fashion",80,3.31074333781436,"Green","L","ID958558558",NA,NA
+"955",955,"10/28/2022",81,955,"Jeans","Nike","Kids' Fashion",61,2.92025956556949,"White","XL","ID959459459",200,"Produto com defeito"
+"956",956,"1/12/2022",39,NA,"Sweater","H&M","Men's Fashion",52,2.51124954040347,"Black","M","ID960360359",NA,NA
+"957",957,"9/8/2022",2,957,"Jeans","Nike","Men's Fashion",37,2.30250139800671,"White","L","ID961261260",NA,NA
+"958",958,"10/20/2022",46,958,"Shoes","Adidas","Men's Fashion",68,2.88461714548193,"Green","M","ID962162161",302,"Arrependimento"
+"959",959,"10/10/2022",100,959,"Sweater","H&M","Kids' Fashion",68,2.9101927717787,"Yellow","XL","ID963063062",NA,NA
+"960",960,"2/11/2022",94,960,"Jeans","Gucci","Men's Fashion",58,2.82850177704873,"Red","M","ID963963963",NA,NA
+"961",961,"1/19/2022",62,961,"Jeans","Nike","Women's Fashion",83,3.43209726642556,"White","L","ID964864864",183,"Não informado"
+"962",962,"12/3/2022",4,962,"Shoes","Adidas","Women's Fashion",77,3.11899199422001,"Green","L","ID965765765",NA,NA
+"963",963,"9/16/2022",85,963,"Shoes","H&M","Men's Fashion",51,2.61638730024882,"Black","XL","ID966666666",NA,NA
+"964",964,"12/31/2022",1,964,"Dress","Nike","Women's Fashion",46,2.31223156640384,"White","S","ID967567567",NA,NA
+"965",965,"2/22/2022",21,965,"Sweater","Nike","Men's Fashion",43,2.1726904019007,"Yellow","S","ID968468468",NA,NA
+"966",966,"11/18/2022",6,966,"Jeans","Gucci","Kids' Fashion",67,3.16857934274574,"Black","S","ID969369368",NA,NA
+"967",967,"1/11/2022",92,967,"Shoes","Gucci","Kids' Fashion",56,2.87413663522484,"Blue","M","ID970270269",NA,NA
+"968",968,"9/10/2022",84,968,"Sweater","Gucci","Kids' Fashion",49,2.60464992263439,"Black","S","ID971171170",89,"Não informado"
+"969",969,"11/28/2022",12,969,"T-shirt","Gucci","Kids' Fashion",67,3.31236858856949,"Red","L","ID972072071",321,"Não informado"
+"970",970,"5/9/2022",78,970,"Sweater","H&M","Kids' Fashion",56,NA,"White","L","ID972972972",NA,NA
+"971",971,"12/2/2022",82,971,"Shoes","H&M","Men's Fashion",66,2.89381204664028,"Green","XL","ID973873873",NA,NA
+"972",972,"8/26/2022",84,972,"Jeans","Gucci","Men's Fashion",NA,3.04161351790204,"White","XL","ID974774774",NA,NA
+"973",973,"2/22/2022",4,973,"Jeans","H&M","Kids' Fashion",19,1.72714776465929,"Red","L","ID975675675",NA,NA
+"974",974,"10/25/2022",56,974,"Shoes","Gucci","Kids' Fashion",78,3.44535188461892,"Black","XL","ID976576576",NA,NA
+"975",975,"12/16/2022",46,975,"Dress","Zara","Men's Fashion",52,2.61610637715933,"Black","L","ID977477477",NA,NA
+"976",976,"12/24/2022",82,976,"Dress","Nike","Kids' Fashion",63,2.57149289018252,"White","M","ID978378377",130,"Produto com defeito"
+"977",977,"11/18/2022",4,NA,"T-shirt","Nike","Men's Fashion",25,2.13468337211477,"Red","XL","ID979279278",NA,NA
+"978",978,"2/8/2022",23,978,"T-shirt","Zara","Men's Fashion",47,2.56586565928256,"Black","M","ID980180179",NA,NA
+"979",979,"10/29/2022",77,979,"T-shirt","Nike","Men's Fashion",65,2.87492635945668,"Blue","S","ID981081080",228,"Arrependimento"
+"980",980,"12/25/2022",28,980,"T-shirt","H&M","Kids' Fashion",43,2.29864321490472,"Blue","XL","ID981981981",NA,NA
+"981",981,"10/16/2022",35,981,"Shoes","Nike","Women's Fashion",51,2.5649782323593,"White","XL","ID982882882",NA,NA
+"982",982,"8/24/2022",50,982,"Jeans","Nike","Kids' Fashion",33,1.88914921533049,"Green","S","ID983783783",NA,NA
+"983",983,"1/24/2022",94,983,"Dress","Zara","Men's Fashion",45,2.23473287072805,"Red","XL","ID984684684",NA,NA
+"984",984,"1/18/2022",70,984,"Dress","Gucci","Men's Fashion",41,2.21203308555703,"Green","XL","ID985585585",NA,NA
+"985",985,"8/13/2022",57,985,"T-shirt","H&M","Women's Fashion",54,2.37434654279904,"Green","S","ID986486486",NA,NA
+"986",986,"9/23/2022",1,986,"Shoes","Gucci","Men's Fashion",68,3.13145137889737,"Blue","M","ID987387386",NA,NA
+"987",987,"8/7/2022",77,987,"Shoes","H&M","Women's Fashion",53,2.30184211867021,"Red","M","ID988288287",NA,NA
+"988",988,"7/12/2022",80,988,"T-shirt","H&M","Men's Fashion",59,2.69171001041791,"Blue","XL","ID989189188",NA,NA
+"989",989,"1/17/2022",67,989,"T-shirt","Adidas","Men's Fashion",53,2.98166561568072,"Black","S","ID990090089",NA,NA
+"990",990,"8/7/2022",51,990,"T-shirt","Gucci","Men's Fashion",88,3.21345465891692,"Yellow","S","ID990990990",NA,NA
+"991",991,"12/14/2022",60,991,"Shoes","Nike","Kids' Fashion",46,2.78154770274272,"Red","L","ID991891891",NA,NA
+"992",992,"12/21/2022",42,992,"T-shirt","Gucci","Women's Fashion",55,2.8165187771604,"Black","M","ID992792792",NA,NA
+"993",993,"9/12/2022",89,993,"Shoes","H&M","Women's Fashion",69,3.15660679747347,"Yellow","S","ID993693693",NA,NA
+"994",994,"8/29/2022",59,994,"Sweater","H&M","Men's Fashion",52,2.81558070567526,"Green","L","ID994594594",NA,NA
+"995",995,"7/23/2022",34,995,"Sweater","Adidas","Kids' Fashion",54,2.69833762836619,"Red","S","ID995495495",NA,NA
+"996",996,"10/10/2022",20,996,"Shoes","Zara","Women's Fashion",54,3.11764826891028,"Black","M","ID996396395",153,"Não informado"
+"997",997,"11/14/2022",42,997,"Sweater","Nike","Kids' Fashion",53,2.73040248751197,"Green","L","ID997297296",133,"Produto com defeito"
+"998",998,"10/16/2022",9,998,"Sweater","Zara","Men's Fashion",62,2.36388732201378,"White","L","ID998198197",NA,NA
+"999",999,"1/3/2022",8,999,"T-shirt","Zara","Women's Fashion",66,3.11092309918648,"Blue","S","ID999099098",NA,NA
+"1000",1000,"10/25/2022",91,1000,"Shoes","Adidas","Women's Fashion",70,3.14352736019763,"White","L","ID999999999",NA,NA
+"1001",1001,"9/10/2022",84,968,"Sweater","Gucci","Kids' Fashion",49,2.60464992263439,"Black","S","ID971171170",89,"Não informado"
+"1002",1002,"11/30/2022",4,NA,"Dress","Nike","Men's Fashion",65,2.97136999311182,"White","XL","ID345045045",190,"Produto com defeito"
+"1003",1003,"12/14/2022",51,389,"T-shirt","Zara","Women's Fashion",59,2.98208604566355,"White","XL","ID449549549",134,"Produto com defeito"
+"1004",1004,"12/28/2022",8,265,NA,"H&M","Kids' Fashion",33,1.95189701490163,"Blue","XL","ID337837838",NA,NA
+"1005",1005,"12/28/2022",71,589,"T-shirt","Adidas","Women's Fashion",53,2.11169378278262,"Red","L","ID629729729",8,"Não informado"
+"1006",1006,"8/15/2022",33,664,"Shoes","H&M","Kids' Fashion",41,2.38554933601942,"White","L","ID697297297",NA,NA
+"1007",1007,"1/18/2022",100,425,"Jeans","Nike","Men's Fashion",39,2.52260555687875,"Blue","XL","ID481981982",NA,NA
+"1008",1008,"9/28/2022",9,510,"Shoes","Nike","Men's Fashion",44,2.32896166777005,"Green","L","ID558558558",NA,NA
+"1009",1009,"7/30/2022",71,750,"Shoes","Nike","Kids' Fashion",79,3.13952862684189,"Red","L","ID774774774",NA,NA
+"1010",1010,"8/7/2022",41,17,"Dress","Gucci","Women's Fashion",55,3.17392351865159,"Blue","XL","ID114414414",121,"Arrependimento"
+"1011",1011,"8/15/2022",11,660,"Dress","Adidas","Kids' Fashion",96,3.93695059184266,"Blue","S","ID693693693",NA,NA
+"1012",1012,"10/10/2022",89,614,"Sweater","Gucci","Men's Fashion",73,3.21924184101875,"Green","L","ID652252252",91,"Não informado"
+"1013",1013,"10/8/2022",27,514,"Dress","Adidas","Kids' Fashion",35,2.2303288193724,"White",NA,"ID562162162",NA,NA
+"1014",1014,"8/12/2022",98,893,"Shoes","H&M","Kids' Fashion",43,1.7948782697063,"Red","S","ID903603603",273,"Não informado"
+"1015",1015,"10/31/2022",21,555,"T-shirt","Adidas","Women's Fashion",47,2.15080712605893,"Blue","L","ID599099099",NA,NA
+"1016",1016,"8/24/2022",71,769,"Sweater","Zara","Men's Fashion",22,1.78426580437648,"White","S","ID791891891",NA,NA
+"1017",1017,"1/19/2022",62,961,"Jeans","Nike","Women's Fashion",83,3.43209726642556,"White","L","ID964864864",183,"Não informado"
+"1018",1018,"3/26/2022",56,20,"Dress","Gucci","Men's Fashion",34,1.88305563482606,"Green","L","ID117117117",NA,NA
+"1019",1019,"11/27/2022",54,874,"Dress","Gucci","Kids' Fashion",51,2.72601758336725,"Yellow","XL","ID886486486",NA,NA
+"1020",1020,"10/23/2022",1,337,"Shoes","Nike","Women's Fashion",55,2.34956663144915,"White","L","ID402702702",143,"Arrependimento"
+"1021",1021,"12/8/2022",37,NA,"Shoes","Adidas","Men's Fashion",53,2.55997424030633,"Green","M","ID463063063",NA,NA
+"1022",1022,"11/18/2022",4,NA,"T-shirt","Nike","Men's Fashion",25,2.13468337211477,"Red","XL","ID979279278",NA,NA
+"1023",1023,"12/20/2022",41,NA,"Dress","H&M","Men's Fashion",50,2.82903391092568,"Green","XL","ID416216216",127,"Não informado"
+"1024",1024,"11/15/2022",18,NA,"Jeans","Nike","Men's Fashion",12,1.50825214734852,"Black","M","ID353153153",72,"Não informado"
+"1025",1025,"1/12/2022",39,NA,"Sweater","H&M","Men's Fashion",52,2.51124954040347,"Black","M","ID960360359",NA,NA
+"1026",1026,"4/10/2022",37,NA,"Dress","Adidas","Women's Fashion",44,2.46186172546859,"Blue","S","ID113513513",111,"Produto com defeito"
+"1027",1027,"1/3/2022",8,999,"T-shirt","Zara","Women's Fashion",66,3.11092309918648,"Blue","S","ID999099098",NA,NA
+"1028",1028,"6/10/2022",44,NA,"T-shirt","H&M","Kids' Fashion",40,2.19969202029357,"Yellow","L","ID476576576",NA,NA
+"1029",1029,"10/9/2022",66,NA,"Shoes","Nike","Kids' Fashion",53,2.78858673740259,"Black","XL","ID470270270",NA,NA
+"1030",1030,"1/28/2022",24,NA,"Dress","Nike","Women's Fashion",85,3.28519902499973,"White","XL","ID149549549",311,"Não informado"
+"1031",1031,"5/30/2022",31,280,"Dress","Gucci","Kids' Fashion",56,2.6925403432178,"White","XL","ID351351351",286,"Arrependimento"
+"1032",1032,"5/23/2022",34,321,"Shoes","Gucci","Kids' Fashion",60,2.59292835477194,"Red","S","ID388288288",NA,NA
+"1033",1033,"8/16/2022",99,755,"T-shirt","Zara","Women's Fashion",58,2.77916476902459,"White","S","ID779279279",NA,NA
+"1034",1034,"9/12/2022",26,876,"Dress","Nike","Kids' Fashion",56,2.4188146595299,"Green","M","ID888288287",85,"Não informado"
+"1035",1035,"9/24/2022",79,548,"Sweater","Zara","Kids' Fashion",78,3.39548919866912,"Red","M","ID592792792",123,"Arrependimento"
+"1036",1036,"7/4/2022",61,697,"T-shirt","Nike","Women's Fashion",52,2.24729010219962,"Green","L","ID727027026",NA,NA
+"1037",1037,"9/17/2022",1,844,"Sweater","Zara","Kids' Fashion",77,3.07946915033347,"Blue","M","ID859459459",NA,NA
+"1038",1038,"7/12/2022",55,241,"Jeans","Gucci","Men's Fashion",42,2.24568475015608,"Green","S","ID316216216",340,"Não informado"
+"1039",1039,"3/8/2022",50,64,"Shoes","Gucci","Kids' Fashion",29,2.03673091694035,"Red","M","ID156756757",193,"Não informado"
+"1040",1040,"12/13/2022",71,512,"Shoes","Nike","Men's Fashion",62,2.74771743709623,"Blue","S","ID560360360",332,"Produto com defeito"
+"1041",1041,"11/14/2022",68,250,"Dress","H&M","Women's Fashion",55,2.69811013820224,"Yellow","XL","ID324324324",NA,NA
+"1042",1042,"7/15/2022",55,189,"Jeans","Adidas","Women's Fashion",65,2.9059603246352,"Blue","L","ID269369369",NA,NA
+"1043",1043,"12/26/2022",66,804,"T-shirt","Zara","Kids' Fashion",52,2.53981515401995,"Black","M","ID823423423",NA,NA
+"1044",1044,"7/25/2022",3,824,"Shoes","Zara","Women's Fashion",61,2.63255639200691,"White","L","ID841441441",26,"Arrependimento"
+"1045",1045,"5/9/2022",32,908,"Shoes","Zara","Kids' Fashion",31,2.48680748164745,"White","M","ID917117116",NA,NA
+"1046",1046,"7/4/2022",9,596,"Dress","H&M","Women's Fashion",10,1.32960070503754,"Black","L","ID636036035",NA,NA
+"1047",1047,"1/16/2022",41,537,"Jeans",NA,"Men's Fashion",85,3.54173542903263,"Red","M","ID582882882",341,"Não informado"
+"1048",1048,"10/11/2022",45,695,"Dress","Zara","Women's Fashion",60,2.54036386304823,"Red","XL","ID725225225",NA,NA
+"1049",1049,"9/10/2022",25,647,"Shoes","Adidas","Women's Fashion",59,2.53904244252473,"Black","M","ID681981981",152,"Produto com defeito"
+"1050",1050,"9/24/2022",25,766,"Jeans","Zara","Men's Fashion",44,2.15020633134959,"Green","M","ID789189188",NA,NA
+"1051",1051,"5/31/2022",31,560,"Dress","Adidas","Women's Fashion",60,2.77943059160078,"Red","XL","ID603603603",2,"Arrependimento"
+"1052",1052,"10/13/2022",60,45,"Jeans","Gucci","Women's Fashion",55,2.57143898345142,"Red","L","ID139639640",NA,NA
+"1053",1053,"1/10/2022",78,848,"Shoes","Nike","Kids' Fashion",64,2.99294155884088,"White","L","ID863063062",NA,NA
+"1054",1054,"11/29/2022",77,222,"Dress","Adidas","Kids' Fashion",83,3.47838705776794,"Yellow","S","ID299099099",34,"Não informado"
+"1055",1055,"9/26/2022",55,491,"Dress","Zara","Kids' Fashion",47,2.28848866237611,"Black","M","ID541441441",NA,NA
+"1056",1056,"9/21/2022",12,94,"Shoes","Zara","Women's Fashion",52,2.16440992190802,"Yellow","XL","ID183783784",NA,NA
+"1057",1057,"8/10/2022",87,353,"Sweater","Nike","Women's Fashion",49,2.48471334061,"Blue","M","ID417117117",NA,NA
+"1058",1058,"12/18/2022",10,553,"Shoes","Adidas","Men's Fashion",39,1.85730580298142,"Green","XL","ID597297297",58,"Arrependimento"
+"1059",1059,"12/10/2022",76,470,"T-shirt","Adidas","Kids' Fashion",62,3.02110340730859,"Blue","S","ID522522522",NA,NA
+"1060",1060,"8/12/2022",72,854,"T-shirt","Adidas","Kids' Fashion",47,2.65019354396441,"Green","M","ID868468468",NA,NA
+"1061",1061,"7/8/2022",21,87,"Shoes","Nike","Men's Fashion",52,2.33002063921136,"Red","S","ID177477477",NA,NA
+"1062",1062,"1/10/2022",34,654,"Shoes","Zara","Kids' Fashion",34,2.1267172413034,"Blue","S","ID688288288",NA,NA
+"1063",1063,"4/16/2022",94,828,"Sweater","H&M","Women's Fashion",65,3.06454617697645,"Green","S","ID845045044",NA,NA
+"1064",1064,"3/7/2022",100,870,"Jeans","Nike","Kids' Fashion",48,2.85332624639384,"Yellow","S","ID882882882",NA,NA
+"1065",1065,"5/21/2022",76,783,"Jeans","H&M","Women's Fashion",31,2.27852721695298,"Red","S","ID804504504",301,"Arrependimento"
+"1066",1066,"11/24/2022",11,640,"T-shirt","Zara","Kids' Fashion",39,2.37921962857102,"Red","S","ID675675675",NA,NA
+"1067",1067,"12/25/2022",74,48,"T-shirt","Gucci","Kids' Fashion",52,2.39983656364478,"Green","M","ID142342342",209,"Arrependimento"
+"1068",1068,"1/12/2022",2,850,"T-shirt","Nike","Kids' Fashion",76,3.45714383989117,"Yellow","L","ID864864864",75,"Arrependimento"
+"1069",1069,"10/21/2022",72,525,"T-shirt","Adidas","Kids' Fashion",41,2.22399905414197,"Blue","M","ID572072072",NA,NA
+"1070",1070,"1/10/2022",13,827,"Shoes","Nike","Women's Fashion",60,2.95633824947168,"Red","XL","ID844144143",194,"Produto com defeito"
+"1071",1071,"9/20/2022",2,674,"Shoes","Adidas","Kids' Fashion",62,2.96850483176417,"Green","L","ID706306306",239,"Produto com defeito"
+"1072",1072,"1/3/2022",68,262,NA,"Gucci","Women's Fashion",62,2.91200947451561,"Blue","S","ID335135135",NA,NA
+"1073",1073,"7/12/2022",78,946,"Sweater","H&M","Women's Fashion",25,1.81937248773612,"Red","S","ID951351350",163,"Arrependimento"
+"1074",1074,"11/13/2022",26,579,"Shoes","Gucci","Women's Fashion",34,2.02908093135776,"White","XL","ID620720720",NA,NA
+"1075",1075,"6/9/2022",71,102,"Sweater","Gucci","Kids' Fashion",61,2.64997400636135,"Red","S","ID190990991",NA,NA
+"1076",1076,"10/23/2022",29,592,"Jeans","Nike","Kids' Fashion",33,2.15979779027915,NA,"M","ID632432432",188,"Arrependimento"
+"1077",1077,"9/16/2022",50,531,"Dress","H&M","Women's Fashion",45,2.2057227617174,"Green","L","ID577477477",NA,NA
+"1078",1078,"2/22/2022",4,973,"Jeans","H&M","Kids' Fashion",19,1.72714776465929,"Red","L","ID975675675",NA,NA
+"1079",1079,"12/21/2022",52,348,"Shoes","Zara","Kids' Fashion",61,2.92627580085122,"Blue","XL","ID412612612",NA,NA
+"1080",1080,"3/7/2022",48,670,"T-shirt","Gucci",NA,41,2.10748612402835,"Yellow","M","ID702702702",NA,NA
+"1081",1081,"10/25/2022",11,675,"Sweater","Nike","Kids' Fashion",53,2.27595990484863,"Green","XL","ID707207207",103,"Produto com defeito"
+"1082",1082,"12/24/2022",25,713,"Jeans","Gucci","Men's Fashion",55,2.53012507411268,"Blue","XL","ID741441441",NA,NA
+"1083",1083,"1/18/2022",35,651,"Shoes","Gucci","Men's Fashion",48,2.0857952390493,"Yellow","XL","ID685585585",3,"Produto com defeito"
+"1084",1084,"1/6/2022",37,685,"Jeans","Nike","Men's Fashion",72,2.89843257225432,"White","M","ID716216216",73,"Arrependimento"
+"1085",1085,"11/25/2022",99,158,"Shoes","Adidas","Men's Fashion",53,2.76151536798885,"Blue","M","ID241441441",NA,NA
+"1086",1086,"1/2/2022",45,557,"Shoes","Adidas","Women's Fashion",22,1.85533374613438,"Black","M","ID600900900",126,"Não informado"
+"1087",1087,"9/30/2022",94,135,"Dress","Adidas","Kids' Fashion",24,1.87978695224244,"Blue","L","ID220720721",NA,NA
+"1088",1088,"2/25/2022",65,631,"T-shirt","Zara","Kids' Fashion",68,3.16771739137658,"White","S","ID667567567",NA,NA
+"1089",1089,"9/20/2022",46,435,"T-shirt","Adidas","Men's Fashion",43,2.53379569504461,"Blue","XL","ID490990991",NA,NA
+"1090",1090,"1/26/2022",61,627,"T-shirt","Adidas","Men's Fashion",49,2.59106207075942,"Green","M","ID663963963",220,"Produto com defeito"
+"1091",1091,"12/15/2022",68,237,"Shoes","Adidas","Men's Fashion",35,2.05767959217977,"White","S","ID312612612",NA,NA
+"1092",1092,"1/10/2022",9,78,"T-shirt","Nike","Men's Fashion",43,2.29025271023869,"White","XL","ID169369369",84,"Arrependimento"
+"1093",1093,"11/8/2022",20,808,"T-shirt","Adidas","Women's Fashion",63,3.39453602541069,"Yellow","L","ID827027026",NA,NA
+"1094",1094,"8/25/2022",24,463,"Dress","Adidas","Men's Fashion",66,2.96838436478517,"Blue","M","ID516216216",NA,NA
+"1095",1095,"2/25/2022",NA,382,"T-shirt","Gucci","Men's Fashion",32,1.91502348966247,"Yellow","M","ID443243243",NA,NA
+"1096",1096,"11/8/2022",52,101,"Jeans","Zara","Women's Fashion",45,2.55567030038418,"Green","XL","ID190090090",125,"Arrependimento"
+"1097",1097,"1/4/2022",8,193,"T-shirt","H&M","Women's Fashion",71,3.01966432440472,"White","L","ID272972973",NA,NA
+"1098",1098,"9/22/2022",34,328,"Jeans","Adidas","Kids' Fashion",64,2.7199651101752,"Blue","L","ID394594594",83,"Produto com defeito"
+"1099",1099,"1/22/2022",26,26,"Dress","Gucci","Women's Fashion",72,3.02603203457844,"Green","S","ID122522522",NA,NA
+"1100",1100,"12/29/2022",41,312,"Jeans","Zara","Men's Fashion",68,2.93549343003492,"White","S","ID380180180",NA,NA
