@@ -4,7 +4,7 @@ View(vendas)
 devolução <- read_csv("bancos/devolução.csv")
 View(devolução)
 library(tidyverse)
-
+library(lubridates)
 # descobrindo quais os valores das variaveis
 
 ### product name
@@ -60,17 +60,47 @@ vendas$Size <- as.factor(vendas$Size)
 vendas <- vendas %>%
   mutate(`Motivo devolução` = ifelse(is.na(`Motivo devolução`), "Não devolvido", `Motivo devolução`))
 
+### Data
+
+vendas$`Data Venda` <- mdy(vendas$`Data Venda`)
+vendas$Mês <- month(vendas$`Data Venda`)
+vendas$Mês <- as.character(vendas$Mês)
+
+vendas$Mês[vendas$Mês == "1"] <- "Janeiro"
+vendas$Mês[vendas$Mês == "2"] <- "Fevereiro"
+vendas$Mês[vendas$Mês == "3"] <- "Março"
+vendas$Mês[vendas$Mês == "4"] <- "Abril"
+vendas$Mês[vendas$Mês == "5"] <- "Maio"
+vendas$Mês[vendas$Mês == "6"] <- "Junho"
+vendas$Mês[vendas$Mês == "7"] <- "Julho"
+vendas$Mês[vendas$Mês == "8"] <- "Agosto"
+vendas$Mês[vendas$Mês == "9"] <- "Setembro"
+vendas$Mês[vendas$Mês == "10"] <- "Outubro"
+vendas$Mês[vendas$Mês == "11"] <- "Novembro"
+vendas$Mês[vendas$Mês == "12"] <- "Dezembro"
 # Faturamento anual por categoria
 
 vendaspc <- vendas %>% 
+  filter(Mês != " ") %>% 
   filter(`Motivo devolução` == "Não devolvido") %>% 
   filter(Price != " ") %>% 
   filter(Category != " ") %>%  
-  group_by(Category) %>%
+  group_by(Category, Mês) %>%
   summarise(faturamento = sum(Price))
 
 #### GRAFICO DO FATURAMENTO ANUAL POR CATEGORIA
 
+
+
+
+
+
+
+
+
+
+
+# 
 vendaspc_ordenado <- factor(vendaspc$Category, levels = c("Moda Masculina", "Moda Feminina", "Moda Infantil"))
 
 meanpc <- c(11674, 12790, 10945)
@@ -90,6 +120,8 @@ ggplot(vendaspc) +
     hjust = 0.5) + 
   ylim(0, 15000) +
   theme_bw()
+
+kruskal.test(Category ~ faturamento, data = vendaspc)
 
 # VARIAÇÃO DE PREÇO POR MARCA
 
@@ -195,3 +227,4 @@ ggplot(vendasmd) +
   scale_fill_manual(values = c("#A11D21","#003366", "#CC9900")) +
   theme_bw()
 
+kruskal.test(Brand ~ `Motivo devolução`,data = vendas)
