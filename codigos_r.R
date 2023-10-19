@@ -66,18 +66,19 @@ vendas$`Data Venda` <- mdy(vendas$`Data Venda`)
 vendas$Mês <- month(vendas$`Data Venda`)
 vendas$Mês <- as.character(vendas$Mês)
 
-vendas$Mês[vendas$Mês == "1"] <- "Janeiro"
-vendas$Mês[vendas$Mês == "2"] <- "Fevereiro"
-vendas$Mês[vendas$Mês == "3"] <- "Março"
-vendas$Mês[vendas$Mês == "4"] <- "Abril"
-vendas$Mês[vendas$Mês == "5"] <- "Maio"
-vendas$Mês[vendas$Mês == "6"] <- "Junho"
-vendas$Mês[vendas$Mês == "7"] <- "Julho"
-vendas$Mês[vendas$Mês == "8"] <- "Agosto"
-vendas$Mês[vendas$Mês == "9"] <- "Setembro"
-vendas$Mês[vendas$Mês == "10"] <- "Outubro"
-vendas$Mês[vendas$Mês == "11"] <- "Novembro"
-vendas$Mês[vendas$Mês == "12"] <- "Dezembro"
+ vendas$Mês[vendas$Mês == "1"] <- "Janeiro"
+ vendas$Mês[vendas$Mês == "2"] <- "Fevereiro"
+ vendas$Mês[vendas$Mês == "3"] <- "Março"
+ vendas$Mês[vendas$Mês == "4"] <- "Abril"
+ vendas$Mês[vendas$Mês == "5"] <- "Maio"
+ vendas$Mês[vendas$Mês == "6"] <- "Junho"
+ vendas$Mês[vendas$Mês == "7"] <- "Julho"
+ vendas$Mês[vendas$Mês == "8"] <- "Agosto"
+ vendas$Mês[vendas$Mês == "9"] <- "Setembro"
+ vendas$Mês[vendas$Mês == "10"] <- "Outubro"
+ vendas$Mês[vendas$Mês == "11"] <- "Novembro"
+ vendas$Mês[vendas$Mês == "12"] <- "Dezembro"
+
 # Faturamento anual por categoria
 
 vendaspc <- vendas %>% 
@@ -90,36 +91,24 @@ vendaspc <- vendas %>%
 
 #### GRAFICO DO FATURAMENTO ANUAL POR CATEGORIA
 
+mes_ordenado <- factor(vendaspc$Mês, levels = c("Janeiro", "Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"))
 
+ggplot(vendaspc, aes(x = mes_ordenado, y = faturamento, group = Category, colour = Category)) +
+  geom_line(size = 1) + geom_point(size = 2) +
+  scale_colour_manual(name = "Categoria", values = c("#A11D21", "#003366", "#CC9900")) +
+  labs(x = "Mês", y = "Faturamento (em milhares de reais)") +
+  theme_bw() +
+  theme(
+    axis.title.y = element_text(colour = "black", size = 12),
+    axis.title.x = element_text(colour = "black", size = 12),
+    axis.text.x = element_text(angle = 45, hjust = 1),  
+    axis.text.y = element_text(colour = "black", size = 9.5),
+    panel.border = element_blank(),
+    axis.line = element_line(colour = "black")
+  ) +
+  ylim(0, 3000) +
+  theme(legend.position = "top")
 
-
-
-
-
-
-
-
-
-# 
-vendaspc_ordenado <- factor(vendaspc$Category, levels = c("Moda Masculina", "Moda Feminina", "Moda Infantil"))
-
-meanpc <- c(11674, 12790, 10945)
-
-ggplot(vendaspc) +
-  aes(x = vendaspc_ordenado, y = faturamento) +
-  geom_col(position = position_dodge2(preserve = "single", padding = 0), fill = "#A11D21") +
-  labs(x = "CATEGORIA", y = "FATURAMENTO ANO 2022")+
-  geom_text(
-    aes(label = meanpc),
-    vjust = -0.5,
-    colour = "black", 
-    position = position_dodge(width=0.9),
-    fontface = "bold",
-    size=3,
-    angle = 0,
-    hjust = 0.5) + 
-  ylim(0, 15000) +
-  theme_bw()
 
 kruskal.test(Category ~ faturamento, data = vendaspc)
 
@@ -177,7 +166,6 @@ ggplot(vendascm) +
   ylim(0, 80) +
   scale_fill_manual(values = c("#A11D21","#003366")) +
   theme_bw()
-
 
 # RELAÇÃO ENTRE PREÇO E AVALIAÇÃO
 
