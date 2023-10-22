@@ -118,6 +118,7 @@ vendas$Brand <- as.factor(vendas$Brand)
 vendaspm <- vendas %>% 
   filter(Brand == "Adidas" | Brand == "Gucci" | Brand == "H&M" | Brand == "Nike" | Brand == "Zara")
 #### GRAFICO DE BOXPLOT PREÇO/MARCA
+
 ggplot(vendaspm, aes(x=Price, y=Brand)) +
   geom_boxplot(fill=c("#A11D21"), width = 0.5) +
   guides(fill=FALSE) +
@@ -184,6 +185,7 @@ ggplot(vendas, aes(x = Price, y = Rating)) +
   )
 
 #### teste de correlação de pearson
+
 cor.test(vendas$Price, vendas$Rating, method = "pearson")
 
 # FREQUÊNCIA DE CADA TIPO DE DEVOLUÇÃO POR MARCA
