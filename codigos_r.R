@@ -1,10 +1,35 @@
 library(readr)
 vendas <- read_csv("bancos/vendas.csv")
 View(vendas)
-devolução <- read_csv("bancos/devolução.csv")
+devolução <- read_csv("bancos/devolução_atualizado.csv")
 View(devolução)
 library(tidyverse)
 library(lubridates)
+
+cores_estat <- c("#A11D21", "#003366", "#CC9900", "#663333", "#FF6600", "#CC9966", "#999966", "#006606", "#008091", "#041835", "#666666")
+
+theme_estat <- function(...) {
+  theme <- ggplot2::theme_bw() +
+    ggplot2::theme(
+      axis.title.y = ggplot2::element_text(colour = "black", size = 12),
+      axis.title.x = ggplot2::element_text(colour = "black", size = 12),
+      axis.text = ggplot2::element_text(colour = "black", size = 9.5),
+      panel.border = ggplot2::element_blank(),
+      axis.line = ggplot2::element_line(colour = "black"),
+      legend.position = "top",
+      ...
+    )
+  
+  return(
+    list(
+      theme,
+      scale_fill_manual(values = cores_estat),
+      scale_colour_manual(values = cores_estat)
+    )
+  )
+}
+
+
 # descobrindo quais os valores das variaveis
 
 ### product name
@@ -122,15 +147,10 @@ vendaspm <- vendas %>%
 ggplot(vendaspm, aes(x=Price, y=Brand)) +
   geom_boxplot(fill=c("#A11D21"), width = 0.5) +
   guides(fill=FALSE) +
-  stat_summary(fun.y="mean", geom="point", shape=22, size=3, fill="white")+
+  stat_summary(fun ="mean", geom="point", shape=23, size=3, fill="white")+
   coord_flip() +
   labs(x="PREÇO", y="MARCA")+
-  theme_bw() +
-  theme(axis.title.y=element_text(colour="black", size=12),
-        axis.title.x = element_text(colour="black", size=12),
-        axis.text = element_text(colour = "black", size=9.5),
-        panel.border = element_blank(),
-        axis.line.y = element_line(colour = "black")) 
+  theme_estat()
 
 #### teste de correlaçao de kruskal wallis
 
@@ -144,11 +164,12 @@ vendascm <- vendas %>%
   summarise(freq = n()) %>%
   mutate(freq_relativa = round((freq/sum(freq))*100, 2))
 
+
 #### GRAFICO DE COLUNAS CATEGORIA/MARCA
 
 names(vendascm)[names(vendascm) == "Category"] <- "Categoria"
 
-meanTLE <- c(76, 73, 63, 74, 66, 71, 60, 62, 74, 76)
+meanTLE <- c(76, 73, 63, 74, 66, 71, 60, 62, 73, 76)
 
 ggplot(vendascm) +
   aes(x = Brand, y = freq,
@@ -157,6 +178,38 @@ ggplot(vendascm) +
   labs(x = "MARCA", y = "FREQUÊNCIA ABSOLUTA")+
   geom_text(
     aes(label = meanTLE),
+    vjust = -0.5,
+    colour = "black", 
+    position = position_dodge(width=0.9),
+    fontface = "bold",
+    size=3,
+    angle = 0,
+    hjust = 0.5) + 
+  ylim(0, 80) +
+  scale_fill_manual(values = c("#A11D21","#003366")) +
+  theme_bw()
+
+#### grafico dos produtos não devolvidos
+
+vendascmsd <- vendas %>% 
+  filter(Category == "Moda Masculina" | Category == "Moda Feminina") %>% 
+  filter(Brand != " ") %>%
+  filter(`Motivo devolução` == "Não devolvido") %>% 
+  group_by(Category, Brand) %>%
+  summarise(freq = n()) %>%
+  mutate(freq_relativa = round((freq/sum(freq))*100, 2))
+
+names(vendascmsd)[names(vendascmsd) == "Category"] <- "Categoria"
+
+meanTLEsd <- c(50, 50, 41, 45, 40, 45, 42, 44, 40, 49)
+
+ggplot(vendascmsd) +
+  aes(x = Brand, y = freq,
+      fill = Categoria) +
+  geom_col(position = position_dodge2(preserve = "single", padding = 0)) +
+  labs(x = "MARCA", y = "FREQUÊNCIA ABSOLUTA")+
+  geom_text(
+    aes(label = meanTLEsd),
     vjust = -0.5,
     colour = "black", 
     position = position_dodge(width=0.9),
