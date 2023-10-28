@@ -149,33 +149,38 @@ ggplot(vendaspm, aes(x=Price, y=Brand)) +
   guides(fill=FALSE) +
   stat_summary(fun ="mean", geom="point", shape=23, size=3, fill="white")+
   coord_flip() +
-  labs(x="PREÇO", y="MARCA")+
+  labs(x="PREÇO EM REAIS", y="MARCA")+
   theme_estat()
 
+
+vendas_teses <- filter(vendas, Brand == "Zara")
+sd(vendas_teses$Price, na.rm = T)
+summary(vendas_teses$Price)
 #### teste de correlaçao de kruskal wallis
 
 kruskal.test(Price ~ Brand, data = vendas)
 
-# RELAÇÃO ENTRE CATEGORIA E MARCA
+# RELAÇÃO ENTRE CATEGORIA E COR
 vendascm <- vendas %>% 
   filter(Category == "Moda Masculina" | Category == "Moda Feminina") %>% 
-  filter(Brand != " ") %>%  
-  group_by(Category, Brand) %>%
+  filter(Color != " ") %>%  
+  group_by(Category, Color) %>%
   summarise(freq = n()) %>%
   mutate(freq_relativa = round((freq/sum(freq))*100, 2))
 
 
-#### GRAFICO DE COLUNAS CATEGORIA/MARCA
+#### GRAFICO DE COLUNAS CATEGORIA COR
 
 names(vendascm)[names(vendascm) == "Category"] <- "Categoria"
-
-meanTLE <- c(76, 73, 63, 74, 66, 71, 60, 62, 73, 76)
+names(vendascm)[names(vendascm) == "Color"] <- "Cor"
+meanTLE <- c(67, 62, 67, 43, 59, 58, 51, 61, 71, 54, 58, 49)
 
 ggplot(vendascm) +
-  aes(x = Brand, y = freq,
-      fill = Categoria) +
+  aes(x = Categoria, y = freq,
+      fill = Cor) +
   geom_col(position = position_dodge2(preserve = "single", padding = 0)) +
-  labs(x = "MARCA", y = "FREQUÊNCIA ABSOLUTA")+
+  labs(x = "Categoria", y = "FREQUÊNCIA ABSOLUTA") +
+  scale_colour_manual(name = "Cor", values = c("yellow", "blue", "white", "black", "green", "red")) +
   geom_text(
     aes(label = meanTLE),
     vjust = -0.5,
@@ -186,9 +191,15 @@ ggplot(vendascm) +
     angle = 0,
     hjust = 0.5) + 
   ylim(0, 80) +
-  scale_fill_manual(values = c("#A11D21","#003366")) +
-  theme_bw()
-
+  theme_bw() +
+  theme(
+    axis.title.y = element_text(colour = "black", size = 12),
+    axis.title.x = element_text(colour = "black", size = 12),
+    axis.text.x = element_text(angle = 45, hjust = 1),  
+    axis.text.y = element_text(colour = "black", size = 9.5),
+    panel.border = element_blank(),
+    axis.line = element_line(colour = "black")
+  ) +
 #### grafico dos produtos não devolvidos
 
 vendascmsd <- vendas %>% 
@@ -271,3 +282,28 @@ ggplot(vendasmd) +
   theme_bw()
 
 kruskal.test(Brand ~ `Motivo devolução`,data = vendas)
+
+
+
+
+
+
+
+
+
+ggplot(vendascm, aes())
+
+
+
+
+
+
+ggplot(mpg) +
+  aes(x=cty) +
+  geom_histogram(colour="white", fill="#A11D21", binwidth=7)+
+  facet_wrap(class ~ .) +
+  labs(x="Consumo em Cidade (milhas/galão)", y="Frequência") +
+  theme_estat(
+    strip.text = element_text(size=12),
+    strip.background = element_rect(colour="black", fill="white")
+  )
