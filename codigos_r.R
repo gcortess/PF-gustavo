@@ -175,12 +175,11 @@ names(vendascm)[names(vendascm) == "Category"] <- "Categoria"
 names(vendascm)[names(vendascm) == "Color"] <- "Cor"
 meanTLE <- c(67, 62, 67, 43, 59, 58, 51, 61, 71, 54, 58, 49)
 
-ggplot(vendascm) +
-  aes(x = Categoria, y = freq,
-      fill = Cor) +
+ggplot(vendascm, aes(x = Categoria, y = freq,
+      fill = Cor)) +
   geom_col(position = position_dodge2(preserve = "single", padding = 0)) +
   labs(x = "Categoria", y = "FREQUÊNCIA ABSOLUTA") +
-  scale_colour_manual(name = "Cor", values = c("yellow", "blue", "white", "black", "green", "red")) +
+  scale_fill_manual(name = "Cor", values = c("#CC9900", "#003366", "grey", "black", "#006606", "#A11D21")) +
   geom_text(
     aes(label = meanTLE),
     vjust = -0.5,
@@ -195,11 +194,11 @@ ggplot(vendascm) +
   theme(
     axis.title.y = element_text(colour = "black", size = 12),
     axis.title.x = element_text(colour = "black", size = 12),
-    axis.text.x = element_text(angle = 45, hjust = 1),  
     axis.text.y = element_text(colour = "black", size = 9.5),
     panel.border = element_blank(),
     axis.line = element_line(colour = "black")
   ) +
+  theme(legend.position = "top")
 #### grafico dos produtos não devolvidos
 
 vendascmsd <- vendas %>% 
@@ -282,28 +281,3 @@ ggplot(vendasmd) +
   theme_bw()
 
 kruskal.test(Brand ~ `Motivo devolução`,data = vendas)
-
-
-
-
-
-
-
-
-
-ggplot(vendascm, aes())
-
-
-
-
-
-
-ggplot(mpg) +
-  aes(x=cty) +
-  geom_histogram(colour="white", fill="#A11D21", binwidth=7)+
-  facet_wrap(class ~ .) +
-  labs(x="Consumo em Cidade (milhas/galão)", y="Frequência") +
-  theme_estat(
-    strip.text = element_text(size=12),
-    strip.background = element_rect(colour="black", fill="white")
-  )
