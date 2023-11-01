@@ -30,6 +30,7 @@ theme_estat <- function(...) {
 }
 
 
+
 # descobrindo quais os valores das variaveis
 
 ### product name
@@ -80,10 +81,13 @@ vendas$Size[vendas$Size == "S"] <- "P"
 vendas$Size[vendas$Size == "XL"] <- "GG"
 vendas$Size <- as.factor(vendas$Size)
 
-### Motivo devolução (trocando os NA's para não devolvidos)
-
+### REMOVENDO OS DADOS ANTIGOS DA DEVOLUÇÃO, COLOCANDO A NOVA, REMOVENDO OS NA's E TIRANDO OS ITENS DUPLICADOS
+vendas <- vendas %>% 
+  distinct(`Product ID`, .keep_all = TRUE)
+vendas <- vendas[, !names(vendas) %in% "Motivo devolução"]
 vendas <- vendas %>%
-  mutate(`Motivo devolução` = ifelse(is.na(`Motivo devolução`), "Não devolvido", `Motivo devolução`))
+  left_join(devolução, by = "Unique ID")
+vendas$`Motivo devolução` <- ifelse(is.na(vendas$`Motivo devolução`), "Não devolvido", vendas$`Motivo devolução`)
 
 ### Data
 
@@ -131,11 +135,8 @@ ggplot(vendaspc, aes(x = mes_ordenado, y = faturamento, group = Category, colour
     panel.border = element_blank(),
     axis.line = element_line(colour = "black")
   ) +
-  ylim(0, 3000) +
+  ylim(0, 2500) +
   theme(legend.position = "top")
-
-
-kruskal.test(Category ~ faturamento, data = vendaspc)
 
 # VARIAÇÃO DE PREÇO POR MARCA
 
@@ -149,18 +150,15 @@ ggplot(vendaspm, aes(x=Price, y=Brand)) +
   guides(fill=FALSE) +
   stat_summary(fun ="mean", geom="point", shape=23, size=3, fill="white")+
   coord_flip() +
-  labs(x="PREÇO EM REAIS", y="MARCA")+
+  labs(x="Preço em reais", y="Marca")+
   theme_estat()
 
-
-vendas_teses <- filter(vendas, Brand == "Zara")
+vendas_teses <- filter(vendas, Brand == "Nike")
 sd(vendas_teses$Price, na.rm = T)
 summary(vendas_teses$Price)
-#### teste de correlaçao de kruskal wallis
-
-kruskal.test(Price ~ Brand, data = vendas)
 
 # RELAÇÃO ENTRE CATEGORIA E COR
+
 vendascm <- vendas %>% 
   filter(Category == "Moda Masculina" | Category == "Moda Feminina") %>% 
   filter(Color != " ") %>%  
@@ -173,13 +171,12 @@ vendascm <- vendas %>%
 
 names(vendascm)[names(vendascm) == "Category"] <- "Categoria"
 names(vendascm)[names(vendascm) == "Color"] <- "Cor"
-meanTLE <- c(67, 62, 67, 43, 59, 58, 51, 61, 71, 54, 58, 49)
+meanTLE <- c(64, 55, 58, 40, 54, 51, 49, 55, 64, 50, 47, 45)
 
-ggplot(vendascm, aes(x = Categoria, y = freq,
-      fill = Cor)) +
+ggplot(vendascm, aes(x = Cor, y = freq,
+                     fill = Categoria)) +
   geom_col(position = position_dodge2(preserve = "single", padding = 0)) +
   labs(x = "Categoria", y = "FREQUÊNCIA ABSOLUTA") +
-  scale_fill_manual(name = "Cor", values = c("#CC9900", "#003366", "grey", "black", "#006606", "#A11D21")) +
   geom_text(
     aes(label = meanTLE),
     vjust = -0.5,
@@ -190,7 +187,7 @@ ggplot(vendascm, aes(x = Categoria, y = freq,
     angle = 0,
     hjust = 0.5) + 
   ylim(0, 80) +
-  theme_bw() +
+  theme_estat() +
   theme(
     axis.title.y = element_text(colour = "black", size = 12),
     axis.title.x = element_text(colour = "black", size = 12),
@@ -199,37 +196,10 @@ ggplot(vendascm, aes(x = Categoria, y = freq,
     axis.line = element_line(colour = "black")
   ) +
   theme(legend.position = "top")
-#### grafico dos produtos não devolvidos
 
-vendascmsd <- vendas %>% 
-  filter(Category == "Moda Masculina" | Category == "Moda Feminina") %>% 
-  filter(Brand != " ") %>%
-  filter(`Motivo devolução` == "Não devolvido") %>% 
-  group_by(Category, Brand) %>%
-  summarise(freq = n()) %>%
-  mutate(freq_relativa = round((freq/sum(freq))*100, 2))
 
-names(vendascmsd)[names(vendascmsd) == "Category"] <- "Categoria"
-
-meanTLEsd <- c(50, 50, 41, 45, 40, 45, 42, 44, 40, 49)
-
-ggplot(vendascmsd) +
-  aes(x = Brand, y = freq,
-      fill = Categoria) +
-  geom_col(position = position_dodge2(preserve = "single", padding = 0)) +
-  labs(x = "MARCA", y = "FREQUÊNCIA ABSOLUTA")+
-  geom_text(
-    aes(label = meanTLEsd),
-    vjust = -0.5,
-    colour = "black", 
-    position = position_dodge(width=0.9),
-    fontface = "bold",
-    size=3,
-    angle = 0,
-    hjust = 0.5) + 
-  ylim(0, 80) +
-  scale_fill_manual(values = c("#A11D21","#003366")) +
-  theme_bw()
+tabela <- table(vendas$Category, vendas$Color)
+chisq.test(tabela)
 
 # RELAÇÃO ENTRE PREÇO E AVALIAÇÃO
 
@@ -260,7 +230,7 @@ vendasmd <- vendas %>%
   summarise(freq = n()) %>%
   mutate(freq_relativa = round((freq/sum(freq))*100, 2))
 
-meanTMD <- c(20, 24,19,39,34, 28,26,22,28,20,30,20,27,29,20)
+meanTMD <- c(24, 20, 20, 35, 20, 19, 21, 15 , 28, 27, 25, 21, 28, 17, 23)
 
 ggplot(vendasmd) +
   aes(x = Brand, y = freq,
@@ -279,5 +249,3 @@ ggplot(vendasmd) +
   ylim(0, 40) +
   scale_fill_manual(values = c("#A11D21","#003366", "#CC9900")) +
   theme_bw()
-
-kruskal.test(Brand ~ `Motivo devolução`,data = vendas)
