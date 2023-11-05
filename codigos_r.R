@@ -203,11 +203,9 @@ chisq.test(tabela)
 
 # RELAÇÃO ENTRE PREÇO E AVALIAÇÃO
 
-modelo_regressao <- lm(Rating ~ Price, data = vendas)
 ggplot(vendas, aes(x = Price, y = Rating)) +
   geom_point(colour = "#A11D21", size = 2) +
-  geom_abline(intercept = coef(modelo_regressao)[1], slope = coef(modelo_regressao)[2], color = "Black") +
-  labs(x = "PREÇO", y = "AVALIAÇÃO") +
+  labs(x = "Preço", y = "Avaliação") +
   theme_bw() +
   theme(
     axis.title.y = element_text(colour = "black", size = 12),
