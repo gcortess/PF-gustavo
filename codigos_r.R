@@ -215,6 +215,7 @@ ggplot(vendas, aes(x = Price, y = Rating)) +
     axis.line = element_line(colour = "black")
   )
 
+
 #### teste de correlação de pearson
 
 cor.test(vendas$Price, vendas$Rating, method = "pearson")
@@ -226,7 +227,15 @@ vendasmd <- vendas %>%
   filter(`Motivo devolução` != "Não devolvido") %>%  
   group_by(`Motivo devolução`, Brand) %>%
   summarise(freq = n()) %>%
-  mutate(freq_relativa = round((freq/sum(freq))*100, 2))
+  mutate(
+    freq_relativa = scales::percent(freq / sum(freq))
+  )
+
+vendasmd$freq_relativa <- as.character(vendasmd$freq_relativa)
+
+
+vendasmd <- vendasmd %>% 
+  ungroup()
 
 meanTMD <- c(24, 20, 20, 35, 20, 19, 21, 15 , 28, 27, 25, 21, 28, 17, 23)
 
@@ -234,7 +243,7 @@ ggplot(vendasmd) +
   aes(x = Brand, y = freq,
       fill = `Motivo devolução`) +
   geom_col(position = position_dodge2(preserve = "single", padding = 0)) +
-  labs(x = "MARCA", y = "FREQUÊNCIA ABSOLUTA")+
+  labs(x = "Marca", y = "Frequência absoluta")+
   geom_text(
     aes(label = meanTMD),
     vjust = -0.5,
@@ -247,3 +256,4 @@ ggplot(vendasmd) +
   ylim(0, 40) +
   scale_fill_manual(values = c("#A11D21","#003366", "#CC9900")) +
   theme_bw()
+
