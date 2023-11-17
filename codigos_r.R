@@ -153,9 +153,9 @@ ggplot(vendaspm, aes(x=Price, y=Brand)) +
   labs(x="Preço em reais", y="Marca")+
   theme_estat()
 
-vendas_teses <- filter(vendas, Brand == "Nike")
-sd(vendas_teses$Price, na.rm = T)
-summary(vendas_teses$Price)
+vendas_teses <- filter(vendas, Brand == "Zara")
+mean(vendas_teses$Rating, na.rm = T)
+
 
 # RELAÇÃO ENTRE CATEGORIA E COR
 
@@ -256,4 +256,5 @@ ggplot(vendasmd) +
   ylim(0, 40) +
   scale_fill_manual(values = c("#A11D21","#003366", "#CC9900")) +
   theme_bw()
+
 
