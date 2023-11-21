@@ -203,7 +203,7 @@ vendascmt <- subset(vendascmt, !is.na(Color))
 
 tabela <- table(vendascmt$Category, vendascmt$Color)
 view(tabela)
-
+chisq.test(tabela)
 # RELAÇÃO ENTRE PREÇO E AVALIAÇÃO
 
 ggplot(vendas, aes(x = Price, y = Rating)) +
