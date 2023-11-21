@@ -112,15 +112,15 @@ vendas$Mês <- as.character(vendas$Mês)
 
 vendaspc <- vendas %>% 
   filter(Mês != " ") %>% 
-  filter(`Motivo devolução` == "Não devolvido") %>% 
   filter(Price != " ") %>% 
   filter(Category != " ") %>%  
   group_by(Category, Mês) %>%
   summarise(faturamento = sum(Price))
 
+
 #### GRAFICO DO FATURAMENTO ANUAL POR CATEGORIA
 
-mes_ordenado <- factor(vendaspc$Mês, levels = c("Janeiro", "Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"))
+mes_ordenado <- factor(vendas_pc$Mês, levels = c("Janeiro", "Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"))
 
 ggplot(vendaspc, aes(x = mes_ordenado, y = faturamento, group = Category, colour = Category)) +
   geom_line(size = 1) + geom_point(size = 2) +
@@ -135,7 +135,7 @@ ggplot(vendaspc, aes(x = mes_ordenado, y = faturamento, group = Category, colour
     panel.border = element_blank(),
     axis.line = element_line(colour = "black")
   ) +
-  ylim(0, 2500) +
+  ylim(0,4000) +
   theme(legend.position = "top")
 
 # VARIAÇÃO DE PREÇO POR MARCA
@@ -164,42 +164,45 @@ vendascm <- vendas %>%
   filter(Color != " ") %>%  
   group_by(Category, Color) %>%
   summarise(freq = n()) %>%
-  mutate(freq_relativa = round((freq/sum(freq))*100, 2))
-
-
-#### GRAFICO DE COLUNAS CATEGORIA COR
+  mutate(
+    freq_relativa = scales::percent(freq / sum(freq))
+    )
 
 names(vendascm)[names(vendascm) == "Category"] <- "Categoria"
 names(vendascm)[names(vendascm) == "Color"] <- "Cor"
-meanTLE <- c(64, 55, 58, 40, 54, 51, 49, 55, 64, 50, 47, 45)
 
-ggplot(vendascm, aes(x = Cor, y = freq,
+
+ggplot(vendascm, aes(x = fct_reorder(Cor, freq, .desc=F), y = freq,
                      fill = Categoria)) +
   geom_col(position = position_dodge2(preserve = "single", padding = 0)) +
-  labs(x = "Categoria", y = "FREQUÊNCIA ABSOLUTA") +
+  labs(x = "Cor", y = "Frequência absoluta e relativa") +
   geom_text(
-    aes(label = meanTLE),
-    vjust = -0.5,
+    aes(label = paste(freq, " (", freq_relativa, ")", sep = "")),
+    vjust = 0.4,
     colour = "black", 
-    position = position_dodge(width=0.9),
+    position = position_dodge(width=1),
     fontface = "bold",
     size=3,
     angle = 0,
-    hjust = 0.5) + 
+    hjust = -0.1) + 
   ylim(0, 80) +
   theme_estat() +
-  theme(
-    axis.title.y = element_text(colour = "black", size = 12),
-    axis.title.x = element_text(colour = "black", size = 12),
-    axis.text.y = element_text(colour = "black", size = 9.5),
-    panel.border = element_blank(),
-    axis.line = element_line(colour = "black")
-  ) +
+  coord_flip() +
   theme(legend.position = "top")
 
+vendascmt <- vendas %>% 
+  filter(Category != "Moda Infantil") %>% 
+  filter(Category != " ") %>% 
+  filter(Color != " ")
 
-tabela <- table(vendas$Category, vendas$Color)
-chisq.test(tabela)
+vendascmt <- vendas %>% 
+  filter(Category != "Moda Infantil")
+
+vendascmt <- subset(vendascmt, !is.na(Category))
+vendascmt <- subset(vendascmt, !is.na(Color))
+
+tabela <- table(vendascmt$Category, vendascmt$Color)
+view(tabela)
 
 # RELAÇÃO ENTRE PREÇO E AVALIAÇÃO
 
@@ -228,33 +231,25 @@ vendasmd <- vendas %>%
   group_by(`Motivo devolução`, Brand) %>%
   summarise(freq = n()) %>%
   mutate(
-    freq_relativa = scales::percent(freq / sum(freq))
+    freq_relativa = scales::percent((freq / sum(freq)))
   )
-
-vendasmd$freq_relativa <- as.character(vendasmd$freq_relativa)
-
-
-vendasmd <- vendasmd %>% 
-  ungroup()
-
-meanTMD <- c(24, 20, 20, 35, 20, 19, 21, 15 , 28, 27, 25, 21, 28, 17, 23)
-
+  
 ggplot(vendasmd) +
-  aes(x = Brand, y = freq,
+  aes(x = fct_reorder(Brand, freq, .desc = F), y = freq,
       fill = `Motivo devolução`) +
   geom_col(position = position_dodge2(preserve = "single", padding = 0)) +
-  labs(x = "Marca", y = "Frequência absoluta")+
   geom_text(
-    aes(label = meanTMD),
-    vjust = -0.5,
+    aes(label = paste(freq, " (", freq_relativa, ")", sep = "")),
+    vjust = 0.4,
     colour = "black", 
     position = position_dodge(width=1),
     fontface = "bold",
     size=3,
     angle = 0,
-    hjust = 0.5) + 
+    hjust = -0.1) + 
+  labs(x = "Marca", y = "Frequência absoluta e relativa") +
   ylim(0, 40) +
-  scale_fill_manual(values = c("#A11D21","#003366", "#CC9900")) +
-  theme_bw()
+  theme_estat() +
+  coord_flip()
 
 
