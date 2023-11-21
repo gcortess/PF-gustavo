@@ -191,15 +191,10 @@ ggplot(vendascm, aes(x = fct_reorder(Cor, freq, .desc=F), y = freq,
   theme(legend.position = "top")
 
 vendascmt <- vendas %>% 
+  select(Category, Color) %>% 
   filter(Category != "Moda Infantil") %>% 
   filter(Category != " ") %>% 
-  filter(Color != " ")
-
-vendascmt <- vendas %>% 
-  filter(Category != "Moda Infantil")
-
-vendascmt <- subset(vendascmt, !is.na(Category))
-vendascmt <- subset(vendascmt, !is.na(Color))
+  filter(Color != " ") 
 
 tabela <- table(vendascmt$Category, vendascmt$Color)
 view(tabela)
