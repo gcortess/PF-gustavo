@@ -196,6 +196,9 @@ vendascmt <- vendas %>%
   filter(Category != " ") %>% 
   filter(Color != " ") 
 
+vendascmt <- vendascmt %>% 
+  mutate(Category = droplevels(Category, exclude = "Moda Infantil"))
+
 tabela <- table(vendascmt$Category, vendascmt$Color)
 view(tabela)
 chisq.test(tabela)
@@ -246,5 +249,15 @@ ggplot(vendasmd) +
   ylim(0, 40) +
   theme_estat() +
   coord_flip()
+
+# analise 6
+
+vendas6 <- vendas %>% 
+  filter(Brand != " ") %>% 
+  filter(Rating != " ") %>%  
+  group_by(Rating, Brand)
+
+
+
 
 
